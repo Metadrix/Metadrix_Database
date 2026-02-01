@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "common"
+  ],
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}

@@ -1,0 +1,594 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1768547295888,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1768547295888,
+          "path": "📁 Explore.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1768547309083,
+          "items": [],
+          "title": "📄Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1768547629928,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1768658138207,
+              "path": "🧬Templates/🧬Templates.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "🧬Templates"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1769028609109,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769028609109,
+                  "path": "💻Computing/Computer Science/Computer Science.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Computer Science"
+            },
+            {
+              "type": "group",
+              "ctime": 1769028615144,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769028615144,
+                  "path": "💻Computing/Large Language Models/Large Language Models.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Large Language Models"
+            },
+            {
+              "type": "group",
+              "ctime": 1769518977162,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769518977162,
+                  "path": "💻Computing/Web Development/Web Development.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1769670300330,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1769670300330,
+                      "path": "💻Computing/Web Development/CSS/CSS.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1769671047097,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1769671047097,
+                          "path": "💻Computing/Web Development/CSS/Units/Units.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1769671185878,
+                          "path": "💻Computing/Web Development/CSS/Units/Absolute Units.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1769671182132,
+                          "path": "💻Computing/Web Development/CSS/Units/Relative Units.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Units"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1769679659573,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1769679659573,
+                          "path": "💻Computing/Web Development/CSS/Font/Font.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Font"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1769755779145,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1769755824955,
+                          "path": "💻Computing/Web Development/CSS/Properties/Properties.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1769681860080,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1769681860080,
+                              "path": "💻Computing/Web Development/CSS/Properties/display/display.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "\\\\display"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1769755906233,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1769755906233,
+                              "path": "💻Computing/Web Development/CSS/Properties/height/height.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "height"
+                        }
+                      ],
+                      "title": "Properties"
+                    }
+                  ],
+                  "title": "CSS"
+                }
+              ],
+              "title": "Web Development"
+            }
+          ],
+          "title": "💻Computing"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741441350,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1768549547717,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1768649926598,
+                  "path": "🚀Engineering/Mechanical Engineering/Mechanical Engineering.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768550026868,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768550026868,
+                      "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Design of Machine Elements.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768551680652,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768551680652,
+                          "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Welding and Permanent Joints/Welding and Permanent Joints.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768551759118,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768551759118,
+                              "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Welding and Permanent Joints/Fillet Joints/Fillet Joints.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "Fillet Joints"
+                        }
+                      ],
+                      "title": "Welding and Permanent Joints"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768550780057,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768550780057,
+                          "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Screws, Fasteners, and the Design of Non-permanent Joints.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768550793434,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768550793434,
+                              "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Bolted Joints under Eccentric Loading/Bolted & Riveted Joints under Eccentric Loading.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "Bolted Joints under Eccentric Loading"
+                        }
+                      ],
+                      "title": "\\\\Screws, Fasteners, and the Design of Non-permanent Joints"
+                    }
+                  ],
+                  "title": "Design of Machine Elements"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768552360975,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768552360975,
+                      "path": "🚀Engineering/Mechanical Engineering/Engines, Motors & Mobility/Engines, Motors & Mobility.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768552574587,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768552574587,
+                          "path": "🚀Engineering/Mechanical Engineering/Engines, Motors & Mobility/Engine/Engine.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768552583700,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768552583700,
+                              "path": "🚀Engineering/Mechanical Engineering/Engines, Motors & Mobility/Engine/Reciprocating Engine/Reciprocating Engine.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "Reciprocating Engine"
+                        }
+                      ],
+                      "title": "Engine"
+                    }
+                  ],
+                  "title": "Engines, Motors & Mobility"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768557264127,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768557264127,
+                      "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Manufacturing Management.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768558463652,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768558463652,
+                          "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Inventory Management/Inventory Management.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Inventory Management"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768558718812,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768558718812,
+                          "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Planning Facilities/Planning Facilities.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768557893897,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768557893898,
+                              "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Planning Facilities/Product Layouts/Product Layouts.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "\\\\Product Layouts"
+                        }
+                      ],
+                      "title": "Planning Facilities"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768558960169,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768558964079,
+                          "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Forecasting Methods/Forecasting Methods.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768558212519,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768558212519,
+                              "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Forecasting Methods/Quantitative Methods/Quantitative Methods.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "\\\\Quantitative Methods"
+                        }
+                      ],
+                      "title": "Forecasting Methods"
+                    }
+                  ],
+                  "title": "Manufacturing Management"
+                }
+              ],
+              "title": "Mechanical Engineering"
+            }
+          ],
+          "title": "🚀Engineering"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "🧠Sciences"
+        },
+        {
+          "type": "group",
+          "ctime": 1769182781069,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1769671579429,
+              "path": "📈Trading & Finance/Trading and Finance.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1769945079556,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769945079556,
+                  "path": "📈Trading & Finance/Case studies/Case studies.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Case studies"
+            },
+            {
+              "type": "group",
+              "ctime": 1769945086649,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769945086650,
+                  "path": "📈Trading & Finance/Concepts/Concepts.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Concepts"
+            }
+          ],
+          "title": "📈Trading & Finance"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "愛Natural Languages"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741520632,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1768728178966,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1768728178966,
+                  "path": "👩🏻‍💻Software & Tools/Linux/Linux.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "\\\\Linux"
+            },
+            {
+              "type": "group",
+              "ctime": 1768727671282,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1768727671282,
+                  "path": "👩🏻‍💻Software & Tools/Obsidian/Obsidian.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "\\\\Obsidian"
+            },
+            {
+              "type": "group",
+              "ctime": 1769518618782,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769518618782,
+                  "path": "👩🏻‍💻Software & Tools/Web Development/Web Development.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Web Development"
+            }
+          ],
+          "title": "👩🏻‍💻Software & Tools"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1769156107913,
+              "path": "🤖Projects/Projects.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1768820008308,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1768820496048,
+                  "path": "🤖Projects/Brewster Angle Microscope/Brewster Angle Microscope.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768820008308,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768820008308,
+                      "path": "🤖Projects/Brewster Angle Microscope/Available Industrial Products/Available Industrial Products.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "\\\\Available Industrial Products"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768998464507,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768998464507,
+                      "path": "🤖Projects/Brewster Angle Microscope/INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM/INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM"
+                }
+              ],
+              "title": "Brewster Angle Microscope"
+            },
+            {
+              "type": "group",
+              "ctime": 1769156042962,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769156042962,
+                  "path": "🤖Projects/Heat Exchanger/Heat Exchanger.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Heat Exchanger"
+            }
+          ],
+          "title": "🤖Projects"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1769067109557,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769067133676,
+                  "path": "🏠Personal/Interview/Interview.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1769067109557,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1769067109557,
+                      "path": "🏠Personal/Interview/Priyanshi/Priyanshi Interview Prep.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "\\\\Priyanshi"
+                }
+              ],
+              "title": "Interview"
+            },
+            {
+              "type": "group",
+              "ctime": 1769097831545,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769097831545,
+                  "path": "🏠Personal/Learnings/Learnings.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Learnings"
+            }
+          ],
+          "title": "🏠Personal"
+        },
+        {
+          "type": "group",
+          "ctime": 1769856985303,
+          "items": [],
+          "title": "📋Tasks"
+        },
+        {
+          "type": "file",
+          "ctime": 1768887664894,
+          "path": "Task list.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

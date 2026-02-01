@@ -1,0 +1,112 @@
+:root {
+    --imageCaption: lightgrey;
+    
+}
+
+.markdown-reading-view div[src$="#align-right"], .markdown-reading-view span[src$="#align-right"]{
+    display: table;
+    float: right;
+    clear: right;
+    padding: 0 0 0 1rem;
+    margin: 0;
+    /* background-color: red; */
+}
+
+.markdown-reading-view div[src$="#align-right"] img, .markdown-reading-view span[src$="#align-right"] img{
+    display: table-row;
+    padding: 0;
+    margin: 0;
+}
+
+.markdown-reading-view div[src$="#align-right"]:not([alt*="align-right"])::after, .markdown-reading-view span[src$="#align-right"]:not([alt*="align-right"])::after {
+    content: attr(alt);
+    display: table-caption;
+    width: 100%;
+    caption-side: bottom;
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: var(--imageCaption);
+    text-align: center;
+    box-sizing: border-box;
+    word-break: break-word;
+    word-wrap: break-word;
+    /* background-color: pink; */
+}
+
+.markdown-reading-view div[src$="#align-left"], .markdown-reading-view span[src$="#align-left"]{
+    display: table;
+    float: left;
+    clear: left;
+    padding: 0 2rem 0 0;
+    margin: 0;
+    /* background-color: red; */
+}
+
+.markdown-reading-view div[src$="#align-left"] img, .markdown-reading-view span[src$="#align-left"] img{
+    display: table-row;
+    padding: 0;
+    margin: 0;
+}
+
+.markdown-reading-view div[src$="#align-left"]:not([alt*="align-left"])::after, .markdown-reading-view span[src$="#align-left"]:not([alt*="align-left"])::after {
+    content: attr(alt);
+    display: table-caption;
+    width: 100%;
+    caption-side: bottom;
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: var(--imageCaption);
+    text-align: center;
+    box-sizing: border-box;
+    word-break: break-word;
+    word-wrap: break-word;
+    /* background-color: pink; */
+}
+
+.markdown-reading-view div[src$="#align-center"], .markdown-reading-view span[src$="#align-center"]{
+    display: table;
+    margin: 0 auto;
+    padding: 0;
+    /* background-color: red; */
+}
+
+.markdown-reading-view div[src$="#align-center"] img, .markdown-reading-view span[src$="#align-center"] img{
+    display: table-row;
+    padding: 0;
+    margin: 0;
+}
+
+.markdown-reading-view div[src$="#align-center"]:not([alt*="align-center"])::after, .markdown-reading-view span[src$="#align-center"]:not([alt*="align-center"])::after {
+    content: attr(alt);
+    display: table-caption;
+    width: 100%;
+    caption-side: bottom;
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: var(--imageCaption);
+    text-align: center;
+    box-sizing: border-box;
+    word-break: break-word;
+    word-wrap: break-word;
+    /* background-color: pink; */
+}
+
+
+.markdown-source-view div[src$="#align-right"], .markdown-source-view span[src$="#align-right"] {
+    display: block;
+    width: fit-content;
+    place-self: end;
+    /* background-color: red; */
+}
+
+.markdown-source-view div[src$="#align-center"], .markdown-source-view span[src$="#align-center"], .markdown-source-view img[src$="#align-center"] {
+    display: inline-block;
+    width: fit-content;
+    place-self: center;
+}
+
+.markdown-source-view div[src$="#align-left"], .markdown-source-view span[src$="#align-left"], .markdown-source-view img[src$="#align-left"] {
+    display: inline-block;
+    width: fit-content;
+    place-self: start;
+}

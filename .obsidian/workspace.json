@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "50edb85c703d7fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b864ca6c26219373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b697b4089e54547e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78eef03a540cc61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc8641cebf82ced",
+        "type": "tabs",
+        "dimension": 63.03630363036304,
+        "children": [
+          {
+            "id": "621bc2700e7cceff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bdc3f542b9f6403f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#subject",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "704574e10fe19409",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c4a3018aeb357ea0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "pinned": true,
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
+          }
+        ]
+      },
+      {
+        "id": "827e9143c81b6bfa",
+        "type": "tabs",
+        "dimension": 36.96369636963696,
+        "children": [
+          {
+            "id": "42c6946cf5ce4fcb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "7c77064ba79e01f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "696a482881dbbd80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcba0d1513e534e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subjects/Mechanical Engineering/Manufacturing Management/Inventory Management/Economic Order Quantity (EOQ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Economic Order Quantity (EOQ)"
+            }
+          },
+          {
+            "id": "109e5ef07d1d298a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bb3fd79d24011d53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4a41e044ee06e061",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "28f29f5fd8cea70a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "random-note:Open random note": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "simple-sketch:Simple Sketch": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b697b4089e54547e",
+  "lastOpenFiles": [
+    "👩🏻‍💻Software & Tools/Obsidian/Obsidian.md",
+    "👩🏻‍💻Software & Tools/Obsidian/Github Sync.md",
+    "👩🏻‍💻Software & Tools/Obsidian/Installation.md",
+    "💻Computing/Computer Science/Computer Science.md",
+    "📈Trading & Finance/Concepts/Inflation.md",
+    "📈Trading & Finance/Concepts/Concepts.md",
+    "📈Trading & Finance/Concepts",
+    "📈Trading & Finance/Case studies/Japan.md",
+    "📈Trading & Finance/Case studies/Case studies.md",
+    "📈Trading & Finance/Case studies/AI Bubble.md",
+    "📈Trading & Finance/Case studies",
+    "🚀Engineering/Mechanical Engineering/Mechanical Engineering.md",
+    "👩🏻‍💻Software & Tools/Camera/Camera.md",
+    "👩🏻‍💻Software & Tools/Camera",
+    "📋Tasks/Metadrix Website.md",
+    "📋Tasks",
+    "💻Computing/Web Development/CSS/Properties/display/grid.md",
+    "💻Computing/Web Development/CSS/Font/Font size.md",
+    "💻Computing/Web Development/CSS/Properties/height/height.md",
+    "💻Computing/Web Development/CSS/Properties/display/display.md",
+    "💻Computing/Web Development/CSS/Properties/height",
+    "💻Computing/Web Development/CSS/Properties/Properties.md",
+    "💻Computing/Web Development/CSS/Properties",
+    "💻Computing/Web Development/CSS/CSS.md",
+    "💻Computing/Web Development/CSS/Properties/display",
+    "💻Computing/Web Development/CSS/Grid/Grid.md",
+    "💻Computing/Web Development/CSS/Units/Units.md",
+    "💻Computing/Web Development/CSS/Grid",
+    "💻Computing/Web Development/CSS/Units/viewport width (vw).md",
+    "💻Computing/Web Development/CSS/Font/Font.md",
+    "💻Computing/Web Development/CSS/Font",
+    "💻Computing/Web Development/CSS/Units/small viewport units (svh, svw).md",
+    "💻Computing/Web Development/CSS/Units/dynamic viewport units (dvh, dvw).md",
+    "💻Computing/Web Development/CSS/Units/root element (rem).md",
+    "💻Computing/Web Development/CSS/Device Pixel Ratio.md",
+    "💻Computing/Web Development/CSS/Units",
+    "🤖Projects/Heat Exchanger/Shivasheesh Sir - Spiral Coil Exchanger with Surface Inserts/Screenshot_20260123_145145.png",
+    "🤖Projects/Heat Exchanger/Shivasheesh Sir - Spiral Coil Exchanger with Surface Inserts/Heat Exchanger Schematic.png",
+    "🤖Projects/Heat Exchanger/Shivasheesh Sir - Spiral Coil Exchanger with Surface Inserts/Heat Exchanger Schamatic 3D.png",
+    "📄Resources/Parallel or Longitudinal Fillet Joint-maximum shear.png",
+    "📄Resources/Kibron G-BAM_SPecifications.png",
+    "📄Resources/Kibron G-BAM_6.png",
+    "📄Resources/Kibron G-BAM_4.png",
+    "📄Resources/Kibron G-BAM_5.png",
+    "📄Resources/Kibron G-BAM_.png",
+    "📄Resources/Kibron G-BAM_2.png"
+  ]
+}
