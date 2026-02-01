@@ -1,0 +1,20 @@
+# Obsidian workspace files (device-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian Git plugin state (don't sync across devices)
+.obsidian/plugins/obsidian-git/data.json
+
+# Temporary conflict files
+conflict-files-obsidian-git.md
+
+# System files
+.DS_Store
+Thumbs.db
+.trash/
+*.swp
+*.swo
+
+# Optional: Per-device settings
+.obsidian/plugins/**
+.obsidian/themes/**
