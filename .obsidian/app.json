@@ -17,10 +17,17 @@
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
+    "obsidian-git:pull",
+    "obsidian-git:push",
     "editor:insert-wikilink",
     "editor:insert-embed",
     "editor:insert-tag",
     "editor:attach-file",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-checklist-status",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
     "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-italics",
@@ -29,14 +36,7 @@
     "editor:toggle-code",
     "editor:toggle-blockquote",
     "editor:insert-link",
-    "editor:toggle-bullet-list",
-    "editor:toggle-numbered-list",
-    "editor:toggle-checklist-status",
-    "editor:indent-list",
-    "editor:unindent-list",
-    "editor:configure-toolbar",
-    "obsidian-git:pull",
-    "obsidian-git:push"
+    "editor:configure-toolbar"
   ],
   "rightToLeft": false,
   "promptDelete": false
