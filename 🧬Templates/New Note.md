@@ -5,8 +5,6 @@ const ignr_dir = ["💻Computing", "🚀Engineering", "🧠Sciences"];
 // ---------------------
 
 // 1. Prompt for the new file name // Defaults to the current name (e.g., "Untitled") if you hit Esc 
-// const newName = await tp.system.prompt("Name:", tp.file.title);
-// Define a custom prompt function
 const promptWithSelection = (app, promptText, defaultValue) => {
     return new Promise((resolve) => {
         // Create a simple modal using Obsidian's API
@@ -78,16 +76,6 @@ folders.forEach((folderName, index) => {
 	const uri = `obsidian://open?vault=${vaultId}&file=${encodedName}`;
 	
 	breadcrumbParts.push(`[${folderName}](${uri})`);
-    
-    //else if (isImmediateParent) //breadcrumbParts.push(`[[${folderName}]]`); // Immediate //Parent -> Wiki Link [[ ]]
-    //else {
-    //   // Ancestors (Grandparents) -> Obsidian URI Link [ ]( )
-    //    // Encodes ' ' to %20 and '&' to %26 as requested
-    //    const encodedName = folderName.replace(/ /g, //"%20").replace(/&/g, "%26");
-    //    const uri = `obsidian://open?vault=${vaultId}&file=${encodedName}`;
-    //    
-    //    breadcrumbParts.push(`[${folderName}](${uri})`);
-	//}
 });
 
 // 4. Output the full trail > Current Title
@@ -95,6 +83,68 @@ if (breadcrumbParts.length > 0) {
     tR += `${breadcrumbParts.join(" > ")} > ${newName || tp.file.title}`;
 } else {
     tR += `${newName || tp.file.title}`;
+}
+// ========================================
+// 7. AUTO-APPEND TO PARENT DIRECTORY NOTE
+// ========================================
+
+// Get the immediate parent directory name
+const immediateParentDir = folders[folders.length - 1 - parentNote];
+
+// Only proceed if:
+// 1. Parent directory exists
+// 2. Current note name is NOT the same as parent directory (avoid self-reference)
+// 3. Parent directory is not in ignored list
+if (immediateParentDir && 
+    immediateParentDir !== (newName || tp.file.title) && 
+    !ignr_dir.includes(immediateParentDir)) {
+    
+    // Try to find a note with the same name as the parent directory
+    const parentDirNote = tp.file.find_tfile(immediateParentDir);
+    
+    if (parentDirNote) {
+        try {
+            // Read current content of the parent directory note
+            const parentContent = await app.vault.read(parentDirNote);
+            
+            // Count existing numbered list items to calculate next number
+            // Matches lines like "1. [[NoteName]]" or "42. [[Another Note]]"
+             // Find all numbered list items with their positions
+            const numberedListRegex = /^\d+\.\s+\[\[.+?\]\]/gm;
+            const matches = [...parentContent.matchAll(numberedListRegex)];
+            
+            if (matches.length === 0) {
+                // No existing list - append at the end
+                const nextNumber = 1;
+                const finalNoteName = newName || tp.file.title;
+                const newLink = `${nextNumber}. [[${finalNoteName}]]`;
+                const updatedContent = parentContent.trimEnd() + "\n" + newLink;
+                await app.vault.modify(parentDirNote, updatedContent);
+            } else {
+                // Find the last numbered item
+                const lastMatch = matches[matches.length - 1];
+                const lastMatchEnd = lastMatch.index + lastMatch[0].length;
+                
+                // Calculate next number
+                const nextNumber = matches.length + 1;
+                const finalNoteName = newName || tp.file.title;
+                const newLink = `${nextNumber}. [[${finalNoteName}]]`;
+                
+                // Split content at the end of the last numbered item
+                const beforeList = parentContent.substring(0, lastMatchEnd);
+                const afterList = parentContent.substring(lastMatchEnd);
+                
+                // Insert the new link right after the last numbered item
+                const updatedContent = beforeList + "\n" + newLink + afterList;
+                
+                // Write back to parent directory note
+                await app.vault.modify(parentDirNote, updatedContent);
+            }
+            
+        } catch (error) {
+            console.error("Error appending to parent directory note:", error);
+        }
+    }
 }
 %>
 
@@ -113,6 +163,7 @@ Mobile -
 Whatsapp - 
 Email - 
 Instagram - 
+LinkedIn - 
 
 ---
 ## Notes

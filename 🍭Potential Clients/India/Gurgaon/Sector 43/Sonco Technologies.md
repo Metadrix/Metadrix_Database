@@ -19,10 +19,15 @@ Instagram -
 
 ---
 ## Notes
-
+- Consulting CTO
+- Scrum Team
+- Web and Mobile design
+- Web application development
+- DevOps and Solution Architecture
 
 ---
 ---
 # References
 
 # Tags
+#good_product #good_website #IT_product #IT_Services 
