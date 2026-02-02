@@ -99,10 +99,27 @@ if (breadcrumbParts.length > 0) {
 %>
 
 ---
+---
+## Address
 
 
+---
+## Website
+
+
+---
+## Contact
+Mobile - 
+Whatsapp - 
+Email - 
+Instagram - 
+
+---
+## Notes
+
+
+---
 ---
 # References
 
 # Tags
-#incomplete
