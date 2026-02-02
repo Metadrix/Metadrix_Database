@@ -48,6 +48,14 @@
 43. [[Roots Astro]]
 44. [[Ridge Tech Corporation]]
 45. [[Aramco Asia India Pvt. Ltd.]]
+46. [[DefinEquity]]
+47. [[Scout Incorporation]]
+48. [[Korn Ferry]]
+49. [[Multi Tech Engineers and Consultants]]
+50. [[Adezi Ventures]]
+51. [[Diwan Realty]]
+52. [[Acredge Landworks Pvt. Ltd.]]
+53. [[Beetle Regen Solutions]]
 
 ---
 ---
