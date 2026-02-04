@@ -53,7 +53,7 @@
 48. [[Korn Ferry]]
 49. [[Multi Tech Engineers and Consultants]]
 50. [[Adezi Ventures]]
-51. [[Diwan Realty]]
+51. [[🍭Potential Clients/India/Gurgaon/Sector 43/Diwan Realty]]
 52. [[Acredge Landworks Pvt. Ltd.]]
 53. [[Beetle Regen Solutions]]
 54. [[Tower Research Capital]]

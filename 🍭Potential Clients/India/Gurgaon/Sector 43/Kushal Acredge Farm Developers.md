@@ -19,7 +19,12 @@ LinkedIn -
 
 ---
 ## Notes
-
+- Google pages website, very low quality
+- No SEO/SEM
+- No social media presence
+- Selling farmhouses, they need a good social media presence, active online adds to funnel in customers. Good social media ensures trust.
+- A lot of potential customers coming from outside gurgoan and they are not capturing them since they rely on word of mouth only.
+-  They need urgent website that matches with their premium products, social media should be maintained and active to funnel in clients to website, social media marketing needs to be employed to create reliable funnels.
 
 ---
 ---

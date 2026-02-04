@@ -21,7 +21,9 @@ Landline - 01244802222
 ---
 ## Notes
 - Big real estate dealers
-- poor website
+- No website. Only a landing page with Site under construction written
+- No social media presence
+-  They need urgent website that matches with their premium products, social media should be maintained and active to funnel in clients to website, social media marketing needs to be employed to create reliable funnels.
 
 ---
 ---
