@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#potential_client #real_estate ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.073076886841073,
+  "scale": 0.28560441489999466,
   "close": true
 }
