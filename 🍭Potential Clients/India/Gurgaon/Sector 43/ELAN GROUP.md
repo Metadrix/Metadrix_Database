@@ -20,7 +20,8 @@ Landline - 01244101100
 
 ---
 ## Notes
-
+- Good marketing campaigns
+- Good social media presence
 
 ---
 ---

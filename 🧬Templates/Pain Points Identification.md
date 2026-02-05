@@ -1,17 +1,3 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [⏳Clients Outreach](obsidian://open?vault=Saarthak's_Headspace&file=⏳Clients%20Outreach) > Diwan Realty
-
----
----
-
-## SEO Site Audit Reports
-### SEOptimer.com
-
-### seositecheckup.com
-### semrush.com
-![[semrush.com-Diwan Realty.pdf]]
-
-
----
 ## Pain Points
 ### Hero/Landing Section
 #### UI/UX
@@ -533,26 +519,3 @@
 - [ ] Inapplicable
 
 ---
-## Notes
-
-- By having a good website they can funnel good clients from online routes rather than relying on word of mouth and walk in clients
-- They even have testimonials that can create trust and validate their projects but they ar placed loosely at the end of the website
-- Facebook is created but not updated from 2024. A lot of prospective clients can be funneled through an active Facebook account because a lot of older earning Indian population avidly use Facebook
-- Instagarm is updated but not frequent enough to reel in good clientele. They need someone to handle their social media presence and funnel in good clientele from these sources.
-- Social media marketing is required by this firm to funnel in good clientele from Instagram, Facebook and other sources by uploading reels, frequent posts and customer funnels through these to land on a proper website that can help increase income to this business.
-- Linkedin is created but nothing is posted this could lead to untrust from online clients. Linkedin need to be maintained properly.
-- Whatsapp, telegram, reddit and other medias can be used to get new clients.
-- Youtube can be used to upload videos and reels for ongoing projects.
-- They need urgent website that matches with their premium products, social media should be maintained and active to funnel in clients to website, social media marketing needs to be employed to create reliable funnels.
----
-## Outreach Email 
-- [[diwan_outreach_email_long]]
-- [[diwan_outreach_email_short]]
-
----
----
-# References
-1. [[🍭Potential Clients/India/Gurgaon/Sector 43/Diwan Realty|Diwan Realty]]
-
-# Tags
-#clients_outreach #poor_SEO/SEM #poor_AI-visibility #poor_website #poor_social-media-presence #poor_social-media-marketing #poor_CTA

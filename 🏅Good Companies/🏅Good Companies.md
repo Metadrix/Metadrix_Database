@@ -3,8 +3,8 @@
 ---
 ---
 
-1. [[🏅Good Websites/ELAN GROUP/ELAN GROUP]]
-2. [[🏅Good Websites/AMALFI INFRAVENTURES/AMALFI INFRAVENTURES]]
+1. [[🏅Good Companies/ELAN GROUP/ELAN GROUP]]
+2. [[🏅Good Companies/AMALFI INFRAVENTURES/AMALFI INFRAVENTURES]]
 
 ---
 ---

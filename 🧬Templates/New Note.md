@@ -174,3 +174,28 @@ LinkedIn -
 # References
 
 # Tags
+<%*
+// Logic to generate the directory tag
+const dirPath = tp.file.folder(true);
+const dirParts = dirPath.split("/").filter(d => d !== "/");
+const currentTitle = tp.file.title;
+
+// Determine target folder (handling Folder Notes logic)
+const isFolderNoteFile = dirParts[dirParts.length - 1] === currentTitle;
+const tagIndex = dirParts.length - 1 - (isFolderNoteFile ? 1 : 0);
+const targetFolder = dirParts[tagIndex];
+
+if (targetFolder) {
+    // 1. Remove Emojis/Symbols from the start (Unicode aware)
+    // Matches: Emojis, Pictographs, and any immediate following whitespace
+    let cleanName = targetFolder.replace(/^[\p{Emoji}\p{Extended_Pictographic}\s]+/u, "").trim();
+
+    // 2. Convert to Lowercase
+    cleanName = cleanName.toLowerCase();
+
+    // 3. Replace spaces with hyphens for valid hashtag format
+    const tag = cleanName.replace(/\s+/g, "-");
+    
+    tR += `#${tag}`;
+}
+%>

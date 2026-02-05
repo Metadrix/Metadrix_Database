@@ -11,6 +11,7 @@
 ![[⏳Clients Outreach/Tribeca Developers/semrush.com.pdf|semrush.com]]
 
 ---
+---
 ## Pain Points
 - Poor website
 - Low quality UI
@@ -39,3 +40,4 @@
 [[🍭Potential Clients/India/Gurgaon/Sector 43/Tribeca Developers|Tribeca Developers]]
 
 # Tags
+#clients_outreach #poor_SEO/SEM #poor_AI-visibility #poor_website #poor_social-media-presence #poor_social-media-marketing
