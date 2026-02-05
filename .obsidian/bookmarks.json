@@ -639,6 +639,32 @@
             }
           ],
           "title": "🍭Potential Clients"
+        },
+        {
+          "type": "group",
+          "ctime": 1770291579413,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1770291579413,
+              "path": "⏳Clients Outreach/⏳Clients Outreach.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "⏳Clients Outreach"
+        },
+        {
+          "type": "group",
+          "ctime": 1770291583747,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1770291583747,
+              "path": "🏅Good Websites/🏅Good Websites.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "🏅Good Websites"
         }
       ],
       "title": "sortspec"
