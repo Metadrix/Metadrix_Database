@@ -25,6 +25,7 @@ Facebook - https://www.facebook.com/tribecadevelopers/
 ## Notes
 Poor website
 - Low quality UI
+- No CTA on the landing page. Every other major competitor has a popup CTA when landing and proper CTA buttons and links all over the page but they dont have any. 
 - Somewhat responsive, fails for tabs and larger screen or larger dpr devices
 - Poor on page SEO score. Very low SEO audit score
 - The website does not convey the premium feel to the customers
