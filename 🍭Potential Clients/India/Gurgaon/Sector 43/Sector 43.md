@@ -5,7 +5,7 @@
 
 1. [[1UPAMS- Attendance Management System]]
 2. [[ABC]]
-3. [[AMALFI INFRAVENTURES]]
+3. [[🍭Potential Clients/India/Gurgaon/Sector 43/AMALFI INFRAVENTURES]]
 4. [[LoudCurtain]]
 5. [[Sonco Technologies]]
 6. [[Statiq]]
