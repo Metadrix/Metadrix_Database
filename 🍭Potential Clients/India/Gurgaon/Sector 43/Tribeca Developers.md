@@ -15,7 +15,7 @@ https://www.tribecadevelopers.com/tribeca-trump.php
 ## Contact
 Mobile - 
 Whatsapp - 
-Email - 
+Email - kalpesh.mehta@tribecadevelopers.com (Founder), kalpesh.mehta@gmail.com (Founder), rajat.khandelwal@tribecadevelopers.com (Group CEO), rajatkhandelwal@gmail.com (Group CEO)
 Instagram - 
 LinkedIn - https://www.linkedin.com/company/tribeca-developers/
 Youtube - https://www.youtube.com/watch?v=v0L7jnqQ-u8
@@ -26,6 +26,7 @@ Facebook - https://www.facebook.com/tribecadevelopers/
 Poor website
 - Low quality UI
 - No CTA on the landing page. Every other major competitor has a popup CTA when landing and proper CTA buttons and links all over the page but they dont have any. 
+- This company works in colaboration with big MNC real estate companies and links MNC project websites on thier own website. But since the SEO/SEM, UI/UX and all of these MNC websites are better any high income client, or forging investment client would directly find the MNC website rather than theirs which is a very big flaw in their digital marketing
 - Somewhat responsive, fails for tabs and larger screen or larger dpr devices
 - Poor on page SEO score. Very low SEO audit score
 - The website does not convey the premium feel to the customers
