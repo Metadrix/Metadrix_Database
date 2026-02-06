@@ -1,0 +1,38 @@
+/*
+ *  Turn any header with the #sep tag into a horizontal line.
+ *  Works for H1-H6.
+ */
+
+/* 1. Hide the text (hashtags and tag name) */
+.cm-line:has(.cm-tag-sep),
+h1:has(a.tag[href="#sep"]),
+h2:has(a.tag[href="#sep"]),
+h3:has(a.tag[href="#sep"]),
+h4:has(a.tag[href="#sep"]),
+h5:has(a.tag[href="#sep"]),
+h6:has(a.tag[href="#sep"]) {
+    color: transparent !important;
+    font-size: 0 !important;
+    position: relative;
+    /* 2. Create the line */
+    border-bottom: 2px solid var(--interactive-accent);
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    /* Ensure the block still takes up space */
+    display: block !important;
+    height: 10px !important;
+}
+
+/* 3. Hide the fold arrow for these specific headers */
+.cm-line:has(.cm-tag-sep) .collapse-indicator,
+.heading-children:has( > h1 > a.tag[href="#sep"]) .heading-collapse-indicator,
+.heading-children:has( > h2 > a.tag[href="#sep"]) .heading-collapse-indicator,
+.heading-children:has( > h3 > a.tag[href="#sep"]) .heading-collapse-indicator {
+    display: none !important;
+}
+
+/* 4. Fix selection background in Live Preview so it doesn't look weird when selecting */
+.cm-line:has(.cm-tag-sep)::selection,
+.cm-line:has(.cm-tag-sep) *::selection {
+    background: transparent;
+}

@@ -1,0 +1,245 @@
+/* =================================================================
+ *   OBSIDIAN CUSTOM DIVIDER SYSTEM
+ *   =================================================================
+ *   Usage:
+ *     1. Add a line type tag: #line, #double, or #dashed
+ *     2. (Optional) Add a color tag: #red, #blue, #green, #pink, #grey, #yellow, #black
+ *
+ *   Examples:
+ *     ## #line
+ *     ## #double #blue
+ *     ### #dashed #red
+ *   ================================================================= */
+
+/* =================================================================
+ *   1. BASE STRUCTURE & VISIBILITY
+ *   ================================================================= */
+
+/* --- SHARED CONTAINER STYLES --- */
+/* Target any header line containing our divider tags */
+.cm-line:has(.cm-tag-line):not(.cm-active),
+.cm-line:has(.cm-tag-double):not(.cm-active),
+.cm-line:has(.cm-tag-dashed):not(.cm-active) {
+    color: transparent !important;
+    font-size: 0 !important;
+    position: relative;
+    height: 24px; /* Taller to accommodate double lines comfortably */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* --- THE LINE (Pseudo-element) --- */
+.cm-line:has(.cm-tag-line):not(.cm-active)::after,
+.cm-line:has(.cm-tag-double):not(.cm-active)::after,
+.cm-line:has(.cm-tag-dashed):not(.cm-active)::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%); /* Perfect vertical centering */
+    pointer-events: none; /* Allows clicks to pass through to the editor */
+
+    /* Default Color (Theme Accent) */
+    border-color: var(--interactive-accent);
+}
+
+/* --- READING MODE BASE --- */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]),
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]),
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]) {
+    color: transparent !important;
+    font-size: 0 !important;
+    height: 24px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    position: relative;
+    border: none !important;
+}
+
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"])::after {
+    content: "";
+    position: absolute;
+    left: 0; right: 0; top: 50%;
+    transform: translateY(-50%);
+    border-color: var(--interactive-accent);
+}
+
+/* =================================================================
+ *   2. LINE TYPES
+ *   ================================================================= */
+
+/* --- TYPE 1: SOLID (#line) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):not(.cm-active)::after {
+    height: 2px;
+    background-color: var(--interactive-accent);
+    border-radius: 2px;
+}
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"])::after {
+    height: 2px;
+    background-color: var(--interactive-accent);
+}
+
+/* --- TYPE 2: DOUBLE (#double) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-double):not(.cm-active)::after {
+    height: 6px;
+    background-color: transparent;
+    border-top: 2px solid var(--interactive-accent);
+    border-bottom: 2px solid var(--interactive-accent);
+}
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"])::after {
+    height: 6px;
+    background-color: transparent;
+    border-top: 2px solid var(--interactive-accent);
+    border-bottom: 2px solid var(--interactive-accent);
+}
+
+/* --- TYPE 3: DASHED (#dashed) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-dashed):not(.cm-active)::after {
+    height: 0px;
+    background-color: transparent;
+    border-top: 2px dashed var(--interactive-accent);
+}
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"])::after {
+    height: 0px;
+    background-color: transparent;
+    border-top: 2px dashed var(--interactive-accent);
+}
+
+/* =================================================================
+ *   3. FOLDING & INTERACTION BEHAVIOR
+ *   ================================================================= */
+
+/* --- DISABLE TEXT CLICKING --- */
+/* Prevents clicking the invisible text to trigger a fold */
+.cm-line:has(.cm-tag-line):not(.cm-active) .cm-content,
+.cm-line:has(.cm-tag-double):not(.cm-active) .cm-content,
+.cm-line:has(.cm-tag-dashed):not(.cm-active) .cm-content {
+    pointer-events: none !important;
+}
+
+/* --- HIDE FOLD ARROW (DEFAULT) --- */
+/* Keeps the UI clean and prevents accidental clicks */
+.cm-line:has(.cm-tag-line) .collapse-indicator,
+.cm-line:has(.cm-tag-double) .collapse-indicator,
+.cm-line:has(.cm-tag-dashed) .collapse-indicator {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+/* --- SHOW FOLD ARROW (ON HOVER) --- */
+/* Allows you to "Rescue" a line if it gets folded by "Fold All" */
+.cm-line:has(.cm-tag-line):hover .collapse-indicator,
+.cm-line:has(.cm-tag-double):hover .collapse-indicator,
+.cm-line:has(.cm-tag-dashed):hover .collapse-indicator {
+    opacity: 1;
+    cursor: pointer;
+    pointer-events: auto !important;
+}
+
+/* =================================================================
+ *   4. COLOR SYSTEM
+ *   ================================================================= */
+/* Helper mixin logic repeated for each color */
+
+/* --- RED (#red) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):has(.cm-tag-red)::after { background-color: #ff5555 !important; border-color: #ff5555 !important; }
+.cm-line:has(.cm-tag-double):has(.cm-tag-red)::after,
+.cm-line:has(.cm-tag-dashed):has(.cm-tag-red)::after { border-color: #ff5555 !important; }
+
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]):has(a.tag[href="#red"])::after { background-color: #ff5555 !important; }
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]):has(a.tag[href="#red"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]):has(a.tag[href="#red"])::after { border-color: #ff5555 !important; }
+
+
+/* --- BLUE (#blue) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):has(.cm-tag-blue)::after { background-color: #61afef !important; border-color: #61afef !important; }
+.cm-line:has(.cm-tag-double):has(.cm-tag-blue)::after,
+.cm-line:has(.cm-tag-dashed):has(.cm-tag-blue)::after { border-color: #61afef !important; }
+
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]):has(a.tag[href="#blue"])::after { background-color: #61afef !important; }
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]):has(a.tag[href="#blue"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]):has(a.tag[href="#blue"])::after { border-color: #61afef !important; }
+
+
+/* --- GREEN (#green) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):has(.cm-tag-green)::after { background-color: #50fa7b !important; border-color: #50fa7b !important; }
+.cm-line:has(.cm-tag-double):has(.cm-tag-green)::after,
+.cm-line:has(.cm-tag-dashed):has(.cm-tag-green)::after { border-color: #50fa7b !important; }
+
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]):has(a.tag[href="#green"])::after { background-color: #50fa7b !important; }
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]):has(a.tag[href="#green"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]):has(a.tag[href="#green"])::after { border-color: #50fa7b !important; }
+
+
+/* --- PINK (#pink) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):has(.cm-tag-pink)::after { background-color: #ff79c6 !important; border-color: #ff79c6 !important; }
+.cm-line:has(.cm-tag-double):has(.cm-tag-pink)::after,
+.cm-line:has(.cm-tag-dashed):has(.cm-tag-pink)::after { border-color: #ff79c6 !important; }
+
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]):has(a.tag[href="#pink"])::after { background-color: #ff79c6 !important; }
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]):has(a.tag[href="#pink"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]):has(a.tag[href="#pink"])::after { border-color: #ff79c6 !important; }
+
+
+/* --- Light Blue (#lightblue) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):has(.cm-tag-lightblue)::after { background-color: #6272a4 !important; border-color: #6272a4 !important; }
+.cm-line:has(.cm-tag-double):has(.cm-tag-lightblue)::after,
+.cm-line:has(.cm-tag-dashed):has(.cm-tag-lightblue)::after { border-color: #6272a4 !important; }
+
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]):has(a.tag[href="#lightblue"])::after { background-color: #6272a4 !important; }
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]):has(a.tag[href="#lightblue"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]):has(a.tag[href="#lightblue"])::after { border-color: #6272a4 !important; }
+
+
+/* --- GREY (#grey) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):has(.cm-tag-grey)::after { background-color: #393939 !important; border-color: #393939 !important; }
+.cm-line:has(.cm-tag-double):has(.cm-tag-grey)::after,
+.cm-line:has(.cm-tag-dashed):has(.cm-tag-grey)::after { border-color: #393939 !important; }
+
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]):has(a.tag[href="#grey"])::after { background-color: #393939 !important; }
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]):has(a.tag[href="#grey"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]):has(a.tag[href="#grey"])::after { border-color: #393939 !important; }
+
+/* --- YELLOW (#yellow) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):has(.cm-tag-yellow)::after { background-color: #f1fa8c !important; border-color: #f1fa8c !important; }
+.cm-line:has(.cm-tag-double):has(.cm-tag-yellow)::after,
+.cm-line:has(.cm-tag-dashed):has(.cm-tag-yellow)::after { border-color: #f1fa8c !important; }
+
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]):has(a.tag[href="#yellow"])::after { background-color: #f1fa8c !important; }
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]):has(a.tag[href="#yellow"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]):has(a.tag[href="#yellow"])::after { border-color: #f1fa8c !important; }
+
+
+/* --- BLACK (#black) --- */
+/* Live Preview */
+.cm-line:has(.cm-tag-line):has(.cm-tag-black)::after { background-color: #000000 !important; border-color: #000000 !important; }
+.cm-line:has(.cm-tag-double):has(.cm-tag-black)::after,
+.cm-line:has(.cm-tag-dashed):has(.cm-tag-black)::after { border-color: #000000 !important; }
+
+/* Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#line"]):has(a.tag[href="#black"])::after { background-color: #000000 !important; }
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#double"]):has(a.tag[href="#black"])::after,
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#dashed"]):has(a.tag[href="#black"])::after { border-color: #000000 !important; }

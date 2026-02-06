@@ -1,9 +1,10 @@
 {
   "enabledCssSnippets": [
-    "common"
+    "common",
+    "divider"
   ],
   "cssTheme": "",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "baseFontSizeAction": true
 }

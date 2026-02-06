@@ -4,7 +4,6 @@
 
 1. [[Sector 43]]
 2. [[Sector 53]]
-3. [[Sector 43]]
 
 ---
 # References

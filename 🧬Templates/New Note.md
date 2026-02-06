@@ -147,32 +147,13 @@ if (immediateParentDir &&
     }
 }
 %>
-
----
----
-## Address
+# #double #grey
 
 
----
-## Website
-
-
----
-## Contact
-Mobile - 
-Whatsapp - 
-Email - 
-Instagram - 
-LinkedIn - 
-
----
-## Notes
-
-
----
----
+# #double #grey
 # References
 
+# #line #grey
 # Tags
 <%*
 // Logic to generate the directory tag
