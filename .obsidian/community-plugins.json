@@ -22,5 +22,6 @@
   "editor-width-slider",
   "novel-word-count",
   "custom-sort",
-  "templater-obsidian"
+  "templater-obsidian",
+  "heading-level-indent"
 ]
