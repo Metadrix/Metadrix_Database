@@ -542,8 +542,11 @@
 
 ## #line 
 ## Outreach Email
-1. ![[diwan_outreach_email_long]]
-2. ![[diwan_outreach_email_short]]
+### Rev 1 - Long
+![[diwan_outreach_email_long]]
+### #dashed 
+### Rev 1 - Short
+![[diwan_outreach_email_short]]
 ## #line
 ## Notes
 - By having a good website they can funnel high net worth clients and foreign investors from online routes rather than relying on word of mouth and walk in clients
