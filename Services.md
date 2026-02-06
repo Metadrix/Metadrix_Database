@@ -9,6 +9,7 @@
 4. SEO/SEM
 5. AI SEO
 6. Appointments management
+7. API Troubleshoot
 
 ---
 ---
