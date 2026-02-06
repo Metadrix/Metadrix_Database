@@ -20,7 +20,7 @@
     12. Articles - 
 ## #dashed #red
 ## SEO Site Audit Reports
-### SEOptimer.com #xl
+### SEOptimer.com 
 
 ### #dashed
 ### seositecheckup.com
