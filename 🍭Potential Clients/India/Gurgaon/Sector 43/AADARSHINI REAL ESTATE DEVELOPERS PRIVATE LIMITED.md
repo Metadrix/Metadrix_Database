@@ -37,8 +37,8 @@
 #### #dashed #grey 
 #### Images #s
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Videos #s
@@ -50,8 +50,8 @@
 #### Feel/Message delivery #s
 - [ ] Premium
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 #### #dashed #grey 
 #### Call to Action #s
 - [ ] Good 
@@ -62,29 +62,29 @@
 #### Animations #s
 ##### Placement #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Design/Quality #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Flow/Behavior #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Responsiveness #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Text #s
@@ -95,18 +95,18 @@
 - [ ] Inapplicable
 ##### Design/Font #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Flow (Should not overflow or hide) #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Wrapping #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Website
@@ -116,8 +116,8 @@
 #### #dashed #grey 
 #### Images #s
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Videos #s
@@ -133,16 +133,16 @@
 - [ ] Missing
 #### #dashed #grey 
 #### Landing Page Length #s
-- [x] Perfect
+- [ ] Perfect
 - [ ] Lengthy but good
 - [ ] Too long
-- [ ] Too short
+- [x] Too short
 #### #dashed #grey 
 #### Animations #s
 ##### Placement #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Design/Quality #xs
 - [ ] Good 
@@ -181,8 +181,8 @@
 ### Visual elements
 #### Placement #s
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Design #s
@@ -217,26 +217,26 @@
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Design/Font #s
-- [x] Good 
-- [ ] Poor
+- [ ] Good 
+- [x] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Flow (Should not overflow or hide) #s
-- [x] Good 
+- [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Wrapping #s
-- [x] Good 
+- [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
-- [x] Good 
-- [ ] Poor
+- [ ] Good 
+- [x] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
@@ -279,8 +279,8 @@
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Design #s
-- [x] Good 
-- [ ] Poor
+- [ ] Good 
+- [x] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
@@ -297,8 +297,8 @@
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
-- [x] Good 
-- [ ] Poor
+- [ ] Good 
+- [x] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
@@ -415,27 +415,27 @@
 ### #dashed
 ### Socials
 #### Whatsapp #s
-- [x] Active
+- [ ] Active
 - [ ] Inactive
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Facebook #s
 - [ ] Active
-- [x] Inactive
-- [ ] Missing
+- [ ] Inactive
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Instagram #s
 - [ ] Active
-- [x] Inactive
-- [ ] Missing
+- [ ] Inactive
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Linkedin #s
 - [ ] Active
-- [x] Inactive
-- [ ] Missing
+- [ ] Inactive
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Pintrest #s
@@ -477,15 +477,15 @@
 ### Footer
 #### Design #s
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 #### #dashed #grey 
 #### Social Links #s
-- [x] Contacts
-- [x] Whatsapp
-- [x] Facebook
-- [x] Linkedin
-- [x] Instagram
+- [ ] Contacts
+- [ ] Whatsapp
+- [ ] Facebook
+- [ ] Linkedin
+- [ ] Instagram
 - [ ] Pintrest
 - [ ] Zomato
 - [ ] Swiggy
@@ -493,16 +493,16 @@
 #### Important Links #s
 ##### Navigation Quality #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 ##### Placement #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 ##### Quantity #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 #### #dashed #grey 
 #### Call to Action #s
 ##### Design #xs
@@ -533,18 +533,18 @@
 #### Social Media Marketing Campaigns #s
 ##### Instagram #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Facebook #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Linkedin #xs
 - [ ] Good 
-- [x] Poor
-- [ ] Missing
+- [ ] Poor
+- [x] Missing
 - [ ] Inapplicable
 ##### Reddit #xs
 - [ ] Good 
@@ -583,9 +583,9 @@
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Testimonials #s
-- [x] Good 
+- [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 
 ## #line
