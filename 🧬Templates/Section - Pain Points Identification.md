@@ -70,7 +70,7 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Website
 #### UI/UX
 - [ ] Good 
@@ -132,7 +132,7 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Visual elements
 ##### Placement
 - [ ] Good 
@@ -159,7 +159,7 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Text
 #### Placement
 - [ ] Good 
@@ -186,7 +186,7 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Navigation Panel
 #### Placement
 - [ ] Good 
@@ -213,7 +213,7 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Logo
 #### Placement
 - [ ] Good 
@@ -240,7 +240,7 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Call to Action
 #### Landing
 ##### Placement
@@ -348,7 +348,7 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Socials
 #### Whatsapp
 - [ ] Active
@@ -400,7 +400,7 @@
 - [ ] Inactive
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Footer
 #### Design
 - [ ] Good 
@@ -446,7 +446,7 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
-### #line
+### #dashed
 ### Marketing
 #### Marketing Campaigns
 - [ ] Good 
@@ -508,3 +508,5 @@
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
+
+## #line
