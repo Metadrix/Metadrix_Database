@@ -21,40 +21,47 @@
 ## #line
 ## SEO Site Audit Reports
 ### SEOptimer.com
+Score - B-
+![[ELAN GROUP - SEO Report Screenshot.png]]
+![[SEO Audit for www.elanlimited.com - SEOptimer.pdf]]
 
-#dashed #grey
+### #dashed #grey
 ### seositecheckup.com
+![[ELAN GROUP - seositecheckup.com.png]]
+![[seositecheckup.pdf]]
 
 ### #dashed #grey
 ### semrush.com
+![[ELAN GROUP - semrush.com.png]]
+![[semrush.pdf]]
 
 ## #line
 ## Pain Points
 ### Hero/Landing Section 
 #### UI/UX #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 #### #dashed #grey 
 #### Images #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Videos #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Feel/Message delivery #s
-- [ ] Premium
+- [x] Premium
 - [ ] Good 
 - [ ] Poor
 - [ ] Missing
 #### #dashed #grey 
 #### Call to Action #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
@@ -64,240 +71,240 @@
 - [ ] Good 
 - [ ] Poor
 - [ ] Missing
-- [ ] Inapplicable
+- [x] Inapplicable
 ##### Design/Quality #xs
 - [ ] Good 
 - [ ] Poor
 - [ ] Missing
-- [ ] Inapplicable
+- [x] Inapplicable
 ##### Flow/Behavior #xs
 - [ ] Good 
 - [ ] Poor
 - [ ] Missing
-- [ ] Inapplicable
+- [x] Inapplicable
 ##### Responsiveness #xs
 - [ ] Good 
 - [ ] Poor
 - [ ] Missing
-- [ ] Inapplicable
+- [x] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Text #s
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Design/Font #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Flow (Should not overflow or hide) #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Wrapping #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Website
 #### UI/UX #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 #### #dashed #grey 
 #### Images #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Videos #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Feel #s
-- [ ] Premium
+- [x] Premium
 - [ ] Good 
 - [ ] Poor
 - [ ] Missing
 #### #dashed #grey 
 #### Landing Page Length #s
-- [ ] Perfect
+- [x] Perfect
 - [ ] Lengthy but good
 - [ ] Too long
 - [ ] Too short
 #### #dashed #grey 
 #### Animations #s
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Design/Quality #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Flow/Behavior #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Responsiveness #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Scrolling #s
 ##### Transition #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Flow/Behavior #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Visual elements
 #### Placement #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Design #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Flow #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Responsiveness #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Text
 #### Placement #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Design/Font #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Flow (Should not overflow or hide) #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Wrapping #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Navigation Panel
 #### Placement #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Design #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Flow #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Responsiveness #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Logo
 #### Placement #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Design #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Flow #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Responsiveness #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Color Scheme #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
@@ -305,117 +312,117 @@
 ### Call to Action
 #### Landing #s
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Design #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Flow #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Responsiveness #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Hording/Popup (On idle or other triggers) #s
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Design #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Flow #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Responsiveness #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Button #s
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Design #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Flow #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Responsiveness #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Banner #s
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Design #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Flow #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Responsiveness #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Navigation #s
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Design #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ##### Flow #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Responsiveness #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Socials
 #### Whatsapp #s
-- [ ] Active
+- [x] Active
 - [ ] Inactive
 - [ ] Missing
 - [ ] Inapplicable
@@ -423,17 +430,17 @@
 #### Facebook #s
 - [ ] Active
 - [ ] Inactive
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Instagram #s
-- [ ] Active
+- [x] Active
 - [ ] Inactive
 - [ ] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Linkedin #s
-- [ ] Active
+- [x] Active
 - [ ] Inactive
 - [ ] Missing
 - [ ] Inapplicable
@@ -442,46 +449,46 @@
 - [ ] Active
 - [ ] Inactive
 - [ ] Missing
-- [ ] Inapplicable
+- [x] Inapplicable
 #### #dashed #grey 
 #### Youtube #s
 - [ ] Active
 - [ ] Inactive
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Zomato #s
 - [ ] Active
 - [ ] Inactive
 - [ ] Missing
-- [ ] Inapplicable
+- [x] Inapplicable
 #### #dashed #grey 
 #### Swiggy #s
 - [ ] Active
 - [ ] Inactive
 - [ ] Missing
-- [ ] Inapplicable
+- [x] Inapplicable
 #### #dashed #grey 
 #### Tripadvisor #s
 - [ ] Active
 - [ ] Inactive
 - [ ] Missing
-- [ ] Inapplicable
+- [x] Inapplicable
 #### #dashed #grey 
 #### Google Maps #s
 - [ ] Active
 - [ ] Inactive
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Footer
 #### Design #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 #### #dashed #grey 
 #### Social Links #s
-- [ ] Contacts
+- [x] Contacts
 - [ ] Whatsapp
 - [ ] Facebook
 - [ ] Linkedin
@@ -492,41 +499,41 @@
 #### #dashed #grey 
 #### Important Links #s
 ##### Navigation Quality #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 ##### Quantity #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 #### #dashed #grey 
 #### Call to Action #s
 ##### Design #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 ##### Placement #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 ##### Flow #xs
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 #### #dashed #grey 
 #### Responsiveness #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
 ### #dashed
 ### Marketing
 #### Marketing Campaigns #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 #### #dashed #grey 
@@ -534,56 +541,56 @@
 ##### Instagram #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Facebook #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Linkedin #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Reddit #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Telegram #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Google #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Youtube #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Blogs #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Articles #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 ##### Magazines #xs
 - [ ] Good 
 - [ ] Poor
-- [ ] Missing
+- [x] Missing
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Testimonials #s
-- [ ] Good 
+- [x] Good 
 - [ ] Poor
 - [ ] Missing
 - [ ] Inapplicable
