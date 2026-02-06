@@ -1,10 +1,10 @@
 ## SEO Site Audit Reports
 ### SEOptimer.com
 
-### #dashed
+#dashed #grey
 ### seositecheckup.com
 
-### #dashed 
+### #dashed #grey
 ### semrush.com
 
 ## #line
