@@ -1,0 +1,100 @@
+/* =================================================================
+ *   HEADING SIZE CATEGORIES
+ *   Usage: Add tags to headers to override their size
+ *   Supported: #xl, #l, #m, #s, #xs, #banner
+ *   ================================================================= */
+
+/* --- 1. EXTRA LARGE (#xl) --- */
+/* Useful for massive section dividers */
+.cm-line:has(.cm-tag-xl):not(.cm-active),
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#xl"]) {
+    font-size: 2.5em !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.05em;
+    line-height: 1.1;
+    color: var(--text-normal) !important; /* Optional: force standard color */
+}
+
+/* --- 2. LARGE (#l) --- */
+/* Useful for emphatic headers */
+.cm-line:has(.cm-tag-l):not(.cm-active),
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#l"]) {
+    font-size: 1.8em !important;
+    font-weight: 700 !important;
+}
+
+/* --- 3. MEDIUM (#m) --- */
+/* Standardizes to a "normal" header size (approx H3 size) */
+.cm-line:has(.cm-tag-m):not(.cm-active),
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#m"]) {
+    font-size: 1.3em !important;
+    font-weight: 600 !important;
+}
+
+/* --- 4. SMALL (#s) --- */
+/* Good for subtitles or minor sections */
+.cm-line:has(.cm-tag-s):not(.cm-active),
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#s"]) {
+    font-size: 1.0em !important; /* Same size as body text */
+    font-weight: 600 !important;
+/*     text-transform: uppercase; */
+    letter-spacing: 0.05em;
+    opacity: 0.8;
+}
+
+/* --- 5. EXTRA SMALL (#xs) --- */
+/* Tiny meta-headers, like "Author", "Date", etc. */
+.cm-line:has(.cm-tag-xs):not(.cm-active),
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#xs"]) {
+    font-size: 0.75em !important;
+    font-weight: 500 !important;
+/*     text-transform: uppercase; */
+    letter-spacing: 0.1em;
+    color: var(--text-muted) !important;
+    border-bottom: none !important; /* Remove underline if H1/H2 has it */
+}
+
+/* --- 6. BANNER STYLE (#banner) --- */
+/* Creates a colored block background */
+.cm-line:has(.cm-tag-banner):not(.cm-active) {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent) !important;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 1.5em !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Banner in Reading Mode */
+:is(h1,h2,h3,h4,h5,h6):has(a.tag[href="#banner"]) {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent) !important;
+    padding: 10px 20px !important;
+    border-radius: 6px;
+    text-align: center;
+    border-bottom: none !important;
+}
+
+
+/* --- UTILITY: Hide the size tags themselves when not editing --- */
+/* This makes "## Title #xl" look like "## Title" */
+.cm-line:has(.cm-tag-xl):not(.cm-active) .cm-hashtag,
+.cm-line:has(.cm-tag-l):not(.cm-active) .cm-hashtag,
+.cm-line:has(.cm-tag-m):not(.cm-active) .cm-hashtag,
+.cm-line:has(.cm-tag-s):not(.cm-active) .cm-hashtag,
+.cm-line:has(.cm-tag-xs):not(.cm-active) .cm-hashtag,
+.cm-line:has(.cm-tag-banner):not(.cm-active) .cm-hashtag {
+    display: none;
+}
+
+/* Reading Mode Tag Hiding */
+:is(h1,h2,h3,h4,h5,h6) a.tag[href="#xl"],
+:is(h1,h2,h3,h4,h5,h6) a.tag[href="#l"],
+:is(h1,h2,h3,h4,h5,h6) a.tag[href="#m"],
+:is(h1,h2,h3,h4,h5,h6) a.tag[href="#s"],
+:is(h1,h2,h3,h4,h5,h6) a.tag[href="#xs"],
+:is(h1,h2,h3,h4,h5,h6) a.tag[href="#banner"] {
+    display: none;
+}
