@@ -65,6 +65,7 @@ Analyze the provided .md files to understand the client's specific business and 
 #email-generation
 1. [[Gemini 3 Pro - 1]]
 2. [[GPT 5.2 Thinking]]
-3. [[Claude Sonnet 4.5 Thinking]]
-4. [[Kimi K2.5]]
-5. [[Grok 4.1]]
+3. [[Prompts/Email Generation/Rev 1.0/Claude Sonnet 4.5 Thinking]]
+4. [[Prompts/Email Generation/Rev 1.0/Kimi K2.5]]
+5. [[Prompts/Email Generation/Rev 1.0/Grok 4.1]]
+6. [[Prompts/Email Generation/Rev 1.0/Deep Research]]

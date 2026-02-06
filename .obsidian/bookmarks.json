@@ -678,6 +678,19 @@
                     }
                   ],
                   "title": "Rev 1.0"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1770384228733,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1770384228733,
+                      "path": "Prompts/Email Generation/Rev 1.1/Rev 1.1.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Rev 1.1"
                 }
               ],
               "title": "\\\\Email Generation"

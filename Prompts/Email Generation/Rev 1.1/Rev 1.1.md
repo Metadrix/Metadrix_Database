@@ -265,3 +265,9 @@ Do **not** include your reasoning steps or any explanations—only the finalized
 # #line #grey
 # Tags
 #email-generation
+1. [[Gemini 3 Pro]]
+2. [[GPT-5.2 Thinking]]
+3. [[Claude Sonnet 4.5 Thinking]]
+4. [[Grok 4.1]]
+5. [[Kimi K2.5]]
+6. [[Deep Research]]
