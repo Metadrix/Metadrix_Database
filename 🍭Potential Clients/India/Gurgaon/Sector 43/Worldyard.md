@@ -8,7 +8,7 @@
     1. Mobile - 07428338805
     2. Landline - 18003091235
     3. Whatsapp -
-    4. Email - INFO@THEWORLDYARD.COM
+    4. Email - INFO@THEWORLDYARD.COM, worldyard2019@gmail.com
     5. Instagram - 
     6. LinkedIn - 
     7. Facebook - 
