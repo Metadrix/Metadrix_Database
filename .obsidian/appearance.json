@@ -1,8 +1,8 @@
 {
   "enabledCssSnippets": [
     "common",
-    "divider",
-    "custom-heading-size"
+    "custom-heading-size",
+    "divider"
   ],
   "cssTheme": "",
   "theme": "obsidian",
