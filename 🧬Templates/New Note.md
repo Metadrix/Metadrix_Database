@@ -1,7 +1,7 @@
 <%*
 // --- CONFIGURATION ---
-const vaultId = "Metadrix_Database";
-const ignr_dir = ["💻Computing", "🚀Engineering", "🧠Sciences"];
+const vaultId = "Saarthak's_Headspace";
+const ignr_dir = [];
 // ---------------------
 
 // 1. Prompt for the new file name // Defaults to the current name (e.g., "Untitled") if you hit Esc 
@@ -79,18 +79,13 @@ folders.forEach((folderName, index) => {
 });
 
 // 4. Output the full trail > Current Title
-if (breadcrumbParts.length > 0) {
-    tR += `${breadcrumbParts.join(" > ")} > ${newName || tp.file.title}`;
-} else {
-    tR += `${newName || tp.file.title}`;
-}
-// ========================================
-// 7. AUTO-APPEND TO PARENT DIRECTORY NOTE
-// ========================================
+const breadcrumbs = breadcrumbParts.length > 0 ? `${breadcrumbParts.join(" > ")} > ${newName}` : newName;
 
 // Get the immediate parent directory name
 const immediateParentDir = folders[folders.length - 1 - parentNote];
-
+// ========================================
+// 7. AUTO-APPEND TO PARENT DIRECTORY NOTE
+// ========================================
 // Only proceed if:
 // 1. Parent directory exists
 // 2. Current note name is NOT the same as parent directory (avoid self-reference)
@@ -99,55 +94,119 @@ if (immediateParentDir &&
     immediateParentDir !== (newName || tp.file.title) && 
     !ignr_dir.includes(immediateParentDir)) {
     
-    // Try to find a note with the same name as the parent directory
     const parentDirNote = tp.file.find_tfile(immediateParentDir);
     
     if (parentDirNote) {
         try {
-            // Read current content of the parent directory note
-            const parentContent = await app.vault.read(parentDirNote);
+            let parentContent = await app.vault.read(parentDirNote);
+            const finalNoteName = newName || tp.file.title;
+            const fileHeader = "# Files";
+            const divider = "# #line #grey";
             
-            // Count existing numbered list items to calculate next number
-            // Matches lines like "1. [[NoteName]]" or "42. [[Another Note]]"
-             // Find all numbered list items with their positions
-            const numberedListRegex = /^\d+\.\s+\[\[.+?\]\]/gm;
-            const matches = [...parentContent.matchAll(numberedListRegex)];
-            
-            if (matches.length === 0) {
-                // No existing list - append at the end
-                const nextNumber = 1;
-                const finalNoteName = newName || tp.file.title;
-                const newLink = `${nextNumber}. [[${finalNoteName}]]`;
-                const updatedContent = parentContent.trimEnd() + "\n" + newLink;
-                await app.vault.modify(parentDirNote, updatedContent);
+            let sectionStartIdx = parentContent.indexOf(fileHeader);
+            let updatedContent = parentContent;
+
+            if (sectionStartIdx === -1) {
+                // --- CASE: # Files DOES NOT EXIST (DETERMINE PLACEMENT) ---
+                let insertPos = -1;
+                
+                // Priority 1: After all content under "# References"
+                const refIdx = parentContent.indexOf("# References");
+                if (refIdx !== -1) {
+                    const contentAfterRef = parentContent.substring(refIdx + "# References".length);
+                    const nextHeadingInRef = contentAfterRef.match(/^#/m);
+                    
+                    if (nextHeadingInRef) {
+                        // Found the next heading (e.g., # Tags), insert right before it
+                        insertPos = refIdx + "# References".length + nextHeadingInRef.index;
+                    } else {
+                        // No heading after # References, append to end
+                        insertPos = parentContent.length;
+                    }
+                } 
+                // Priority 2: After second "# #double #grey"
+                else {
+                    const firstDouble = parentContent.indexOf("# #double #grey");
+                    if (firstDouble !== -1) {
+                        const secondDouble = parentContent.indexOf("# #double #grey", firstDouble + 1);
+                        if (secondDouble !== -1) {
+                            const lineEnd = parentContent.indexOf("\n", secondDouble);
+                            insertPos = lineEnd !== -1 ? lineEnd : parentContent.length;
+                        }
+                    }
+                }
+
+                if (insertPos === -1) insertPos = parentContent.length;
+
+                // Create new section with a trailing newline to avoid clashing with the following heading
+                const newSection = `\n\n${divider}\n${fileHeader}\n1. [[${finalNoteName}]]\n`;
+                updatedContent = parentContent.slice(0, insertPos).trimEnd() + newSection + parentContent.slice(insertPos);
+                
             } else {
-                // Find the last numbered item
-                const lastMatch = matches[matches.length - 1];
-                const lastMatchEnd = lastMatch.index + lastMatch[0].length;
+                // --- CASE: # Files EXISTS (SANDBOXED UPDATE) ---
+                const searchArea = parentContent.substring(sectionStartIdx + fileHeader.length);
+                const nextHeadingMatch = searchArea.match(/^#/m);
+                const sectionEndIdx = nextHeadingMatch 
+                    ? (sectionStartIdx + fileHeader.length + nextHeadingMatch.index) 
+                    : parentContent.length;
                 
-                // Calculate next number
-                const nextNumber = matches.length + 1;
-                const finalNoteName = newName || tp.file.title;
-                const newLink = `${nextNumber}. [[${finalNoteName}]]`;
-                
-                // Split content at the end of the last numbered item
-                const beforeList = parentContent.substring(0, lastMatchEnd);
-                const afterList = parentContent.substring(lastMatchEnd);
-                
-                // Insert the new link right after the last numbered item
-                const updatedContent = beforeList + "\n" + newLink + afterList;
-                
-                // Write back to parent directory note
+                const sectionBody = parentContent.substring(sectionStartIdx, sectionEndIdx);
+                const escapedName = finalNoteName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                const uniquenessRegex = new RegExp(`\\[\\[${escapedName}(\\|.*?)?\\]\\]`);
+
+                if (!uniquenessRegex.test(sectionBody)) {
+                    const numberedListRegex = /^\d+\.\s+\[\[.+?\]\]/gm;
+                    const matches = [...sectionBody.matchAll(numberedListRegex)];
+                    
+                    const nextNumber = matches.length + 1;
+                    const newLink = `${nextNumber}. [[${finalNoteName}]]`;
+
+                    if (matches.length > 0) {
+                        const lastMatch = matches[matches.length - 1];
+                        const lastItemPos = sectionStartIdx + sectionBody.indexOf(lastMatch[0]) + lastMatch[0].length;
+                        updatedContent = parentContent.slice(0, lastItemPos) + "\n" + newLink + parentContent.slice(lastItemPos);
+                    } else {
+                        const insertAt = sectionStartIdx + fileHeader.length;
+                        updatedContent = parentContent.slice(0, insertAt) + "\n" + newLink + parentContent.slice(insertAt);
+                    }
+                } else {
+                    return;
+                }
+            }
+
+            if (updatedContent !== parentContent) {
                 await app.vault.modify(parentDirNote, updatedContent);
             }
             
         } catch (error) {
-            console.error("Error appending to parent directory note:", error);
+            console.error("Error updating parent note:", error);
         }
     }
-}
-%>
+}    
+	// ========================================
+	// 7. AUTO-APPEND Parent Directory Tag
+	// ========================================
+	let tag = "";
+	if (immediateParentDir) {
+	    // 1. Remove Emojis (Uses single backslash for the Unicode property)
+	    let cleanName = immediateParentDir
+	        .replace(/^[\p{Emoji}\p{Extended_Pictographic}\s]+/u, "") 
+	        .trim()
+	        .toLowerCase();
+	
+	    // 2. Remove special characters (Keeping only a-z, 0-9, spaces, dashes, underscores)
+	    const tagBody = cleanName
+	        .replace(/[^a-z0-9\s\-_]/g, "") 
+	        .trim()
+	        .replace(/[\s\-]+/g, "-"); // Replaces spaces/dashes with a single hyphen
+	    
+	    tag = `#${tagBody}`;
+	}
+
+// --- ASSEMBLE NEW CONTENT ---
+let newContent = `${breadcrumbs}
 # #double #grey
+
 
 
 # #double #grey
@@ -155,28 +214,9 @@ if (immediateParentDir &&
 
 # #line #grey
 # Tags
-<%*
-// Logic to generate the directory tag
-const dirPath = tp.file.folder(true);
-const dirParts = dirPath.split("/").filter(d => d !== "/");
-const currentTitle = tp.file.title;
+${tag} #incomplete`;
+// WRITE TO FILE
+tR += newContent;
 
-// Determine target folder (handling Folder Notes logic)
-const isFolderNoteFile = dirParts[dirParts.length - 1] === currentTitle;
-const tagIndex = dirParts.length - 1 - (isFolderNoteFile ? 1 : 0);
-const targetFolder = dirParts[tagIndex];
-
-if (targetFolder) {
-    // 1. Remove Emojis/Symbols from the start (Unicode aware)
-    // Matches: Emojis, Pictographs, and any immediate following whitespace
-    let cleanName = targetFolder.replace(/^[\p{Emoji}\p{Extended_Pictographic}\s]+/u, "").trim();
-
-    // 2. Convert to Lowercase
-    cleanName = cleanName.toLowerCase();
-
-    // 3. Replace spaces with hyphens for valid hashtag format
-    const tag = cleanName.replace(/\s+/g, "-");
-    
-    tR += `#${tag}`;
-}
+new Notice("New Note Created!");
 %>

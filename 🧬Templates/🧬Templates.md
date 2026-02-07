@@ -2,7 +2,7 @@
 
 ---
 1. [[New Note]]
-2. [[Non-Relational Local Link]]
+2. [[Insert - Non-Relational Local Link]]
 
 ---
 #incomplete

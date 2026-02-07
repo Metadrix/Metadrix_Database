@@ -11,7 +11,13 @@
 ## Good Companies
 1. [[🍭Potential Clients/India/Gurgaon/Sector 43/ELAN GROUP|ELAN GROUP]]
 2. [[🍭Potential Clients/India/Gurgaon/Sector 43/AMALFI INFRAVENTURES|AMALFI INFRAVENTURES]]
-## Clients to be outreached
+
+---
+---
+# References
+
+# #line #grey 
+# Files
 1. [[1UPAMS- Attendance Management System]]
 2. [[AADARSHINI REAL ESTATE DEVELOPERS PRIVATE LIMITED]]
 3. [[Acredge Landworks Pvt. Ltd.]]
@@ -60,32 +66,28 @@
 46. [[Pluswealth Group]]
 47. [[Pret A Manger]]
 48. [[Ququ Cafe]]
-49. [[Ridge Tech Corporation]]
-50. [[Roots Astro]]
-51. [[Sagar Ratna]]
-52. [[Salayka EV Mobility Services Private Limited (Voltigo)]]
-53. [[Salus Healthcare Resources]]
-54. [[Scout Incorporation]]
-55. [[ShaadifyMe]]
-56. [[Sharpup Technology Private limited.]]
-57. [[SIMAERO India]]
-58. [[Skootr Offices]]
-59. [[Sonco Technologies]]
-60. [[Statiq]]
-61. [[The Quorum]]
-62. [[Tower Research Capital]]
-63. [[Tribeca Developers]]
-64. [[Trovya]]
-65. [[WaterMarc]]
-66. [[WeWork Two Horizon Centre]]
-67. [[Whisky Samba]]
-68. [[World Wide Technology]]
-69. [[Worldyard]]
-70. [[Z47]]
-78. [[AMALFI INFRAVENTURES]]
-
----
----
-# References
-
+49. [[Resources]]
+50. [[Ridge Tech Corporation]]
+51. [[Roots Astro]]
+52. [[Sagar Ratna]]
+53. [[Salayka EV Mobility Services Private Limited (Voltigo)]]
+54. [[Salus Healthcare Resources]]
+55. [[Scout Incorporation]]
+56. [[ShaadifyMe]]
+57. [[Sharpup Technology Private limited.]]
+58. [[SIMAERO India]]
+59. [[Skootr Offices]]
+60. [[Sonco Technologies]]
+61. [[Statiq]]
+62. [[The Quorum]]
+63. [[Tower Research Capital]]
+64. [[Tribeca Developers]]
+65. [[Trovya]]
+66. [[WaterMarc]]
+67. [[WeWork Two Horizon Centre]]
+68. [[Whisky Samba]]
+69. [[World Wide Technology]]
+70. [[Worldyard]]
+71. [[Z47]]
+# #line #grey
 # Tags
