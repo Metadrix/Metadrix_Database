@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "real_estate potential_client",
+  "search": "IT_Services",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.25984032751841574,
-  "close": true
+  "scale": 1.226439328483096,
+  "close": false
 }
