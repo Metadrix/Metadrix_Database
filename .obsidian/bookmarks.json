@@ -697,6 +697,38 @@
             }
           ],
           "title": "Prompts"
+        },
+        {
+          "type": "group",
+          "ctime": 1770643754174,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1770643754174,
+              "path": "Workflows/Workflows.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1770643806669,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1770644783102,
+                  "path": "Workflows/Outreach Email Generation/Outreach Email Generation.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1770643806669,
+                  "path": "Workflows/Outreach Email Generation/Email Generation.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Outreach Email Generation"
+            }
+          ],
+          "title": "Workflows"
         }
       ],
       "title": "sortspec"

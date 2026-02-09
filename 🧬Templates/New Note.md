@@ -1,6 +1,6 @@
 <%*
 // --- CONFIGURATION ---
-const vaultId = "Metadrix_Database";
+const vaultId = "Saarthak's_Headspace";
 const ignr_dir = [];
 // ---------------------
 
@@ -132,7 +132,7 @@ if (!isFolderNote && immediateParentDir &&
                     if (firstDouble !== -1) {
                         const secondDouble = parentContent.indexOf("# #double #grey", firstDouble + 1);
                         if (secondDouble !== -1) {
-                            const lineEnd = parentContent.indexOf("\\n", secondDouble);
+                            const lineEnd = parentContent.indexOf("\n", secondDouble);
                             insertPos = lineEnd !== -1 ? lineEnd : parentContent.length;
                         }
                     }
@@ -141,23 +141,24 @@ if (!isFolderNote && immediateParentDir &&
                 if (insertPos === -1) insertPos = parentContent.length;
 
                 // Create new section with a trailing newline to avoid clashing with the following heading
-                const newSection = `\\n\\n${divider}\\n${fileHeader}\\n1. [[${finalNoteName}]]\\n`;
+                const newSection = `\n\n${divider}\n${fileHeader}\n1. [[${finalNoteName}]]\n`;
                 updatedContent = parentContent.slice(0, insertPos).trimEnd() + newSection + parentContent.slice(insertPos);
                 
             } else {
                 // --- CASE: # Files EXISTS (SANDBOXED UPDATE) ---
                 const searchArea = parentContent.substring(sectionStartIdx + fileHeader.length);
+                console.log('searchArea =', searchArea);
                 const nextHeadingMatch = searchArea.match(/^#/m);
                 const sectionEndIdx = nextHeadingMatch 
                     ? (sectionStartIdx + fileHeader.length + nextHeadingMatch.index) 
                     : parentContent.length;
                 
                 const sectionBody = parentContent.substring(sectionStartIdx, sectionEndIdx);
-                const escapedName = finalNoteName.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&');
-                const uniquenessRegex = new RegExp(`\\\\[\\\\[${escapedName}(\\\\|.*?)?\\\\]\\\\]`);
+                const escapedName = finalNoteName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                const uniquenessRegex = new RegExp(`\\[\\[${escapedName}(\\|.*?)?\\]\\]`);
 
                 if (!uniquenessRegex.test(sectionBody)) {
-                    const numberedListRegex = /^\\d+\\.\\s+\\[\\[.+?\\]\\]/gm;
+                    const numberedListRegex = /^\d+\.\s+\[\[.+?\]\]/gm;
                     const matches = [...sectionBody.matchAll(numberedListRegex)];
                     
                     const nextNumber = matches.length + 1;
@@ -166,10 +167,10 @@ if (!isFolderNote && immediateParentDir &&
                     if (matches.length > 0) {
                         const lastMatch = matches[matches.length - 1];
                         const lastItemPos = sectionStartIdx + sectionBody.indexOf(lastMatch[0]) + lastMatch[0].length;
-                        updatedContent = parentContent.slice(0, lastItemPos) + "\\n" + newLink + parentContent.slice(lastItemPos);
+                        updatedContent = parentContent.slice(0, lastItemPos) + "\n" + newLink + parentContent.slice(lastItemPos);
                     } else {
                         const insertAt = sectionStartIdx + fileHeader.length;
-                        updatedContent = parentContent.slice(0, insertAt) + "\\n" + newLink + parentContent.slice(insertAt);
+                        updatedContent = parentContent.slice(0, insertAt) + "\n" + newLink + parentContent.slice(insertAt);
                     }
                 } else {
                     return;
@@ -192,16 +193,13 @@ if (!isFolderNote && immediateParentDir &&
 	let tag = "";
 	if (immediateParentDir) {
 	    // 1. Remove Emojis (Uses single backslash for the Unicode property)
-	    let cleanName = immediateParentDir
-	        .replace(/^[\\p{Emoji}\\p{Extended_Pictographic}\\s]+/u, "") 
-	        .trim()
-	        .toLowerCase();
+	    let cleanName = immediateParentDir.replace(/^[\p{Emoji}\p{Extended_Pictographic}\s]+/u, "").trim().toLowerCase();
 	
 	    // 2. Remove special characters (Keeping only a-z, 0-9, spaces, dashes, underscores)
 	    const tagBody = cleanName
-	        .replace(/[^a-z0-9\\s\\-_]/g, "") 
+	        .replace(/[^a-z0-9\s\-_]/g, "") 
 	        .trim()
-	        .replace(/[\\s\\-]+/g, "-"); // Replaces spaces/dashes with a single hyphen
+	        .replace(/[\s\-]+/g, "-"); // Replaces spaces/dashes with a single hyphen
 	    
 	    tag = `#${tagBody}`;
 	}

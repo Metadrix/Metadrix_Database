@@ -4,8 +4,6 @@
 2. [[Rev 1.1]]
 
 # #double #grey
-# References
-
-# #line #grey
+# References\n\n# #line #grey\n# Files\n1. [[Email Generation Workflow - v1.0]]\n# #line #grey
 # Tags
 #email-generation

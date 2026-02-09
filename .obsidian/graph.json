@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "IT_Services",
+  "search": "restaurant good_website",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.226439328483096,
-  "close": false
+  "scale": 0.6349988156887273,
+  "close": true
 }
