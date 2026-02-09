@@ -13,9 +13,6 @@
 ### Real Estate
 1. [[🍭Potential Clients/India/Gurgaon/Sector 43/ELAN GROUP|ELAN GROUP]]
 2. [[🍭Potential Clients/India/Gurgaon/Sector 43/AMALFI INFRAVENTURES|AMALFI INFRAVENTURES]]
-   
-## New Data
-1. 
 
 # #double #grey
 # References
