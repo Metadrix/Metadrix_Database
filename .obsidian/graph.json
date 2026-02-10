@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "restaurant good_website",
+  "search": "tribeca",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6349988156887273,
+  "scale": 0.6238338303276514,
   "close": true
 }
