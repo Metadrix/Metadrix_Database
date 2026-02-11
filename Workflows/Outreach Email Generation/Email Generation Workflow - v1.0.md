@@ -524,7 +524,7 @@ Write **1–2 short paragraphs**, together around **80–110 words**, that:
         
 - Bring in **BITS Pilani** subtly:
     
-    - Small team of BITS Pilani students/alumni.
+    - Experienced team of BITS Pilani students/alumni.
         
     - 2+ years of freelancing experience each for premium brands.
         
