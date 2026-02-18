@@ -350,5 +350,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "templater-obsidian:🧬Templates/Note Manager.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
   ]
 }
