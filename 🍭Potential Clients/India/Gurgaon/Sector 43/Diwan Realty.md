@@ -29,6 +29,9 @@
 ![[semrush.com-Diwan Realty.pdf]]
 
 ## #line
+## Email
+![[Diwan Realty Emails.docx]]
+# #line 
 ## Pain Points
 ### Hero/Landing Section
 #### UI/UX
