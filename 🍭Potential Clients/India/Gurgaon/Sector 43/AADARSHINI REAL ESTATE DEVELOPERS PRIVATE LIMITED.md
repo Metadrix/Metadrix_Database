@@ -29,6 +29,9 @@
 ### semrush.com
 
 ## #line
+## Email
+![[aadarshini Emails.docx]]
+# #line
 ## Pain Points
 ### Hero/Landing Section 
 #### UI/UX #s

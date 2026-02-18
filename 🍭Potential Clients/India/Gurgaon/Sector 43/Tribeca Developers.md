@@ -35,6 +35,9 @@ Score - 57
 Score - 71
 ![[🍭Potential Clients/India/Gurgaon/Sector 43/Resources/Tribeca Developers/semrush.com.pdf|semrush.com]]
 ## #line
+## Email
+![[Tribeca Emails.docx]]
+# #line 
 ## Pain Points
 ### Hero/Landing Section 
 #### UI/UX #s
