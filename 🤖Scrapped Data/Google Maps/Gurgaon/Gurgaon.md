@@ -455,7 +455,8 @@
 # #line #grey 
 # Files
 
-1. ./[[🤖Scrapped Data/Google Maps/Gurgaon/Sector 43/Sector 43]]
+1. ./[[Sector 40]]
+2. ./[[Sector 43]]
 # #dashed #grey
 
 # #line #grey
