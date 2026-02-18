@@ -654,111 +654,13 @@
         },
         {
           "type": "group",
-          "ctime": 1770382529854,
-          "items": [
-            {
-              "type": "group",
-              "ctime": 1770382529854,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1770382529854,
-                  "path": "Prompts/Email Generation/Email Generation.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "group",
-                  "ctime": 1770383087581,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1770383087581,
-                      "path": "Prompts/Email Generation/Rev 1.0/Rev 1.0.md",
-                      "subpath": "#^-"
-                    }
-                  ],
-                  "title": "Rev 1.0"
-                },
-                {
-                  "type": "group",
-                  "ctime": 1770384228733,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1770384228733,
-                      "path": "Prompts/Email Generation/Rev 1.1/Rev 1.1.md",
-                      "subpath": "#^-"
-                    }
-                  ],
-                  "title": "Rev 1.1"
-                }
-              ],
-              "title": "\\\\Email Generation"
-            }
-          ],
-          "title": "Prompts"
-        },
-        {
-          "type": "group",
-          "ctime": 1770643754174,
+          "ctime": 1771405568092,
           "items": [
             {
               "type": "file",
-              "ctime": 1770643754174,
-              "path": "Workflows/Workflows.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "group",
-              "ctime": 1770643806669,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1770644783102,
-                  "path": "Workflows/Outreach Email Generation/Outreach Email Generation.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1770643806669,
-                  "path": "Workflows/Outreach Email Generation/Email Generation.md",
-                  "subpath": "#^-"
-                }
-              ],
-              "title": "Outreach Email Generation"
-            }
-          ],
-          "title": "Workflows"
-        },
-        {
-          "type": "group",
-          "ctime": 1771399401725,
-          "items": [
-            {
-              "type": "file",
-              "ctime": 1771399401725,
+              "ctime": 1771405568092,
               "path": "🤖Scrapped Data/🤖Scrapped Data.md",
               "subpath": "#^-"
-            },
-            {
-              "type": "group",
-              "ctime": 1771409808663,
-              "items": [
-                {
-                  "type": "group",
-                  "ctime": 1771409808663,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1771409808664,
-                      "path": "🤖Scrapped Data/Google Maps/Gurgaon/Gurgaon.md",
-                      "subpath": "#^-"
-                    }
-                  ],
-                  "title": "\\\\Gurgaon"
-                }
-              ],
-              "title": "Google Maps"
             }
           ],
           "title": "🤖Scrapped Data"

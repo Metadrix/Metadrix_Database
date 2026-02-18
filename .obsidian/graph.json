@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tribeca",
+  "search": "Amal",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6238338303276514,
+  "scale": 0.6379401596031596,
   "close": true
 }
