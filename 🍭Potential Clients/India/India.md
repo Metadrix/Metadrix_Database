@@ -6,11 +6,11 @@
 ---
 # References
 # #line #grey
-# Files\n1. [[Gurgaon]]
+# Files\n1. [[🍭Potential Clients/India/Gurgaon/Gurgaon]]
 1. [[Banglore]]
 2. [[Delhi]]
 3. [[Faridabad]]
-4. [[Gurgaon]]
+4. [[🍭Potential Clients/India/Gurgaon/Gurgaon]]
 5. [[Hyderabad]]
 6. [[Meerut]]
 7. [[Mumbai]]
