@@ -77,7 +77,7 @@
 74. [ ] real_estate_agency
 75. [x] Real Estate
 76. [x] Real Estate Developer
-77. [ ] Real Estate Builders & Construction Company
+77. [x] Real Estate Builders & Construction Company
 78. [ ] restaurant
 79. [ ] roofing_contractor
 80. [ ] rv_park
