@@ -3,6 +3,8 @@
 1. Social media links are needed at navigation and footer both
 2. Navigation should have clear tabs with area names or no navigation at landing a direct CTA to search location
 3. Try to get clients directly to business, no beating around.
+4. Footer should have site details and project details in an interactive way
+5. https://homeseek.in/
 
 
 # #double #grey
