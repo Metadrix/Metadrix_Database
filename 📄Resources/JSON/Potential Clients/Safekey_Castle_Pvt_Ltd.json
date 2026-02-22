@@ -1,0 +1,79 @@
+{
+  "company_name": "Safekey Castle Pvt. Ltd.",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://safekey.in/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Good Website Length, Poor Footer Design, Non-Responsive, Poor Color Scheme",
+    "cta": "No Landing CTA, No Hero CTA, Poor Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Poor Navigation Links, Poor Footer Links",
+      "socials": "No Navigation Links, No Social Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "71",
+      "pagespeed_web_dev": "74+100+100+92"
+    }
+  },
+  "properties": {
+    "type": "",
+    "image_quality": "",
+    "video_quality": ""
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/in/aman-batra-6b8242a4/",
+      "status": "Inactive",
+      "content_quality": "No Posts"
+    },
+    "instagram": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "097100 00996, 98119 49600",
+    "email": "INFO.SAFEKEY@YAHOO.COM",
+    "address": "C 1033 GF, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate agency",
+    "hours": "Tuesday10:30 am–7:30 pm",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Safekey+Castle+Pvt.+Ltd./@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19a14fc7db4d:0xa31b8483d400e0ef!8m2!3d28.4591317!4d77.084016!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU55TkZwUU9YcG5SUkFC4AEA-gEECF4QNg!16s%2Fg%2F11nm_sxd5b"
+  },
+  "notes": ""
+}

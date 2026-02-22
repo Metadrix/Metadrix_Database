@@ -1,0 +1,79 @@
+{
+  "company_name": "Manchanda Realtors Pvt Ltd.",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.manchandarealtors.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Relevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Poor Footer Design, Poor Color Scheme",
+    "cta": "No Landing CTA, Good Hero CTA, No Navigation CTA, No Footer CTA, Good Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Good Footer Links",
+      "socials": "Good Navigation Links, Good Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "76",
+      "pagespeed_web_dev": "43+77+77+77"
+    }
+  },
+  "properties": {
+    "type": "Ultra luxury Flats, Luxury Flats, Residential Flats",
+    "image_quality": "Relevant, Poor",
+    "video_quality": "Irrelevant, Poor"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/manchanda-realtors-pvt-ltd/",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/manchandarealtors/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "http://facebook.com/MRPLRealEstate/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "https://x.com/manchandarealt1",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@manchandarealtors3261",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor"
+    }
+  },
+  "contact": {
+    "phone": "098717 27717, 9971911131, 93115 94047",
+    "email": "vikas@manchandarealtors.com, aakash@manchandarealtors.com",
+    "address": "36A & 36B, Ground Floor, Edmonton Shopping Mall, Hotel THE BRISTOL, Mehrauli-Gurgaon Rd, Gurugram, Haryana 122002"
+  },
+  "google_listing": {
+    "rating": "4.8",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Manchanda+Realtors+Pvt+Ltd./@28.4505266,77.0526696,14z/data=!3m1!5s0x390d1928b245de5d:0x7c29584b24a803e0!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d16555555558b:0x5491040921c86ac7!8m2!3d28.479548!4d77.0918457!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F1v0lj4d_"
+  },
+  "notes": ""
+}

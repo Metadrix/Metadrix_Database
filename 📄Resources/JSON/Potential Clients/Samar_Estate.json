@@ -1,0 +1,79 @@
+{
+  "company_name": "Samar Estate",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.samarestate.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Relevant Hero Design, Good Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Interaction, Poor Logo Design, Poor Section Animations, No Scroll Animations, Good Website Design and Flow, Good Website Length, Good Footer Design, Non-Responsive, Poor Color Scheme, Good Logo Design",
+    "cta": "No Landing CTA, No Hero CTA, No Navigation CTA, Poor Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Footer Links, Good Navigation Links",
+      "socials": "Good Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Good",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "74",
+      "pagespeed_web_dev": "91+98+77+100"
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats, Residential Flats, Builder Floors",
+    "image_quality": "Poor",
+    "video_quality": "Poor"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/samarestate/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "098993 98484(Samarjit Singh), 9899398484(Varunjit Singh), 08047016945",
+    "email": "samar.estate@yahoo.com, info@samarestate.com",
+    "address": "A-65, Sushant Lok 2, Sector 56, Gurugram, Ghata, Haryana 122011"
+  },
+  "google_listing": {
+    "rating": "4.5",
+    "reviews_count": "4",
+    "category": "Real estate agent",
+    "hours": "TuesdayClosedSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Samar+Estate/@28.4512646,77.0394947,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d191953e76b2b:0xb207f56611aee3bd!8m2!3d28.4255108!4d77.1084693!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDOSARJyZWFsX2VzdGF0ZV9hZ2VudHPgAQA!16s%2Fg%2F1hf714_vm"
+  },
+  "notes": ""
+}

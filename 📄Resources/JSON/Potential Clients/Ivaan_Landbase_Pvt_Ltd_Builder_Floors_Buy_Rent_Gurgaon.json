@@ -1,0 +1,79 @@
+{
+  "company_name": "Ivaan Landbase Pvt. Ltd. | Builder Floors | Buy & Rent Gurgaon",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.ivaanlandbase.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Long Website Length, Responsive, Poor Color Scheme, Good Hero Design, No Footer`",
+    "cta": "No Landing CTA, Good Hero CTA, No Navigation CTA, No Popup CTA, No Footer CTA",
+    "links": {
+      "on_site": "Poor Navigation Links, No Footer Links",
+      "socials": "No Social Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "78",
+      "pagespeed_web_dev": "47+91+77+100"
+    }
+  },
+  "properties": {
+    "type": "Villas, Residential Plots, Residential Flats, Builder Floors, Commertial Office Spaces",
+    "image_quality": "Poor, Relevant",
+    "video_quality": "Poor, Relevant"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/ivaanlandbase/",
+      "status": "Active",
+      "content_quality": "Poor, Relevant, Good"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/ivaanlandbasepvt.ltd/",
+      "status": "Active",
+      "content_quality": "Relevant, Irrelevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/ivaanlandbase",
+      "status": "Active",
+      "content_quality": "Relevant, Poor, Irrelevant"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "099109 80007",
+    "email": "sushil.singh@ivaanlandbase.com",
+    "address": "second floor, PLOT NO 121, Sector 44 Rd, near Hotel RAMADA, Kanhai Colony, Sector 44, Gurugram, Haryana 122003"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate agent",
+    "hours": "Tuesday9 am–9 pm",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Ivaan+Landbase+Pvt.+Ltd.+%7C+Builder+Floors+%7C+Buy+%26+Rent+Gurgaon/@28.4175708,77.0146602,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19cc0502cc3d:0x4ee03c47d59564b2!8m2!3d28.4491013!4d77.0767255!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbnRz4AEA!16s%2Fg%2F11t4jyykr7"
+  },
+  "notes": ""
+}

@@ -1,0 +1,79 @@
+{
+  "company_name": "Luxury Residential Property | Commercial Property | Holiday Homes",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.propnkey.com/",
+    "overall_impression": "Good",
+    "full_website_analysis": "Relevant Hero Design, Good Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Good Navigation Design, Good Navigation Interaction, Good Logo Design, Good Section Animations, No Scroll Animations, Good Website Design and Flow, Good Website Length, Good Footer Design, Responsive, Good Color Scheme",
+    "cta": "Good Landing CTA, Good Hero CTA, Good Navigation CTA, Good Footer CTA, Good Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Good Footer Links",
+      "socials": "Good Navigation Links, Good Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "59",
+      "pagespeed_web_dev": "58+76+96+92"
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats, Residential Flats",
+    "image_quality": "Relevant, Good",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/propnkey/about/",
+      "status": "Somewhat Active",
+      "content_quality": "Irrelevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/propnkey",
+      "status": "Active",
+      "content_quality": "Relevant, Poor, Good"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/propnkey",
+      "status": "Inactive",
+      "content_quality": "Irrelevant"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@propnkey",
+      "status": "Inactive",
+      "content_quality": "Poor, Relevant"
+    }
+  },
+  "contact": {
+    "phone": "8287600548, 097176 72008",
+    "email": "vikas@propnkey.com, info@propnkey.com",
+    "address": "1513, Galleria Market, Sector 28, DLF Phase IV, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate consultant",
+    "hours": "Tuesday10 am–6 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Luxury+Residential+Property+%7C+Commercial+Property+%7C+Holiday+Homes/@28.4744114,77.0562373,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19c17b808f2d:0x458e840c50fd0889!8m2!3d28.4674147!4d77.0818622!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11qzp02k8q"
+  },
+  "notes": ""
+}

@@ -1,0 +1,79 @@
+{
+  "company_name": "YASH PROPERTIES",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://yashproperties.co.in/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Relevant Hero Design, Poor Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Good Website Length, Good Footer Design, Responsive, Good Color Scheme",
+    "cta": "Good Landing CTA, Good Hero CTA, Poor Navigation CTA, Good Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Good Footer Links",
+      "socials": "Good Footer Links, No Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "46",
+      "pagespeed_web_dev": "61+76+100+54"
+    }
+  },
+  "properties": {
+    "type": "Builder Floors",
+    "image_quality": "Relevant, Poor",
+    "video_quality": "Relevant, Poor"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/yashproperties45?igsh=dDFvMnBuYXNmZDR2&utm_source=qr",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "098180 78997, 8800055440",
+    "email": "Propertymagicianllp@gmail.com, Yashproperties45@gmail.com",
+    "address": "1791P, near Metro, Sector 45, Gurugram, Haryana 122003"
+  },
+  "google_listing": {
+    "rating": "4.6",
+    "reviews_count": "4",
+    "category": "Real estate agency",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/YASH+PROPERTIES/@28.4505266,77.0526696,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d18f31c1107b5:0xb73a250e8dec6133!8m2!3d28.4499923!4d77.0647891!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN54AEA!16s%2Fg%2F11b86jyzkp"
+  },
+  "notes": ""
+}

@@ -1,0 +1,79 @@
+{
+  "company_name": "Flat and Flatmates® - Gurugram",
+  "action": "Research",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://nextflat.in/",
+    "overall_impression": "",
+    "full_website_analysis": "",
+    "cta": "",
+    "links": {
+      "on_site": "",
+      "socials": ""
+    },
+    "seo_sem": {
+      "on_site": "",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "",
+      "pagespeed_web_dev": ""
+    }
+  },
+  "properties": {
+    "type": "",
+    "image_quality": "",
+    "video_quality": ""
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "",
+    "email": "",
+    "address": "302, 3rd floor, Star Tower, Sector- 30 Silokara road, Highway-48 exit- 8, Haryana 122001"
+  },
+  "google_listing": {
+    "rating": "4.4",
+    "reviews_count": "4",
+    "category": "Real estate agency",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Flat+and+Flatmates%C2%AE+-+Gurugram/@28.4633632,77.047413,14z/data=!3m1!5s0x390d1865ee41543f:0x4bf6a0f0c454b765!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19e7ceca02b3:0xc31b8251beea207a!8m2!3d28.4608263!4d77.0525338!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVF0WjNWRVdWVm5FQUXgAQD6AQQIKRA_!16s%2Fg%2F11fjzwmv2p"
+  },
+  "notes": ""
+}

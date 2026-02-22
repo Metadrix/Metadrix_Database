@@ -1,0 +1,79 @@
+{
+  "company_name": "Shree Shyam Associates : Top Property Dealer in Gurgaon",
+  "action": "Message",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.shreeshyamassociates.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Relevant Hero Design, Poor Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Long Website Length, Poor Footer Design, Non-Responsive, Poor Color Scheme, Good Hero Design, Poor Website Design and Flow",
+    "cta": "No Landing CTA, Poor Hero CTA, Poor Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Footer Links, Poor Navigation Links",
+      "socials": "No Navigation Links, No Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "47",
+      "pagespeed_web_dev": "60+86+88+100"
+    }
+  },
+  "properties": {
+    "type": "Builder Floors",
+    "image_quality": "",
+    "video_quality": ""
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/shreeshyamassociates57/",
+      "status": "Somewhat Active",
+      "content_quality": "Irrelevant"
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/c/ShreeShyamAssociates",
+      "status": "Inactive",
+      "content_quality": "Relevant, Good"
+    }
+  },
+  "contact": {
+    "phone": "9999108990, 098115 52797, 9773778473",
+    "email": "",
+    "address": "Plot No.1114-AP, Block H, Sector 57, Gurugram, Haryana 122011"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate consultant",
+    "hours": "Tuesday9 am–8 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Shree+Shyam+Associates+:+Top+Property+Dealer+in+Gurgaon/@28.4497798,77.0068166,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d235b4abf2f09:0x42f19219cd86e56d!8m2!3d28.4248326!4d77.0762992!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyeHdiRk5XWkRWYVZsSlNUMWQwYUZSdWEzUldSWEJKVmxkb2NGRnRZeEFC4AEA-gEECAAQQQ!16s%2Fg%2F11khphyww6"
+  },
+  "notes": ""
+}

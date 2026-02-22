@@ -1,0 +1,79 @@
+{
+  "company_name": "A-Listers",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.a-listers.in/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Good Navigation Design, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Long Website Length, No Footer`, Responsive, Poor Color Scheme, Good Hero Design",
+    "cta": "No Landing CTA, Poor Hero CTA, No Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, No Footer Links",
+      "socials": "No Navigation Links, Poor Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "71",
+      "pagespeed_web_dev": "85+81+73+92"
+    }
+  },
+  "properties": {
+    "type": "Residential Plots, Residential Flats, Luxury Flats, Builder Floors",
+    "image_quality": "Poor, Relevant",
+    "video_quality": "Poor, Relevant"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/thealisters/",
+      "status": "Inactive",
+      "content_quality": "Irrelevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/a_listers_realestate/",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor, Irrelevant"
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "098106 90580",
+    "email": "raoul@a-listers.in",
+    "address": "DLF One Horizon Centre, Golf Course Rd, Harizan Colony, DLF Phase 5, Sector 43, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate agency",
+    "hours": "Tuesday10 am–7 pm",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/A-Listers/@28.4633632,77.047413,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0xa01ce4e008e58c9f:0x6b1bb9f726acd308!8m2!3d28.4515996!4d77.0981726!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDOSARJyZWFsX2VzdGF0ZV9hZ2VuY3ngAQA!16s%2Fg%2F11lm9m5rj8"
+  },
+  "notes": ""
+}

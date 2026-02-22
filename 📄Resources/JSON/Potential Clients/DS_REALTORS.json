@@ -1,0 +1,79 @@
+{
+  "company_name": "DS REALTORS",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://dsrealtors.in/property/home",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Relevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Short Website Length, Poor Footer Design, Responsive, Poor Color Scheme",
+    "cta": "No Landing CTA, No Hero CTA, Poor Navigation CTA, No Popup CTA, No Footer CTA",
+    "links": {
+      "on_site": "Poor Navigation Links, Poor Footer Links",
+      "socials": "No Navigation Links, No Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "35",
+      "pagespeed_web_dev": "47+76+96+82"
+    }
+  },
+  "properties": {
+    "type": "Builder Floors",
+    "image_quality": "Poor, Relevant",
+    "video_quality": "Relevant, Poor"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/dsrealtorss/?hl=en",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/dineshgrover4/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "9821113400, 9350149166",
+    "email": "Dsrealtorsggn@gmail.com",
+    "address": "Block B1, HUDA, NEAR, 2073, MKM Market Rd, Sector 57, Gurugram, Haryana 122011"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate rental agency",
+    "hours": "TuesdayClosedSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/DS+REALTORS/@28.4505266,77.0526696,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d2300359572c9:0xf6d3d94dcfe70937!8m2!3d28.424819!4d77.085744!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEZcmVhbF9lc3RhdGVfcmVudGFsX2FnZW5jeZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSMmFuVnRYMnRuUlJBQuABAPoBBAg5EDQ!16s%2Fg%2F11w9crzlwx"
+  },
+  "notes": ""
+}

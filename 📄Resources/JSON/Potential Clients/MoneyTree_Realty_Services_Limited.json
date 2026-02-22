@@ -1,0 +1,79 @@
+{
+  "company_name": "MoneyTree Realty Services Limited",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://moneytreerealty.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Good Hero Design, Relevant Hero Design, Good Hero Images/Video, Good Hero Size, Poor Navigation Design, Poor Navigation Interaction, Good Logo Design, Good Section Animations, No Scroll Animations, Good Website Design and Flow, Good Color Scheme, Responsive, Good Footer Design",
+    "cta": "Good Landing CTA, Good Hero CTA, Good Navigation CTA, Good Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Good Footer Links",
+      "socials": "Good Navigation Links, Good Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Good",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "79",
+      "pagespeed_web_dev": "42+92+96+100"
+    }
+  },
+  "properties": {
+    "type": "Ultra luxury Flats, Luxury Flats, Residential Flats",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/moneytree-realty/about/",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/moneytreerealtyofficial/",
+      "status": "Somewhat Active",
+      "content_quality": "Irrelevant, Poor"
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "https://x.com/MoneytreeRSPL",
+      "status": "Active",
+      "content_quality": "Relevant, Good"
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@Moneytreerealtyofficial/videos",
+      "status": "Active",
+      "content_quality": "Irrelevant, Poor"
+    }
+  },
+  "contact": {
+    "phone": "097323 00007",
+    "email": "customercare@moneytreerealty.com",
+    "address": "11th Floor, JMD MEGAPOLIS, 1142-45, Sector 48, Gurugram, Haryana 122018"
+  },
+  "google_listing": {
+    "rating": "4.7",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "Tuesday9 am–8 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/MoneyTree+Realty+Services+Limited/@28.4258146,77.0526623,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d2384f080d397:0x42adb8f62cceaf74!8m2!3d28.4194487!4d77.0388156!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11y2psdvgm"
+  },
+  "notes": ""
+}

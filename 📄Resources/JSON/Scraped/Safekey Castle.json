@@ -1,0 +1,97 @@
+```json
+{
+  "company_name": "Safekey Castle Private Limited",
+  "website": "https://safekey.in/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Castle Heights – Urban Oasis",
+      "location": null,
+      "type": "residential",
+      "key_points": [
+        "Spacious city-center apartments blending comfort with urban living",
+        "Part of a multi-project portfolio under the Castle Heights brand"
+      ]
+    },
+    {
+      "name": "Castle Heights – Green Meadows",
+      "location": null,
+      "type": "residential",
+      "key_points": [
+        "Family-oriented homes set in greener, quieter surroundings"
+      ]
+    },
+    {
+      "name": "Castle Heights – Skyline View",
+      "location": null,
+      "type": "luxury residential",
+      "key_points": [
+        "Luxury penthouses marketed on city skyline views and premium positioning"
+      ]
+    },
+    {
+      "name": "Castle Heights – Harbor Residences",
+      "location": null,
+      "type": "luxury residential",
+      "key_points": [
+        "Waterfront living concept with harbor views and walking-path access"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Safekey Castle positions itself as a trusted partner in real estate investment, offering residential and commercial projects alongside property consultancy. The brand aims for a comfort-meets-style premium appeal. However, the current web presence is minimal and template-like, making it difficult to assess actual market traction.",
+    "differentiators": [
+      "Combines residential development, commercial spaces, and property consultancy under one brand",
+      "Tagline 'Your trusted partner in real estate investments' signals a trust-first approach"
+    ],
+    "risks_or_weaknesses": [
+      "Website uses placeholder contact details (email@email.com, +123456789) and stock photos, indicating very early-stage or underdeveloped digital presence",
+      "No verifiable press coverage, project completions, or customer testimonials found publicly",
+      "Social media links on the website point to generic platform homepages (facebook.com, instagram.com), not branded company pages"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "residential and commercial real estate, India",
+    "key_trends": [
+      "Indian real estate developers increasingly rely on digital marketing and social media to generate leads, especially on Instagram and YouTube",
+      "Trust and transparency (RERA compliance, verified listings) are key purchase drivers for Indian homebuyers",
+      "Virtual property tours and 3D walkthroughs are becoming standard expectations among urban buyers",
+      "Content marketing (project updates, testimonials, locality guides) is critical for brand building among mid-to-premium real estate players"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No direct competitor was specified. Compared to established Indian real estate brands, Safekey Castle's digital footprint is nascent with no active social media presence and a placeholder-level website. Competitors in the same segment typically maintain active Instagram pages, verified Google Business profiles, and regular content output.",
+    "notes": [
+      "The absence of real contact info and branded social accounts is a significant gap versus even small regional competitors",
+      "An opportunity exists to leapfrog local competition quickly through structured digital marketing and social media activation"
+    ]
+  }
+}
+```

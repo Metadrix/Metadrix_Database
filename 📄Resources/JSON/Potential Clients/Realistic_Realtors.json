@@ -1,0 +1,79 @@
+{
+  "company_name": "Realistic Realtors",
+  "action": "Research",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://realisticrealtors.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Good Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Good Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Logo Design, Good Navigation Interaction, No Section Animations, Poor Scroll Animations, Poor Website Design and Flow, Good Website Length, Good Footer Design, Responsive, Poor Color Scheme",
+    "cta": "No Landing CTA, Poor Hero CTA, No Navigation CTA, Poor Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Footer Links, Good Navigation Links",
+      "socials": "Good Footer Links, No Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "65",
+      "pagespeed_web_dev": "28+91+88+83"
+    }
+  },
+  "properties": {
+    "type": "Commertial Office Spaces",
+    "image_quality": "Poor, Relevant",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/realistic-realtors/?originalSubdomain=in",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/realistic.realtors/?hl=en",
+      "status": "Active",
+      "content_quality": "Irrelevant"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/realisticrealtors/",
+      "status": "Active",
+      "content_quality": "Irrelevant"
+    },
+    "twitter_x": {
+      "link": "https://x.com/RealisticIndia",
+      "status": "Active",
+      "content_quality": "Irrelevant"
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@RealisticRealtors/videos",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    }
+  },
+  "contact": {
+    "phone": "8470084700, 0124 470 7000",
+    "email": "info@rrpl.net",
+    "address": "315-316, 3rd Floor, Time Tower, Mehrauli-Gurgaon Rd, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "4.1",
+    "reviews_count": "4",
+    "category": "Real estate agency",
+    "hours": "",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Realistic+Realtors/@28.4514856,77.0567599,14z/data=!3m1!5s0x390d19221c996d4f:0x7598fbb47d83ccfe!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d191f5b587a37:0x3f449b3101c4eaba!8m2!3d28.4782543!4d77.0761504!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEkQ2hkRFNVaE5NRzluUzBWUU0wcDNjRE53YlRsRGRUQjNSUkFC4AEA-gEECAAQJQ!16s%2Fg%2F1td1hchd"
+  },
+  "notes": ""
+}

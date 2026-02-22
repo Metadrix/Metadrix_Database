@@ -1,0 +1,88 @@
+{
+  "company_name": "ICONIC REALTY - Verified Property Consultant in Gurgaon",
+  "website": "http://www.iconicrealty.co/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Luxury Builder Floors",
+      "location": "Gurugram / South Delhi",
+      "type": "luxury residential",
+      "key_points": [
+        "Architect-designed floors with premium amenities targeting high-end buyers",
+        "Positioned across Gurugram and South Delhi markets"
+      ]
+    },
+    {
+      "name": "SCO (Shop-Cum-Office) Spaces",
+      "location": "Gurgaon",
+      "type": "commercial",
+      "key_points": [
+        "Specializes in leasing, investment, and property management for SCO spaces",
+        "Targets business ventures and enterprises seeking prime commercial locations"
+      ]
+    },
+    {
+      "name": "Plots, Villas & Farmhouses",
+      "location": "Gurugram / Goa",
+      "type": "luxury residential / agricultural",
+      "key_points": [
+        "Covers diverse property types including farmhouses in Goa, extending geographic footprint",
+        "Targets both investment buyers and lifestyle property seekers"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "ICONIC REALTY positions itself as a trusted, verified property consultant with over 15 years of experience since 2008. It serves the premium and luxury segment across Gurugram, South Delhi, and Goa. The brand emphasizes personalized service, long-term client relationships, and verified brokerage for both residential and commercial properties.",
+    "differentiators": [
+      "Established since 2008, giving them a long track record and brand trust in Gurgaon",
+      "Multi-category coverage spanning residential, commercial, industrial, and agricultural properties across three key markets"
+    ],
+    "risks_or_weaknesses": [
+      "Limited online brand presence and no recent press coverage found, suggesting weak digital marketing",
+      "Operates in a highly fragmented and competitive Gurgaon broker market with many similar mid-size consultants"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/iconic.realty/",
+      "activity_level": "active",
+      "typical_content": "Property listings including builder floors, plots, villas, and farmhouses across Gurugram, South Delhi, and Goa.",
+      "engagement_quality": "10K followers and 773 posts suggest consistent posting; engagement depth (comments/saves) not confirmed."
+    },
+    "linkedin": {
+      "url": "https://in.linkedin.com/company/iconic-realty-gurgaon",
+      "activity_level": "semi-active",
+      "typical_content": "Company presence exists but limited public content visible; occasional festive and recruitment posts.",
+      "engagement_quality": "Engagement appears low; no significant follower count or post interaction data publicly visible."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury and premium real estate consulting, Gurgaon / Delhi NCR",
+    "key_trends": [
+      "Rising demand for short-form video and Instagram Reels for property showcasing — a gap ICONIC could exploit given current static-post focus",
+      "High-net-worth buyers increasingly rely on digital-first discovery (Google Ads, SEO, social) before engaging brokers",
+      "SCO space investments are surging in Gurgaon, making commercial advisory a high-growth niche to double down on",
+      "NRI buyer segment is growing rapidly in Gurgaon, requiring virtual tour capabilities and trust-based digital content"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No primary competitor was specified. In the Gurgaon property consultancy space, ICONIC REALTY competes with both large national platforms like Anarock and 99acres as well as boutique local brokerages. Compared to larger players, ICONIC has deeper local expertise but a significantly smaller digital footprint.",
+    "notes": [
+      "Larger aggregators like 99acres or MagicBricks dominate online search visibility, posing a discovery challenge for boutique firms like ICONIC",
+      "ICONIC's longevity since 2008 and multi-segment coverage are competitive advantages that smaller or newer consultants lack"
+    ]
+  }
+}

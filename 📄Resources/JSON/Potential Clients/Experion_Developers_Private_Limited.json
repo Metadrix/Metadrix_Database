@@ -1,0 +1,79 @@
+{
+  "company_name": "Experion Developers Private Limited",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.experion.co/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Relevant Hero Design, Poor Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Good Navigation Design, Good Navigation Interaction, Good Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Good Website Length, Good Footer Design, Responsive, Good Color Scheme",
+    "cta": "No Landing CTA, No Hero CTA, Good Navigation CTA, Poor Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Good Footer Links",
+      "socials": "No Navigation Links, Good Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Good",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "93",
+      "pagespeed_web_dev": "61+45+77+92"
+    }
+  },
+  "properties": {
+    "type": "Ultra luxury Flats, Luxury Flats",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/experiondevelopers/",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/experiondevelopers/",
+      "status": "Active",
+      "content_quality": "Irrelevant, Good"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/ExperionDevelopers",
+      "status": "Active",
+      "content_quality": "Irrelevant, Good"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@ExperionDevelopersOFFICIAL/videos",
+      "status": "Active",
+      "content_quality": "Poor, Irrelevant"
+    }
+  },
+  "contact": {
+    "phone": "0124 628 1630",
+    "email": "contact@experion.net.in, cveo@experion.net.in",
+    "address": "8th Floor, Wing B, Milestone Experion Centre, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001"
+  },
+  "google_listing": {
+    "rating": "4.6",
+    "reviews_count": "4",
+    "category": "Real estate developer",
+    "hours": "Tuesday9:30 am–6 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Experion+Developers+Private+Limited/@28.4505266,77.0526696,14z/data=!3m1!5s0x390d1851aba0744b:0x621f3e7fefe6f9c8!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d18efa88609bf:0x6623ef64567cf101!8m2!3d28.4622542!4d77.0502149!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEVcmVhbF9lc3RhdGVfZGV2ZWxvcGVymgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJreGIwMHpWWHBrYlRFeFdraE9TbFpZUmtWVWJURnJXV3h3VTFGc1JSQULgAQD6AQQIVxA_!16s%2Fg%2F119thz11k"
+  },
+  "notes": ""
+}

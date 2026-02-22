@@ -1,0 +1,79 @@
+{
+  "company_name": "Value Advisors (Real Estate Consultant)",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.valueadvisors.in/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "No Website",
+    "cta": "",
+    "links": {
+      "on_site": "",
+      "socials": ""
+    },
+    "seo_sem": {
+      "on_site": "",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "",
+      "pagespeed_web_dev": ""
+    }
+  },
+  "properties": {
+    "type": "Builder Floors",
+    "image_quality": "Good, Relevant",
+    "video_quality": "Relevant, Poor"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/value.advisors/?hl=en",
+      "status": "Inactive",
+      "content_quality": "Irrelevant"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/valueadvisor.business.site, https://www.facebook.com/akhilesh.jindal25/",
+      "status": "Inactive",
+      "content_quality": "Irrelevant"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/channel/UCiMrLHJmN4kvQiM-Rm62UIA",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor"
+    }
+  },
+  "contact": {
+    "phone": "097115 57979",
+    "email": "info@valueadvisors.in",
+    "address": "Office 219, Block H, UGF Sushant Shopping Arcade, near The Palms Town & Country Club, B Block, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122002"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate consultant",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Value+Advisors+(Real+Estate+Consultant)/@28.4497798,77.0068166,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19f9c0d69acb:0xd31c0c9cec47de81!8m2!3d28.4598623!4d77.0767726!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11g0hsqlsz"
+  },
+  "notes": ""
+}

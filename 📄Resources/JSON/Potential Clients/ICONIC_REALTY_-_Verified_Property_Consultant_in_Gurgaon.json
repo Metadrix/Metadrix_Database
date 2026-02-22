@@ -1,0 +1,79 @@
+{
+  "company_name": "ICONIC REALTY - Verified Property Consultant in Gurgaon",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.iconicrealty.co/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, Poor Scroll Animations, Poor Website Design and Flow, Good Website Length, Poor Footer Design, Responsive, Poor Color Scheme",
+    "cta": "No Landing CTA, Poor Hero CTA, Poor Navigation CTA, Poor Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Good Footer Links",
+      "socials": "Good Footer Links, Poor Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Good",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "74",
+      "pagespeed_web_dev": "59+79+81+92"
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats, Builder Floors",
+    "image_quality": "",
+    "video_quality": ""
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/iconic-realty1/",
+      "status": "Somewhat Active",
+      "content_quality": "Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/iconic.realty/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/iconicrealty1",
+      "status": "Somewhat Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/channel/UCM8BglyK1K2HiBddrSZKlAg",
+      "status": "Somewhat Active",
+      "content_quality": "Relevant, Poor"
+    }
+  },
+  "contact": {
+    "phone": "9873881919, 098104 46667",
+    "email": "info@iconicrealty.co",
+    "address": "C-526, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "4.6",
+    "reviews_count": "4",
+    "category": "Real estate agent",
+    "hours": "Tuesday10 am–6 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/ICONIC+REALTY+-+Verified+Property+Consultant+in+Gurgaon/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19ce5669114b:0x3b9aeeb9b8b34f64!8m2!3d28.4564873!4d77.0802981!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbnRzmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1T1psa3dSbTVTTVZwS1lVVXhjVlZ0U210aGJVcENWRlpTZGxkdFl4QULgAQD6AQUIpAEQOQ!16s%2Fg%2F11j8vtphkm"
+  },
+  "notes": "- Targeting HNIs - Unclear what their product is on the website - Poor images and fake images on website - Youtube has very poor videos"
+}

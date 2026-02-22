@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Amal",
+  "search": "marketing",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.388258728948122,
-  "close": true
+  "scale": 0.25535939163315846,
+  "close": false
 }

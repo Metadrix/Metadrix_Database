@@ -1,0 +1,79 @@
+{
+  "company_name": "Saluja Realtors",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.salujarealtors.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Interaction, Poor Logo Design, Poor Section Animations, No Scroll Animations, Poor Website Design and Flow, Long Website Length, No Footer`, Responsive, Poor Color Scheme, Good Hero Design",
+    "cta": "Poor Landing CTA, No Hero CTA, No Navigation CTA, Poor Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Poor Navigation Links, No Footer Links",
+      "socials": "No Navigation Links, No Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "69",
+      "pagespeed_web_dev": "56+92+96+100"
+    }
+  },
+  "properties": {
+    "type": "",
+    "image_quality": "",
+    "video_quality": ""
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/in/rajeev-saluja-022b4219/?originalSubdomain=in",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/saluja_realtors/",
+      "status": "Active",
+      "content_quality": "Relevant, Good"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/commercialrealestateservicesgurgaon/",
+      "status": "Inactive",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "099100 72803, 9810492803",
+    "email": "rajeev@salujarealtors.com, sanjiv@salujarealtors.com, sanjiv.saluja@salujarealtors.com",
+    "address": "C - 8/5, near DLF shopping mall, DLF Phase 1, Sector 26A, Gurugram, Haryana 122002"
+  },
+  "google_listing": {
+    "rating": "4.6",
+    "reviews_count": "4",
+    "category": "Real estate agency",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Saluja+Realtors/@28.4633632,77.047413,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d232cb0137907:0x76223b4af625d84d!8m2!3d28.4677505!4d77.0990259!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN54AEA!16s%2Fg%2F11c0xn7prk"
+  },
+  "notes": "- WIX website"
+}

@@ -1,0 +1,69 @@
+{
+  "company_name": "360 REALTORS LLP",
+  "action": "Research",
+  "potential_services": [],
+  "website": {
+    "link": "https://www.360realtors.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "",
+    "cta": "",
+    "links": {
+      "on_site": "",
+      "socials": ""
+    },
+    "seo_sem": {
+      "on_site": "",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "",
+      "pagespeed_web_dev": ""
+    }
+  },
+  "properties": {
+    "type": "",
+    "image_quality": "",
+    "video_quality": ""
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "0124 426 0360",
+    "email": "",
+    "address": "Global Foyer, Global Foyer Mall, 201A-201C, Golf Course Rd, Sector 43, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "3.6",
+    "reviews_count": "3",
+    "category": "Real estate agency",
+    "hours": "Tuesday9:30 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/360+REALTORS+LLP/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d18ce436dc72f:0xfa1d3587e5b7da38!8m2!3d28.4606042!4d77.0949158!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN54AEA!16s%2Fg%2F11gglpk5rg"
+  },
+  "notes": ""
+}

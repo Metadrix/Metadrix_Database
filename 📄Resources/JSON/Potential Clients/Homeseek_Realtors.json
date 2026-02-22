@@ -1,0 +1,79 @@
+{
+  "company_name": "Homeseek Realtors",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://homeseek.in/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Relevant Hero Design, Poor Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Poor Navigation Design, Poor Navigation Interaction, No Section Animations, Good Scroll Animations, Good Website Design and Flow, Good Website Length, Poor Footer Design, Responsive, Good Color Scheme, Poor Scroll Animations",
+    "cta": "No Landing CTA, Good Hero CTA, Poor Navigation CTA, Good Footer CTA, No Popup CTA, Good Landing CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Poor Footer Links",
+      "socials": "No Footer Links, Poor Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "56",
+      "pagespeed_web_dev": "64+88+96+85"
+    }
+  },
+  "properties": {
+    "type": "Ultra luxury Flats, Luxury Flats",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/homeseekrealtors/?originalSubdomain=in",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/homeseekrealtors/",
+      "status": "Inactive",
+      "content_quality": "Irrelevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/p/Homeseek-Realtors-100067408540993/",
+      "status": "Inactive",
+      "content_quality": "Poor, Irrelevant"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "9990940505 , 9999257133, 9711025644",
+    "email": "enquiry@homeseek.in, homeseekrealtors@gmail.com",
+    "address": "1st Floor, CENTRUM PLAZA, 112-112A, Golf Course Rd, IILM Institute, Sector 53, Gurugram, Haryana 122011"
+  },
+  "google_listing": {
+    "rating": "4.1",
+    "reviews_count": "4",
+    "category": "Real estate agency",
+    "hours": "Tuesday9 am–6:30 pm",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Homeseek+Realtors/@28.4707385,77.0554153,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d18c4d04af6a9:0x70a556fc26178720!8m2!3d28.4344047!4d77.1018619!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN5mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwYWMxb3hUbEJXTTFwWlltMTRabUpJVGtwV1dHaHRWbFpXV2xvell4QULgAQD6AQQIABBC!16s%2Fg%2F1tcyq6nn"
+  },
+  "notes": ""
+}

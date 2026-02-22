@@ -1,0 +1,79 @@
+{
+  "company_name": "NStay HOMES - RENOVATING REALESTATE",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.nstayhomes.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, Good Website Length, Poor Website Design and Flow, No Scroll Animations, No Section Animations, Poor Footer Design, Responsive, Poor Color Scheme",
+    "cta": "No Landing CTA, No Hero CTA, No Footer CTA, No Popup CTA, Poor Navigation CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Poor Footer Links",
+      "socials": "No Navigation Links, No Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "65",
+      "pagespeed_web_dev": "35+75+73+85"
+    }
+  },
+  "properties": {
+    "type": "Residential Plots",
+    "image_quality": "Poor, Relevant",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/nstay-homes/?originalSubdomain=in",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/nstayhomes/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/nstayhomes/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/channel/UCZU1hnFZ5IXZGaZhl_yd_2g",
+      "status": "Somewhat Active",
+      "content_quality": "Relevant"
+    }
+  },
+  "contact": {
+    "phone": "091191 19605",
+    "email": "homes@nstay.in",
+    "address": "Plot No. 1318, near Harish Bakery, Sector 31 - 32A, Sector 31, Gurugram, Haryana 122001"
+  },
+  "google_listing": {
+    "rating": "4.7",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "TuesdayClosedSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/NStay+HOMES+-+RENOVATING+REALESTATE/@28.4550917,77.056419,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d2310c047407f:0x88829bfa74e49e03!8m2!3d28.4497798!4d77.0449254!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11fm4blc3z"
+  },
+  "notes": ""
+}

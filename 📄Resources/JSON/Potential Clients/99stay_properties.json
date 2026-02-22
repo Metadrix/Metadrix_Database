@@ -1,0 +1,79 @@
+{
+  "company_name": "99stay properties",
+  "action": "Message",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.99stay.in/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Good Hero Design, Relevant Hero Design, Poor Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Good Website Length, Good Footer Design, Responsive, Good Color Scheme, Non Relevant Content, Poor Website Design and Flow",
+    "cta": "No Landing CTA, Good Hero CTA, Poor Navigation CTA, No Popup CTA, No Footer CTA",
+    "links": {
+      "on_site": "Poor Navigation Links, Good Footer Links",
+      "socials": "No Footer Links, No Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "51",
+      "pagespeed_web_dev": "61+83+92+100"
+    }
+  },
+  "properties": {
+    "type": "Residential Flats, Commertial Office Spaces",
+    "image_quality": "Poor, Irrelevant",
+    "video_quality": "Poor, Irrelevant"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/in/pawan-kumar-0738ba36b/",
+      "status": "Inactive",
+      "content_quality": "Irrelevant"
+    },
+    "instagram": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/99staygurgaon/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "9990850596",
+    "email": "support@99stay.com",
+    "address": "1337 sector 31, near Jharsa, Flyover, Gurugram, Haryana 122001"
+  },
+  "google_listing": {
+    "rating": "4.7",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "TuesdayOpen 24 hoursSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/99stay+properties/@28.4497798,77.0068166,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d190028ae763f:0x3157106bb03404f9!8m2!3d28.4505969!4d77.0436589!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11xmd2lphg"
+  },
+  "notes": ""
+}

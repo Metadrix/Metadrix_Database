@@ -1,0 +1,79 @@
+{
+  "company_name": "Arora Realtech Pvt Ltd",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.arorarealtech.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Good Website Length, No Footer`, Responsive, Poor Color Scheme",
+    "cta": "No Landing CTA, No Hero CTA, No Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, No Footer Links",
+      "socials": "No Social Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "47",
+      "rankmath": "61",
+      "pagespeed_web_dev": "67+96+100+69"
+    }
+  },
+  "properties": {
+    "type": "Residential Plots, Builder Floors",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "098115 86101",
+    "email": "info@arorarealtech.com, arun356@gmail.com",
+    "address": "C-1069, opposite Vypar Kender, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate consultant",
+    "hours": "Tuesday9 am–6 pm",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Arora+Realtech+Pvt+Ltd/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d18c35a5291c5:0x3f9f69280634fa4b!8m2!3d28.4602983!4d77.0846711!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F1tg7qddj"
+  },
+  "notes": ""
+}

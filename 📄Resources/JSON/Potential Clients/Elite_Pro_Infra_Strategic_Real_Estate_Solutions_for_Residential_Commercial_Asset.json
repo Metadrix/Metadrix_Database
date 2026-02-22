@@ -1,0 +1,72 @@
+{
+  "company_name": "Elite Pro Infra – Strategic Real Estate Solutions for Residential & Commercial Assets",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "Virtual Tour"
+  ],
+  "website": {
+    "link": "https://www.eliteproinfra.com/",
+    "overall_impression": "Good",
+    "full_website_analysis": "Relevant Hero Design, Good Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Good Navigation Design, Good Navigation Interaction, Good Logo Design, Good Section Animations, No Scroll Animations, Good Website Design and Flow, Good Website Length, Good Footer Design, Responsive",
+    "cta": "Good Landing CTA, Good Hero CTA, Poor Navigation CTA, Good Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Good Footer Links",
+      "socials": "No Navigation Links, Good Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "69",
+      "pagespeed_web_dev": "67+64+92+92"
+    }
+  },
+  "properties": {
+    "type": "Ultra luxury Flats, Luxury Flats, Residential Flats",
+    "image_quality": "Good, Relevant",
+    "video_quality": "Good, Relevant"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/eliteproinfra/?originalSubdomain=in",
+      "status": "Active",
+      "content_quality": "Relevant, Good"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/eliteproinfra/",
+      "status": "Active",
+      "content_quality": "Relevant, Good"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/eliteproinfra",
+      "status": "Active",
+      "content_quality": "Relevant, Good"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@eliteproinfra984",
+      "status": "Inactive",
+      "content_quality": "Poor, Relevant"
+    }
+  },
+  "contact": {
+    "phone": "9968686868, 1800 3002 9797",
+    "email": "info@eliteproinfra.com, marketing@eliteproinfra.com",
+    "address": "3rd Floor, Golf View Corporate Tower, 1, Golf Course Rd, Sector 42, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "4.4",
+    "reviews_count": "4",
+    "category": "Property management company",
+    "hours": "TuesdayOpen 24 hoursSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Elite+Pro+Infra+%E2%80%93+Strategic+Real+Estate+Solutions+for+Residential+%26+Commercial+Assets/@28.4505266,77.0526696,14z/data=!3m1!5s0x390d18cb946f3397:0xe0f9c0e1c5ad7058!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19081dd68c69:0x45b49a5cb21c30e8!8m2!3d28.4565463!4d77.0981492!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEbcHJvcGVydHlfbWFuYWdlbWVudF9jb21wYW55mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5sT0hGeE0yNVJSUkFC4AEA-gEECAAQJg!16s%2Fg%2F11s5bv_rvf"
+  },
+  "notes": ""
+}

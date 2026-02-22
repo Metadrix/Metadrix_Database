@@ -1,0 +1,79 @@
+{
+  "company_name": "United Prop Solutions",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.unitedpropsolutions.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Good Hero Size, Poor Navigation Design, Good Logo Design, No Section Animations, No Scroll Animations, Good Website Design and Flow, Good Website Length, Poor Footer Design, Responsive, Long Website Length",
+    "cta": "No Landing CTA, Good Hero CTA, No Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "No Footer Links, Poor Navigation Links",
+      "socials": "No Navigation Links, No Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "78",
+      "pagespeed_web_dev": "62+91+100+100"
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats, Residential Flats, Builder Floors",
+    "image_quality": "Poor, Relevant",
+    "video_quality": "Poor, Relevant"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/united-prop-solutions/about/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/unitedpropsolutions/?hl=en",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/unitedpropsolutions/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "085120 75100",
+    "email": "social.unitedpropsolutions@gmail.com",
+    "address": "Ground Floor, Plot no : 772, Mushedpur, DLF Phase 2, Sector 25, Gurugram, Shahpur, Haryana 122002"
+  },
+  "google_listing": {
+    "rating": "4.9",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "Tuesday9 am–9 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/United+Prop+Solutions/@28.4505266,77.0526696,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19b508adf45b:0xc7f618ebd986401a!8m2!3d28.4893619!4d77.081254!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQycFJkRk5zVGpOaU0wcE1aVlpPVmxWV2FGSmpiRVY1WkdwS1JXVkdSUkFC4AEA-gEECAAQPA!16s%2Fg%2F11ym9f_y64"
+  },
+  "notes": ""
+}

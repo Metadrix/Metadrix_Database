@@ -1,0 +1,79 @@
+{
+  "company_name": "Search My Property",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation",
+    "App"
+  ],
+  "website": {
+    "link": "http://searchmyproperty.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Relevant Hero Design, Poor Hero Interactions and Animations, Good Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, Poor Scroll Animations, Poor Website Design and Flow, Good Website Length, Poor Footer Design, Non-Responsive, Poor Color Scheme",
+    "cta": "No Landing CTA, Poor Hero CTA, Poor Navigation CTA, No Footer CTA, No Popup CTA, Chatbot",
+    "links": {
+      "on_site": "Poor Navigation Links, Poor Footer Links",
+      "socials": "Good Footer Links, Poor Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Good",
+      "seoptimer": "B+",
+      "seositecheckup": "",
+      "semrush": "76",
+      "rankmath": "68",
+      "pagespeed_web_dev": "50+95+73+100"
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats, Residential Flats, Farm House",
+    "image_quality": "Good, Relevant",
+    "video_quality": "Good, Relevant"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/search-my-property/",
+      "status": "Active",
+      "content_quality": "Poor, Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/searchmyproperty/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/searchmyproperty.comlistings",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "https://x.com/SearchP54599",
+      "status": "Active",
+      "content_quality": "Poor, Relevant"
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@SearchMyPropertySMP",
+      "status": "Active",
+      "content_quality": "Good, Relevant"
+    }
+  },
+  "contact": {
+    "phone": "083760 03003",
+    "email": "info@searchmyproperty.com",
+    "address": "First floor, Plot No 88d Saraswati Kunj, Golf Course Rd, above Mahindra Dee Em, Sector 53, Gurugram, Haryana 122011"
+  },
+  "google_listing": {
+    "rating": "4.8",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Search+My+Property/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19a7a4bb16e7:0x981d638cca69806d!8m2!3d28.4383098!4d77.1028246!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11q9bs1ygj"
+  },
+  "notes": "- WIX Website - WIX lead to good SEO score but not relevant SEO - Good Podcasts - Bad Social Media Content quality"
+}

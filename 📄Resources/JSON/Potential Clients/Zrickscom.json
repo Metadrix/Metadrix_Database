@@ -1,0 +1,79 @@
+{
+  "company_name": "Zricks.com",
+  "action": "Message",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.zricks.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Good Logo Design, No Section Animations, No Scroll Animations, Long Website Length, Good Footer Design, Non-Responsive, Poor Color Scheme, Good Hero Design, Poor Website Design and Flow",
+    "cta": "No Landing CTA, Poor Hero CTA, No Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "No Navigation Links, Good Footer Links",
+      "socials": "Good Footer Links, No Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "60",
+      "pagespeed_web_dev": "69+91+92+100"
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats, Ultra luxury Flats, Residential Flats, Builder Floors",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/zricks-com/",
+      "status": "Somewhat Active",
+      "content_quality": "Good, Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/zricksdotcom",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/zricksdotcom/?ref=NONE_xav_ig_profile_page_web",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "https://x.com/zricksdotcom",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor"
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@zricksindia",
+      "status": "Active",
+      "content_quality": "Relevant, Good"
+    }
+  },
+  "contact": {
+    "phone": "098991 99170, Prashant Agarwal 9716030121",
+    "email": "zinfo@zricks.com, zcare@zricks.com",
+    "address": "128 ILD Trade Center, Sohna Road, Near Subhash Chowk, Gurugram, Haryana 122018"
+  },
+  "google_listing": {
+    "rating": "4.6",
+    "reviews_count": "4",
+    "category": "Real estate agent",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Zricks.com/@28.4497798,77.0068166,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d1876786ddced:0xfe89c97f53fa4de5!8m2!3d28.424978!4d77.039227!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbnRz4AEA!16s%2Fg%2F11dxl9424y"
+  },
+  "notes": ""
+}

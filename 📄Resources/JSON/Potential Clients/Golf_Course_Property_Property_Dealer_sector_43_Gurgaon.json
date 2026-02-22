@@ -1,0 +1,79 @@
+{
+  "company_name": "Golf Course Property : Property Dealer sector 43 Gurgaon",
+  "action": "Message",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "",
+    "overall_impression": "Bad",
+    "full_website_analysis": "No Website",
+    "cta": "",
+    "links": {
+      "on_site": "",
+      "socials": ""
+    },
+    "seo_sem": {
+      "on_site": "",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "",
+      "pagespeed_web_dev": ""
+    }
+  },
+  "properties": {
+    "type": "",
+    "image_quality": "",
+    "video_quality": ""
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "098917 07020",
+    "email": "-",
+    "address": "Basement, Plot no 882, Golf Crse Rd, Sector 43, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate consultant",
+    "hours": "TuesdayOpen 24 hoursSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Golf+Course+Property+:+Property+Dealer+sector+43+Gurgaon/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d196c674055e9:0xcf924cf292b311f6!8m2!3d28.4543765!4d77.0948645!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuVFVOSk16bE1YMDFSRUFF4AEA-gEECAAQPQ!16s%2Fg%2F11x5lbrhkx"
+  },
+  "notes": ""
+}

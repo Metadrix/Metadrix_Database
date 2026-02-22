@@ -1,0 +1,79 @@
+{
+  "company_name": "Global Realtors",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.theglobalrealtors.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Relevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Good Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Good Website Length, Poor Footer Design, Responsive, Poor Color Scheme, Good Hero Design",
+    "cta": "No Landing CTA, No Hero CTA, Good Navigation CTA, Poor Footer CTA, Chatbot, No Popup CTA",
+    "links": {
+      "on_site": "Poor Navigation Links, Poor Footer Links",
+      "socials": "Poor Navigation Links, Poor Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "60",
+      "pagespeed_web_dev": "56+86+100+92"
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats, Residential Flats",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/theglobal.realtors",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/people/Global-Realtors/61561745070835/?rdid=PCZPC3YAzyfOhvWA&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Bahkvtkih",
+      "status": "Inactive",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "098110 91848, 9810946848",
+    "email": "info@theglobalrealtors.com, Global.realtors45@gmail.com",
+    "address": "Sushant shopping arcade, C239, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate agent",
+    "hours": "TuesdayClosedSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Global+Realtors/@28.4744114,77.0562373,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x2904d614eab2c3cf:0xa25255cb27130be5!8m2!3d28.4605898!4d77.0784532!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbnRzmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5UVU4zYlhFemMxVkJFQUXgAQD6AQQIABAw!16s%2Fg%2F11x0q6jkpk"
+  },
+  "notes": ""
+}

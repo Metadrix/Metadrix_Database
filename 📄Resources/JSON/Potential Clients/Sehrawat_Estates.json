@@ -1,0 +1,79 @@
+{
+  "company_name": "Sehrawat Estates",
+  "action": "Message",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.sehrawatestates.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Not Working",
+    "cta": "",
+    "links": {
+      "on_site": "",
+      "socials": ""
+    },
+    "seo_sem": {
+      "on_site": "",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "",
+      "pagespeed_web_dev": ""
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats, Ultra luxury Flats",
+    "image_quality": "Good, Relevant",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/sehrawat-estates/?originalSubdomain=in",
+      "status": "Inactive",
+      "content_quality": "No Posts"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/sehrawatestates/",
+      "status": "Somewhat Active",
+      "content_quality": "Relevant, Good"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/people/Sehrawat-Estates/100087029573315/",
+      "status": "Somewhat Active",
+      "content_quality": "Relevant"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "099909 01473, 8800000118",
+    "email": "-",
+    "address": "Sehrawat Estates, Golf Course Rd, opposite Global Floyr, Sector 42, Gurugram, Haryana 122009"
+  },
+  "google_listing": {
+    "rating": "4.9",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "Tuesday9 am–9 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Sehrawat+Estates/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d192795c154e3:0xce5ffa74f829681f!8m2!3d28.4607647!4d77.0963351!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11t6tn78n5"
+  },
+  "notes": ""
+}

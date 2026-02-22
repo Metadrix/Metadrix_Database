@@ -1,0 +1,79 @@
+{
+  "company_name": "YHATAW Real Estate Facilitators Pvt. Ltd.",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.yhataw.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Relevant Hero Design, Good Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Good Logo Design, Poor Navigation Interaction, No Section Animations, No Scroll Animations, Good Website Length, Poor Footer Design, Responsive, Poor Color Scheme, Poor Website Design and Flow",
+    "cta": "No Landing CTA, Good Hero CTA, No Navigation CTA, Poor Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Poor Footer Links",
+      "socials": "Good Footer Links, No Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Good",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "88",
+      "pagespeed_web_dev": "36+85+96+92"
+    }
+  },
+  "properties": {
+    "type": "Ultra luxury Flats, Luxury Flats, Farm House",
+    "image_quality": "Poor, Relevant",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/yhatawrealty/",
+      "status": "Inactive",
+      "content_quality": "Poor, Relevant"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/yhatawrealty/",
+      "status": "Active",
+      "content_quality": "Poor, Relevant"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@yhatawrealty",
+      "status": "Somewhat Active",
+      "content_quality": "Relevant, Poor"
+    }
+  },
+  "contact": {
+    "phone": "9811801806, 89299 93099, 1800 890 9109",
+    "email": "sales@yhataw.com",
+    "address": "Emaar Mgf Capital Tower Tower 1, 507, Sikanderpur, Sector 26, Gurugram, Haryana 122002"
+  },
+  "google_listing": {
+    "rating": "4.7",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "Tuesday9 am–8 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/YHATAW+Real+Estate+Facilitators+Pvt.+Ltd./@28.4550917,77.056419,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d1f4c6422fbe7:0xe3fe343574bbaa3c!8m2!3d28.481319!4d77.107188!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11rg08y1j9"
+  },
+  "notes": "https://linktr.ee/yhataw?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnOB2BmDoCRbKAzwbjQZfLZyTFkVOvNiqUNX4XxZHsdWybWCWtwgI8c8wTnBA_aem_3wCe_mmvK0gSwM8Vx5ur0A"
+}
