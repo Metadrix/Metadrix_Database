@@ -1,0 +1,71 @@
+{
+  "company_name": "Actual Property Solutions Pvt. Ltd.",
+  "website": "https://aps.ind.in/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Projects in Gurgaon, Delhi & Noida",
+      "location": "Delhi-NCR",
+      "type": "commercial, retail, residential, industrial",
+      "key_points": [
+        "Operates across three major NCR markets: Gurgaon, Delhi, and Noida",
+        "Partners with top developers including DLF, Emaar, M3M, Hero, and Paras"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "APS positions itself as a trusted real estate consulting firm in Delhi-NCR, catering to corporations and MNCs for leasing needs. It covers a broad service spectrum from retail and corporate leasing to investment advisory and interior design. The firm targets mid-to-large business clients seeking professional, end-to-end property solutions.",
+    "differentiators": [
+      "Strong developer associations with premium brands like DLF, Emaar, and M3M across the NCR region",
+      "Full-service offering including leasing, investment advisory, and interior design under one roof",
+      "Established client base including recognizable brands like Apollo, Kotak, and Giani's"
+    ],
+    "risks_or_weaknesses": [
+      "Limited digital footprint and no press coverage found, suggesting low brand visibility outside direct referrals",
+      "Website appears basic with limited project detail, which may reduce credibility with enterprise clients"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/actualpropertysolutions",
+      "activity_level": "semi-active",
+      "typical_content": "Likely property listings, project highlights, and company updates based on account name.",
+      "engagement_quality": "Unknown without direct access; presence exists but scale is unclear."
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/actual-property-solutions",
+      "activity_level": "semi-active",
+      "typical_content": "Professional updates, leasing services, and corporate client announcements.",
+      "engagement_quality": "Likely limited engagement given the company's niche B2B focus."
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/actualpropertysolutions/",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings and company promotions.",
+      "engagement_quality": "Unknown without direct access; presence confirmed via website."
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/channel/UChy1Jm5uqgN-1TYwbWRv8Cg",
+      "activity_level": "semi-active",
+      "typical_content": "Likely property walkthroughs and company overview videos.",
+      "engagement_quality": "Unknown without direct access; channel exists but activity level unclear."
+    }
+  },
+  "industry_trends": {
+    "segment": "Commercial and residential real estate consulting, Delhi-NCR",
+    "key_trends": [
+      "Rising demand for managed office and flex spaces in Gurgaon from MNCs and startups",
+      "Digital-first property discovery is growing, making strong SEO and social presence critical for brokers",
+      "Industrial and warehouse leasing is booming in NCR due to e-commerce and logistics sector growth",
+      "Investment advisory in real estate is gaining traction as NRIs and HNIs seek curated NCR opportunities"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was identified. APS competes in a crowded Delhi-NCR brokerage and consulting market alongside firms like ANAROCK, JLL, and smaller boutique consultancies. Compared to large national players, APS differentiates through personalized service but likely lacks their digital reach and brand recognition.",
+    "notes": [
+      "Larger competitors like JLL and ANAROCK have significantly stronger digital marketing and media presence",
+      "APS's niche strength may lie in its developer relationships and local NCR market knowledge"
+    ]
+  }
+}

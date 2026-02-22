@@ -1,0 +1,79 @@
+{
+  "company_name": "Realty Expertz (P) Ltd",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://www.realtyexpertz.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Good Hero Size, Poor Navigation Design, Poor Navigation Interaction, Good Logo Design, No Scroll Animations, Poor Website Design and Flow, Good Website Length, Good Footer Design, Poor Color Scheme, Responsive",
+    "cta": "No Landing CTA, Poor Hero CTA, Poor Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Poor Navigation Links, Poor Footer Links",
+      "socials": "No Navigation Links, Poor Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "",
+      "pagespeed_web_dev": ""
+    }
+  },
+  "properties": {
+    "type": "",
+    "image_quality": "",
+    "video_quality": ""
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/realty-expertz/",
+      "status": "",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/realty.expertz/",
+      "status": "",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/RealtyExpertz",
+      "status": "",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/channel/UC1NMXMF6WoG_npcbTl3TXjA",
+      "status": "",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "6262627575",
+    "email": "nfo@realtyexpertz.com, realtyexpertz@gmail.com",
+    "address": "12, L-22, DLF Phase 2, Sector 25, Gurugram, Sarhol, Haryana 122002"
+  },
+  "google_listing": {
+    "rating": "4.6",
+    "reviews_count": "4",
+    "category": "Real estate agency",
+    "hours": "",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Realty+Expertz+(P)+Ltd/@28.4633632,77.047413,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d19fdb39f27d7:0x75c78b4785f78728!8m2!3d28.4808383!4d77.074185!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN54AEA!16s%2Fg%2F11rkh951mr"
+  },
+  "notes": ""
+}

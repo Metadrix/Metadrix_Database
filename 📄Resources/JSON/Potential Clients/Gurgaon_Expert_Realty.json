@@ -1,0 +1,79 @@
+{
+  "company_name": "Gurgaon Expert Realty",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "http://gurgaonexpertrealty.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Good Website Length, Poor Footer Design, Responsive, Poor Color Scheme, Poor Domain, Good Hero Design",
+    "cta": "No Landing CTA, Poor Navigation CTA, Poor Footer CTA, Good Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Poor Footer Links",
+      "socials": "No Navigation Links, No Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "69",
+      "pagespeed_web_dev": "52+75+77+92"
+    }
+  },
+  "properties": {
+    "type": "Luxury Flats",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/gurgaon-expert-realty/about/",
+      "status": "Somewhat Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/gurgaon_expert_realty/",
+      "status": "Somewhat Active",
+      "content_quality": "Irrelevant, Relevant, Poor"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/p/Gurgaon-Expert-Realty-100070535821919/",
+      "status": "Somewhat Active",
+      "content_quality": "Poor, Relevant, Irrelevant"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "098115 53411",
+    "email": "info@gurgaonexpertrealty.com",
+    "address": "2nd floor, Ocus Quantum, 212, Sector 51, Gurugram, Haryana 122018"
+  },
+  "google_listing": {
+    "rating": "4.9",
+    "reviews_count": "4",
+    "category": "Industrial real estate agency",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Gurgaon+Expert+Realty/@28.4258146,77.0526623,14z/data=!3m1!5s0x390d227614690b95:0x16a31bc84ce021c6!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d1f1ccf404e47:0xa6dfc26685728c06!8m2!3d28.4241302!4d77.0683964!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEdaW5kdXN0cmlhbF9yZWFsX2VzdGF0ZV9hZ2VuY3maASNDaFpEU1VoTk1HOW5TMFZKWVhwcVNWUnpjMDFtWlU5UkVBReABAPoBBAgVEEU!16s%2Fg%2F11kq0pkbyp"
+  },
+  "notes": ""
+}

@@ -1,0 +1,79 @@
+{
+  "company_name": "Gurgaon Property Dealers",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://srproperties.online/?utm_source=Google&utm_medium=GMB",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Good Hero Design, Relevant Hero Design, Poor Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Good Website Design and Flow, Good Website Length, Poor Footer Design, Responsive, Good Color Scheme, Poor Scroll Animations, Poor Domain",
+    "cta": "No Landing CTA, Good Hero CTA, Poor Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Poor Navigation Links, Poor Footer Links",
+      "socials": "No Footer Links, No Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "72",
+      "pagespeed_web_dev": "65+66+100+85"
+    }
+  },
+  "properties": {
+    "type": "Residential Flats",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/srpropertiesss/",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "099991 45949, 088600 93343",
+    "email": "info@srproperties.online",
+    "address": "Sector 28, Chakkarpur, Gurugram, Haryana 122002"
+  },
+  "google_listing": {
+    "rating": "",
+    "reviews_count": "0",
+    "category": "Real estate agent",
+    "hours": "TuesdayOpen 24 hoursSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Gurgaon+Property+Dealers/@28.4497798,77.0068166,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d1924d64c6dbd:0xea76f8e3117728b6!8m2!3d28.4707385!4d77.0935241!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbnRz4AEA!16s%2Fg%2F11myclkg65"
+  },
+  "notes": ""
+}

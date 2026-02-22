@@ -1,0 +1,79 @@
+{
+  "company_name": "Ganga Realty - Real Estate Developer in Gurgaon",
+  "action": "Research",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.gangarealty.com/",
+    "overall_impression": "Good",
+    "full_website_analysis": "Good Hero Design, Relevant Hero Design, Good Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Good Navigation Design, Good Navigation Interaction, Good Logo Design, Good Section Animations, Good Scroll Animations, Good Website Design and Flow, Good Website Length, Good Footer Design, Responsive, Poor Website Design and Flow",
+    "cta": "No Landing CTA, No Hero CTA, No Navigation CTA, Good Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Good Footer Links",
+      "socials": "Good Footer Links, No Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Good",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "78",
+      "pagespeed_web_dev": "40+87+81+92"
+    }
+  },
+  "properties": {
+    "type": "Ultra luxury Flats, Luxury Flats",
+    "image_quality": "Good, Relevant",
+    "video_quality": "Good, Relevant"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/gangarealty/",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/gangarealty/",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/people/Ganga-Realty/100091975217494/",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "twitter_x": {
+      "link": "https://x.com/gangarealty",
+      "status": "Active",
+      "content_quality": "Relevant"
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@gangarealty",
+      "status": "Active",
+      "content_quality": "Relevant"
+    }
+  },
+  "contact": {
+    "phone": "",
+    "email": "",
+    "address": "Ground Floor, VATIKA TOWER, Golf Crse Rd, Suncity, Sector 54, Gurugram, Haryana 122011"
+  },
+  "google_listing": {
+    "rating": "4",
+    "reviews_count": "4",
+    "category": "Real estate developer",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Ganga+Realty+-+Real+Estate+Developer+in+Gurgaon/@28.4505266,77.0526696,14z/data=!3m1!5s0x390d1f4d86cba539:0x62280e9aefade1cd!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d1f827b5c5777:0x91d92ffbc60a0fa1!8m2!3d28.4379242!4d77.1049592!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEVcmVhbF9lc3RhdGVfZGV2ZWxvcGVy4AEA!16s%2Fg%2F11tncbhgmm"
+  },
+  "notes": ""
+}

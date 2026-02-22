@@ -1,0 +1,79 @@
+{
+  "company_name": "Assets Galleria",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://assetsgalleria.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Good Hero Design, Relevant Hero Design, Good Hero Interactions and Animations, Good Hero Images/Video, Good Hero Size, Good Navigation Design, Good Navigation Interaction, Good Logo Design, No Section Animations, Poor Website Design and Flow, Good Website Length, Good Footer Design, Responsive, Good Color Scheme",
+    "cta": "No Landing CTA, Good Hero CTA, Good Navigation CTA, Good Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Footer Links",
+      "socials": "Good Navigation Links, Good Footer Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "63",
+      "pagespeed_web_dev": "79+96+100+100"
+    }
+  },
+  "properties": {
+    "type": "Ultra luxury Flats, Luxury Flats, Residential Flats, Residential Plots",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/assets-galleria/about/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/assetsgalleria/",
+      "status": "Active",
+      "content_quality": "Poor, Irrelevant"
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/assetsgalleria",
+      "status": "Active",
+      "content_quality": "Irrelevant, Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "097181 60160",
+    "email": "info@assetsgalleria.com",
+    "address": "Ground Floor, Plot No 127, Sector 44, Gurugram, Haryana 122003"
+  },
+  "google_listing": {
+    "rating": "4.4",
+    "reviews_count": "4",
+    "category": "Real Estate Builders & Construction Company",
+    "hours": "TuesdayOpen 24 hoursSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Assets+Galleria/@28.4512646,77.0394947,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d196eb33c1e11:0x9c48f8e7f767799a!8m2!3d28.4509956!4d77.0732159!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEUY29uc3RydWN0aW9uX2NvbXBhbnngAQA!16s%2Fg%2F11kb0nqjry"
+  },
+  "notes": "- AI generated website - Investment Advisors"
+}

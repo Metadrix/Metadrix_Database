@@ -1,0 +1,79 @@
+{
+  "company_name": "Shree Pittambraa Properties - Best Property Dealer in Gurgaon",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "",
+    "overall_impression": "Bad",
+    "full_website_analysis": "No Website",
+    "cta": "",
+    "links": {
+      "on_site": "",
+      "socials": ""
+    },
+    "seo_sem": {
+      "on_site": "",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "",
+      "pagespeed_web_dev": ""
+    }
+  },
+  "properties": {
+    "type": "Residential Flats, Builder Floors",
+    "image_quality": "Poor",
+    "video_quality": "Poor"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/pittambra-properties/about/",
+      "status": "Inactive",
+      "content_quality": "No Posts"
+    },
+    "instagram": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/ShreePittambraaPropertybyGirishGarg/, https://www.facebook.com/pittambraaproperties/",
+      "status": "Active",
+      "content_quality": "Poor, Relevant"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "9811910766, 8810559592, 9891493249",
+    "email": "pittambraproperties@gmail.com, Akashgarg9811@gmail.com",
+    "address": "Bharat Petroleum, 268P Sector 38 Gurgaon, Haryana (Oppo, Sector 47, Gurugram, Haryana 122001"
+  },
+  "google_listing": {
+    "rating": "4.6",
+    "reviews_count": "4",
+    "category": "Real estate agency",
+    "hours": "Tuesday9 am–8 pm",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Shree+Pittambraa+Properties+-+Best+Property+Dealer+in+Gurgaon/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d1908183f100f:0xb85906a5564508a2!8m2!3d28.4334342!4d77.0475309!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEScmVhbF9lc3RhdGVfYWdlbmN5mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJzMVVrNUdSbTFWYlRsMlZEQndkVk5YT1c1bFYxb3dWakpLTlZVell4QULgAQD6AQQIQxBG!16s%2Fg%2F1tfrvwqs"
+  },
+  "notes": ""
+}

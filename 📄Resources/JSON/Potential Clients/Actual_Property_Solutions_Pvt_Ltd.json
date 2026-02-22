@@ -1,0 +1,79 @@
+{
+  "company_name": "Actual Property Solutions Pvt. Ltd.",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://aps.ind.in/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, Poor Scroll Animations, Poor Website Design and Flow, Good Website Length, Poor Footer Design, Poor Color Scheme, Responsive",
+    "cta": "No Landing CTA, No Hero CTA, No Navigation CTA, Poor Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "Good Navigation Links, Poor Footer Links",
+      "socials": "Good Footer Links, No Navigation Links"
+    },
+    "seo_sem": {
+      "on_site": "Good",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "73",
+      "pagespeed_web_dev": "66+95+96+100"
+    }
+  },
+  "properties": {
+    "type": "",
+    "image_quality": "No Images",
+    "video_quality": "No Videos"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/company/actual-property-solutions/",
+      "status": "Active",
+      "content_quality": "Irrelevant"
+    },
+    "instagram": {
+      "link": "https://www.instagram.com/actualpropertysolutions",
+      "status": "Active",
+      "content_quality": "Irrelevant"
+    },
+    "facebook": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/@ActualPropertySolutionsPvtLtd/videos",
+      "status": "Inactive",
+      "content_quality": "Irrelevant"
+    }
+  },
+  "contact": {
+    "phone": "095604 95292",
+    "email": "info@aps.ind.in",
+    "address": "F-35, First Floor, Baani The Address One, Golf Course Rd, Sector 56, Gurugram, Ghata, Haryana 122011"
+  },
+  "google_listing": {
+    "rating": "4.9",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "Tuesday10 am–7 pm",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Actual+Property+Solutions+Pvt.+Ltd./@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d23ca9fe6b8a5:0x70a2ee499ae3bd6d!8m2!3d28.4216553!4d77.1042435!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudOABAA!16s%2Fg%2F11m44r4jvr"
+  },
+  "notes": "- Targeting HNIs - Unclear what their product is on the website - Poor images and fake images on website - Youtube has very poor videos - Dealing with corporate and retail leasing"
+}

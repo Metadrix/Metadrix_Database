@@ -1,0 +1,81 @@
+```json
+{
+  "company_name": "Malik Properties",
+  "website": "https://malikpropertiess.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Commercial Properties Gurgaon",
+      "location": "Gurgaon, Haryana",
+      "type": "commercial",
+      "key_points": [
+        "Offers shops, offices, SCO plots, and industrial properties across Gurgaon",
+        "Acts as Authorized Sales Organiser (ASO) for major developers like DLF, M3M, Godrej, Vatika"
+      ]
+    },
+    {
+      "name": "Residential Properties Gurgaon",
+      "location": "Gurgaon, Haryana",
+      "type": "residential",
+      "key_points": [
+        "Covers apartments, villas, floors, plots, and farmhouses for sale and rent",
+        "Handles both fresh bookings from top developers and resale listings"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Malik Properties positions itself as a leading real estate broker and Authorized Sales Organiser in Gurgaon with over 20 years of experience. They serve as a bridge between major developers (DLF, M3M, Godrej, Vatika, etc.) and end buyers. Their focus spans both residential and commercial segments across Gurgaon and adjoining areas.",
+    "differentiators": [
+      "Authorized Sales Organiser for multiple top-tier developers including DLF, M3M, Godrej, and Vatika",
+      "20+ years of local market experience covering a broad range of property types"
+    ],
+    "risks_or_weaknesses": [
+      "Website domain has a typo ('malikpropertiess.com' with double 's'), which may undermine credibility and brand trust",
+      "Minimal digital footprint — no recent news, limited social media presence, and outdated website design (copyright 2021)"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/Malik-Properties-457696054738735",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings and developer updates for Gurgaon market.",
+      "engagement_quality": "Engagement level unknown without direct page access; page has been active long enough to be referenced on the website."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "real estate brokerage Gurgaon",
+    "key_trends": [
+      "Digital-first property discovery is rising sharply — buyers increasingly rely on portals like 99acres, MagicBricks, and NoBroker over traditional brokers",
+      "Video walkthroughs and virtual tours are becoming standard expectations for property listings",
+      "Social media advertising (Instagram, YouTube) is a major lead-generation channel for real estate agents in Gurgaon",
+      "Luxury and premium housing demand in Gurgaon continues to grow, especially in sectors along Dwarka Expressway and Golf Course Extension Road"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No direct competitor was specified. Malik Properties competes in a crowded Gurgaon brokerage market alongside large portals and agency networks. Their long tenure and ASO status give them credibility, but their limited digital marketing presence puts them at a disadvantage versus more digitally active competitors.",
+    "notes": [
+      "Many competing brokers in Gurgaon maintain active Instagram and YouTube channels with regular property showcase content",
+      "Larger aggregators and PropTech platforms are increasingly eating into traditional broker market share in this region"
+    ]
+  }
+}
+```

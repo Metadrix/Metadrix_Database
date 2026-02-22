@@ -1,0 +1,79 @@
+{
+  "company_name": "Royal Estate Agency : Property Dealer Sushant Lok Phase 1",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "",
+    "overall_impression": "Bad",
+    "full_website_analysis": "No Website",
+    "cta": "",
+    "links": {
+      "on_site": "",
+      "socials": ""
+    },
+    "seo_sem": {
+      "on_site": "",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "",
+      "pagespeed_web_dev": ""
+    }
+  },
+  "properties": {
+    "type": "Builder Floors",
+    "image_quality": "Poor",
+    "video_quality": "Poor"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/royalestateagencyy/",
+      "status": "Active",
+      "content_quality": "Relevant, Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    }
+  },
+  "contact": {
+    "phone": "098102 89962, 098103 14524",
+    "email": "royalestateagency@gmail.com",
+    "address": "Basement Plot No, :, near Vyphar Kendra, Block A, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122001"
+  },
+  "google_listing": {
+    "rating": "5",
+    "reviews_count": "5",
+    "category": "Real estate consultant",
+    "hours": "Tuesday10 am–7 pmSuggest new hours",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Royal+Estate+Agency+:+Property+Dealer+Sushant+Lok+Phase+1/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d196dcb2ea9ff:0xa0683ef66ccb88f5!8m2!3d28.4683647!4d77.0795293!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQycG9jVmxZY0VOVFdGSlhaVmhSZVZVemJFOWpSamgzWlc1S2FtTnVZeEFC4AEA-gEECAAQRg!16s%2Fg%2F11xlfhxcmd"
+  },
+  "notes": ""
+}

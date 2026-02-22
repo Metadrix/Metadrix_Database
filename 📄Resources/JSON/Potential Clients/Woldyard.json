@@ -1,0 +1,35 @@
+{
+  "client": {
+    "name": "Worldyard",
+    "website": "https://theworldyard.com/",
+    "primary_email": "INFO@THEWORLDYARD.COM",
+    "social_links": {
+      "instagram": "",
+      "linkedin": "",
+      "facebook": ""
+    },
+    "seo_scores": {
+      "seoptimer": "Very poor seo/sem audit scores",
+      "seositecheckup": "Very poor seo/sem audit scores",
+      "semrush": "Very poor seo/sem audit scores"
+    },
+    "pain_points": [
+      "The current user interface fails to reflect a premium brand identity, potentially deterring high-profile corporate clients.",
+      "The absence of strategic video content and high-quality imagery limits your ability to showcase premium properties effectively.",
+      "A lack of clear Call-to-Action (CTA) elements hinders the conversion of website visitors into qualified business leads.",
+      "Suboptimal website animations and transitions create a disjointed user experience that does not align with a luxury service standard.",
+      "The current digital presence lacks consistent brand messaging and social media integration needed to build market authority."
+    ],
+    "strengths": [
+      "Appropriate website landing page length.",
+      "Effective text flow and wrapping within the web layout.",
+      "Professional testimonials are available to build initial trust."
+    ]
+  },
+  "competitor": {
+    "name": "Not specified in document",
+    "website": "Not specified in document",
+    "seo_scores": {},
+    "strengths": []
+  }
+}

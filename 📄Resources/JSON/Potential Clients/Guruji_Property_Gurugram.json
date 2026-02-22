@@ -1,0 +1,79 @@
+{
+  "company_name": "Guruji Property Gurugram",
+  "action": "Email",
+  "potential_services": [
+    "Website",
+    "App",
+    "SEO/SEM",
+    "Property Images",
+    "Property Videography",
+    "Social Media Management",
+    "Social Media Marketing",
+    "Reel Creation",
+    "Content Creation"
+  ],
+  "website": {
+    "link": "https://www.gurujiproperty.com/",
+    "overall_impression": "Bad",
+    "full_website_analysis": "Poor Hero Design, Irrelevant Hero Design, Poor Hero Interactions and Animations, Poor Hero Images/Video, Hero Small/Large, Poor Navigation Design, Poor Navigation Interaction, Poor Logo Design, No Section Animations, No Scroll Animations, Poor Website Design and Flow, Short Website Length, Poor Footer Design, Non-Responsive, Poor Color Scheme",
+    "cta": "No Landing CTA, No Hero CTA, No Navigation CTA, No Footer CTA, No Popup CTA",
+    "links": {
+      "on_site": "No SIte Links",
+      "socials": "No Social Links"
+    },
+    "seo_sem": {
+      "on_site": "Poor",
+      "seoptimer": "",
+      "seositecheckup": "",
+      "semrush": "",
+      "rankmath": "57",
+      "pagespeed_web_dev": "56+77+69+100"
+    }
+  },
+  "properties": {
+    "type": "Residential Flats, Residential Plots",
+    "image_quality": "Poor",
+    "video_quality": "Poor"
+  },
+  "socials": {
+    "linkedin": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "instagram": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "facebook": {
+      "link": "https://www.facebook.com/people/Gurujipropertycom/100063909426212/?hc_ref=ARTYa00ncUghji83bIR-ZVRbRukh9Unpp7voT1iVOn_jJuAUJuDgFGolTmKEP8izSv8&fref=nf",
+      "status": "Inactive",
+      "content_quality": "Poor"
+    },
+    "twitter_x": {
+      "link": "",
+      "status": "DNE",
+      "content_quality": ""
+    },
+    "youtube": {
+      "link": "https://www.youtube.com/channel/UCwSv8SQoXkrzjFo7CX34TIw",
+      "status": "Inactive",
+      "content_quality": "Poor"
+    }
+  },
+  "contact": {
+    "phone": "9667612125, 084471 95227",
+    "email": "gurujiproperty24@gmail.com, gurujiproperty712@gmail.com",
+    "address": "SHOP-54, MKM Market Rd, Block G, Sushant Lok 2, Sector 57, Gurugram, Haryana 122011"
+  },
+  "google_listing": {
+    "rating": "4.9",
+    "reviews_count": "4",
+    "category": "Real estate consultant",
+    "hours": "Tuesday9 am–9 pm",
+    "sponsored": "FALSE",
+    "url": "https://www.google.com/maps/place/Guruji+Property+Gurugram/@28.4514856,77.0567599,14z/data=!4m10!1m2!2m1!1ssearch+query+Real+Estate+Gurgaon+sector+43!3m6!1s0x390d23ec2da968eb:0xf4a2974ab9f9fd69!8m2!3d28.4246921!4d77.0879731!15sCipzZWFyY2ggcXVlcnkgUmVhbCBFc3RhdGUgR3VyZ2FvbiBzZWN0b3IgNDNaLCIqc2VhcmNoIHF1ZXJ5IHJlYWwgZXN0YXRlIGd1cmdhb24gc2VjdG9yIDQzkgEWcmVhbF9lc3RhdGVfY29uc3VsdGFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOMmFIUnlVM1ozUlJBQuABAPoBBAgAEEs!16s%2Fg%2F11rhrgkvjm"
+  },
+  "notes": ""
+}
