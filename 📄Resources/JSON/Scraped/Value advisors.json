@@ -1,0 +1,91 @@
+```json
+{
+  "company_name": "Value Advisors (Real Estate Consultant)",
+  "website": "http://www.valueadvisors.in/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "4BHK Builder Floor, DLF City Phase 1",
+      "location": "DLF City Phase 1, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Ultra-luxury builder floor targeting contemporary living needs in one of Gurgaon's most established premium localities",
+        "Listed as part of Value Advisors' active resale and builder floor inventory"
+      ]
+    },
+    {
+      "name": "4BHK Ultra Luxury Builder Floor, Sushant Lok Phase 1",
+      "location": "Sushant Lok Phase 1, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Fourth-floor unit with exclusive terrace rights, 4 attached bathrooms and servant quarters — positioned in the premium resale segment",
+        "Highlights ultra-luxury inventory focus in established Gurgaon micro-markets"
+      ]
+    },
+    {
+      "name": "4BHK Builder Floor, DLF City Phase 4",
+      "location": "DLF City Phase 4, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Builder floor in one of Gurgaon's most sought-after premium localities, catering to high-end residential buyers",
+        "Part of Value Advisors' curated luxury builder floor portfolio in South Gurgaon"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Value Advisors is a boutique real estate consultancy based in Gurgaon, specialising in premium and ultra-luxury builder floors and resale properties in established DLF and Sushant Lok micro-markets. Client testimonials emphasise trust, paperwork support, and a strong inventory of properties across major Gurgaon locations. The brand is positioned as a niche, client-centric advisor rather than a high-volume portal or large channel partner.",
+    "differentiators": [
+      "Specialised focus on premium and ultra-luxury builder floors in Gurgaon's most established localities (DLF Phases, Sushant Lok)",
+      "Strong emphasis on end-to-end client support including documentation and agreements, reflected in positive testimonials"
+    ],
+    "risks_or_weaknesses": [
+      "Website (valueadvisors.in) returns a 404 error, indicating the site may be down or under transition — a significant digital credibility gap",
+      "No discoverable social media presence (LinkedIn, Instagram, Facebook, YouTube) found, limiting digital lead generation and brand visibility",
+      "Very limited third-party press coverage or online footprint beyond search snippets, suggesting low brand awareness outside direct referrals"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Instagram presence found for this company.",
+      "engagement_quality": "Unknown; platform not discoverable."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No LinkedIn profile clearly matching this Gurgaon-based consultancy was found; a similarly named US LLC exists but is unrelated.",
+      "engagement_quality": "Unknown; no verified profile found."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Facebook page found for Value Advisors Gurgaon.",
+      "engagement_quality": "Unknown; platform not discoverable."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No YouTube channel found for this company.",
+      "engagement_quality": "Unknown; platform not discoverable."
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury and ultra-luxury builder floors / resale residential, Gurgaon",
+    "key_trends": [
+      "Demand for luxury builder floors in established Gurgaon localities (DLF, Sushant Lok) is rising as buyers prefer independent living over high-rise apartments",
+      "Digital presence and social media lead generation have become critical for boutique consultancies competing with large portals; Value Advisors' absence here is a growing vulnerability",
+      "Referral and word-of-mouth still drive significant business for niche luxury consultancies, but online review platforms (Google, 99acres) are increasingly the first touchpoint for HNI buyers",
+      "Video walkthroughs and Instagram Reels of premium properties are now an expected marketing format in the luxury residential segment"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. Value Advisors operates in the same Gurgaon luxury resale and builder floor niche as boutique firms like ValueMax Advisors and channel partners such as YHATAW. Compared to these peers, Value Advisors appears to have a weaker digital footprint, with a non-functional website and no discoverable social media, making it more dependent on direct referrals than digital channels.",
+    "notes": [
+      "Peers like ValueMax Advisors (founded 2011, Gurgaon) have an active website and more structured online presence, highlighting the digital gap for Value Advisors",
+      "The niche focus on DLF and Sushant Lok builder floors is a strength, but the lack of digital assets means the brand cannot effectively scale beyond its existing referral network"
+    ]
+  }
+}
+```
