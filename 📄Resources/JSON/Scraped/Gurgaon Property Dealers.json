@@ -1,0 +1,82 @@
+```json
+{
+  "company_name": "Gurgaon Property Dealers (SR Properties)",
+  "website": "https://srproperties.online/?utm_source=Google&utm_medium=GMB",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Luxury Residential Properties",
+      "location": "DLF City, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "SR Properties promotes luxury apartments and villas in prime Gurgaon locations including DLF City, Golf Course Road, and Dwarka Expressway",
+        "Testimonials reference successful transactions in DLF City and NRI-targeted investments"
+      ]
+    },
+    {
+      "name": "Commercial Real Estate Portfolio",
+      "location": "Delhi NCR",
+      "type": "commercial",
+      "key_points": [
+        "Covers office spaces, retail, and business hubs across Gurgaon and Delhi NCR",
+        "Investment advisory focused on high-ROI commercial assets is a stated core service"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "SR Properties is a Gurgaon-based premium real estate consultancy claiming 15+ years of experience in the Delhi NCR market, operating under the trade name 'Gurgaon Property Dealers' on Google My Business. The brand positions itself around trust, transparency, and end-to-end support covering luxury residential, commercial, and investment advisory segments. The website is relatively new and minimal in content, suggesting the GMB profile is the primary digital lead-generation channel.",
+    "differentiators": [
+      "Claims 15+ years of experience in Delhi NCR real estate, lending credibility in a competitive local market",
+      "Covers an unusually broad geography including Gurgaon, Delhi, Noida, and Dubai, with NRI advisory as a stated service"
+    ],
+    "risks_or_weaknesses": [
+      "The website is a single-page brochure site with no property listings, blog content, or project pages — severely limiting SEO and organic lead generation",
+      "Brand identity is fragmented: the GMB listing uses 'Gurgaon Property Dealers' while the website branding is 'SR Properties', creating potential confusion",
+      "Only Instagram is linked in the footer; no LinkedIn, Facebook, or YouTube presence found, limiting digital reach"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/srpropertiesss/",
+      "activity_level": "semi-active",
+      "typical_content": "Likely property listings and promotional content for Gurgaon residential and commercial properties.",
+      "engagement_quality": "Unknown; username 'srpropertiesss' (triple-s) suggests an informal account setup rather than a structured brand profile."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No LinkedIn profile linked or discoverable for SR Properties / srproperties.online.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Facebook page linked on the website or found in search results.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No YouTube channel linked or discoverable for this company.",
+      "engagement_quality": "Unknown; platform not referenced."
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury and premium real estate consultancy, Gurgaon / Delhi-NCR",
+    "key_trends": [
+      "Google My Business (GMB) is increasingly the primary discovery channel for local real estate consultants in India — SR Properties' GMB-first strategy is directionally correct but needs supporting content",
+      "NRI buyer interest in Gurgaon luxury properties is rising, creating strong demand for consultancies offering end-to-end remote transaction support",
+      "Single-page websites without listings or blog content rank poorly in search vs competitors with structured SEO content; SR Properties faces a significant organic traffic disadvantage",
+      "Instagram Reels showcasing property walkthroughs and investment insights are now a standard lead-gen format in the premium real estate segment, an opportunity for SR Properties' nascent Instagram presence"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. SR Properties competes in the Gurgaon premium brokerage space against more digitally mature firms like Zricks (strong YouTube presence), YHATAW (multi-service RERA-registered brand), and 9YARDS Realtors (combined real estate and interior offering). SR Properties' GMB-centric model may generate local walk-in leads but lacks the content and social media infrastructure to compete for organic digital leads.",
+    "notes": [
+      "The UTM parameters in the website URL (?utm_source=Google&utm_medium=GMB) confirm the firm is actively tracking GMB traffic, indicating digital awareness — but the landing page itself lacks the depth to convert premium buyers effectively",
+      "A structured LinkedIn presence and property-specific blog content would significantly improve SR Properties' credibility with the HNI and NRI segments it claims to target"
+    ]
+  }
+}
+```

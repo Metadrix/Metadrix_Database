@@ -1,0 +1,92 @@
+```json
+{
+  "company_name": "99stay Properties",
+  "website": "http://www.99stay.in/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Sector 32 Office Space",
+      "location": "Sector 32, Gurgaon",
+      "type": "commercial",
+      "key_points": [
+        "Office space of 58,378 sq.ft listed at ₹90 lakh, targeting commercial investors in central Gurgaon",
+        "One of the few commercial listings on the platform, suggesting a primarily residential focus"
+      ]
+    },
+    {
+      "name": "Residential Plot, Gurgaon",
+      "location": "Gurgaon",
+      "type": "residential plot",
+      "key_points": [
+        "Large residential plot of 4,846 sq.ft listed at ₹31,000 lakh, targeting high-value land investors",
+        "Listed as a featured property directly associated with the 99stay contact number (9990850596)"
+      ]
+    },
+    {
+      "name": "Sapphire Green, Jhajjar",
+      "location": "Jhajjar, Haryana",
+      "type": "residential plot",
+      "key_points": [
+        "Plot of 1,080 sq.ft in Jhajjar, extending the firm's coverage beyond core Gurgaon into peripheral Haryana markets",
+        "Positioned as an affordable entry-level land investment option"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "99Stay Properties is a small Gurgaon-based real estate consultancy operating from Sector 31, near NH-8, focused on residential and commercial property transactions in the Gurgaon and NCR region. The website is built on a generic real estate template with placeholder/lorem ipsum content still visible, indicating the brand is at an early stage of digital development. On-site testimonials are positive but appear recent and concentrated, suggesting limited but growing client engagement.",
+    "differentiators": [
+      "Covers both residential and commercial segments including serviced apartments and plots, giving some breadth to its portfolio",
+      "Proximity to NH-8 and Jharsa flyover in Sector 31 positions it as accessible to key Gurgaon markets"
+    ],
+    "risks_or_weaknesses": [
+      "Website contains unedited placeholder/lorem ipsum text and dummy listing data (e.g. price listed as '₹31,000 L' which appears erroneous), severely undermining digital credibility",
+      "No social media presence found; no links to Instagram, LinkedIn, Facebook, or YouTube on the website",
+      "Website email listed as 'support99stay.com' (missing '@') indicating poor quality control in basic digital infrastructure",
+      "No RERA registration number found on the website, which is a legal requirement for real estate agents in Haryana"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Instagram presence linked or discoverable.",
+      "engagement_quality": "Unknown; platform not referenced anywhere on the site."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No LinkedIn profile linked or discoverable for this company.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Facebook page linked on the website or found in search results.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No YouTube channel linked or discoverable for this company.",
+      "engagement_quality": "Unknown; platform not referenced."
+    }
+  },
+  "industry_trends": {
+    "segment": "residential and commercial real estate consultancy, Gurgaon / Delhi-NCR",
+    "key_trends": [
+      "Digital credibility signals (RERA registration display, professional website, Google reviews) are now baseline expectations for property buyers evaluating consultants online",
+      "Social media lead generation — especially Instagram and YouTube — is increasingly the primary discovery channel for small real estate firms in Gurgaon competing against large portals",
+      "Serviced apartment investments near corporate hubs like DLF Cyber City are gaining traction among yield-seeking investors, a niche 99Stay's testimonials hint at serving",
+      "WhatsApp and mobile-first engagement are critical for converting real estate enquiries in the NCR market, an area where 99Stay's phone-centric contact approach is well-aligned"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. 99Stay Properties is at a very early stage of digital brand development compared to peers like Zricks, NStay Homes, or 9YARDS Realtors in the Gurgaon market. The website's use of placeholder content and the absence of any social media presence places it significantly behind even other small boutique brokerages in the region.",
+    "notes": [
+      "Unlike more established Gurgaon consultancies such as Zricks (2L+ YouTube subscribers) or YHATAW (RERA-registered with a structured service model), 99Stay has no verifiable third-party digital footprint",
+      "The brand has significant upside potential if basic digital infrastructure — a clean website, RERA compliance display, Google reviews, and one active social channel — is put in place"
+    ]
+  }
+}
+```
