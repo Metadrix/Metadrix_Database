@@ -124,8 +124,8 @@ RULES:
 ```
 You are a research assistant helping me personalize a sales email for a company. Research the company below and RETURN ONLY VALID MINIFIED JSON. NO explanations, NO markdown, NO extra text. COMPANY:
 
-- Name: ICONIC REALTY - Verified Property Consultant in Gurgaon
-- Website: http://www.iconicrealty.co/
+- Name:
+- Website: 
 - Main Competitor (for context, if known): Not known Your tasks:
 
 1. Search the web for recent, reliable information about this company.

@@ -52,7 +52,7 @@ Score - 22
 - [ ] Inapplicable
 #### #dashed #grey 
 #### Feel/Message delivery #s
-- [x] Premium
+- [ ] Premium
 - [ ] Good 
 - [ ] Poor
 - [ ] Missing

@@ -1,0 +1,113 @@
+{
+  "company_name": "Finmart Realty",
+  "website": "https://www.finmartrealty.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "One Horizon Center / Two Horizon Center",
+      "location": "DLF Phase-V, Sector 43, Gurugram",
+      "type": "commercial",
+      "key_points": [
+        "Premium 25-storey commercial tower developed by Hines and DLF, designed by Robert A.M. Stern Architects",
+        "Finmart Realty markets retail and office spaces in this landmark Golf Course Road project"
+      ]
+    },
+    {
+      "name": "DLF The Camellias",
+      "location": "Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "Ultra-luxury residential project by DLF marketed through Finmart Realty",
+        "Positioned at the top end of Gurugram's residential market"
+      ]
+    },
+    {
+      "name": "Elan Miracle",
+      "location": "Sector 84, Gurugram",
+      "type": "mixed-use",
+      "key_points": [
+        "Mixed-use development with high street retail, food court, PVR multiplex, and luxury serviced apartments",
+        "Located on 150-metre Dwarka Expressway with metro connectivity and proximity to the international airport"
+      ]
+    },
+    {
+      "name": "M3M Urbana Business Park",
+      "location": "Sector 67, Gurugram",
+      "type": "commercial",
+      "key_points": [
+        "Ultra-luxury modern commercial IT space with assured return till first lease",
+        "Office spaces starting from 450 sq.ft. at Rs 7,600/sq.ft."
+      ]
+    },
+    {
+      "name": "AIPL Business Club",
+      "location": "Sector 62, Gurugram",
+      "type": "commercial",
+      "key_points": [
+        "Office space positioned as a leisure-integrated business destination on Golf Course Extension Road"
+      ]
+    },
+    {
+      "name": "AIPL The Peaceful Homes",
+      "location": "DLF Phase-V, Sector 70A, Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "2/3/4 BHK apartments marketed by Finmart Realty in a premium Gurugram micro-market"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Finmart Realty is a mid-sized real estate consulting and channel-partner firm with over 10 years of experience, primarily focused on the Gurugram corporate and premium residential market. It acts as a broker/channel partner for top developers like DLF, M3M, AIPL, and Elan rather than developing projects itself. The brand positions itself on trust, knowledge, and integrity targeting corporate clients and HNI buyers across Gurugram, Delhi, Mumbai, and Pune.",
+    "differentiators": [
+      "10+ years of specialised focus on corporate real estate in Gurugram with tie-ups to marquee developers like DLF and Hines",
+      "No upfront fees model — money collected only on successful transaction, lowering client commitment barrier"
+    ],
+    "risks_or_weaknesses": [
+      "Website appears to be parked or inactive on GoDaddy at time of research, suggesting possible digital neglect",
+      "No proprietary projects; entirely dependent on third-party developer inventory which limits brand differentiation"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "real estate consulting / channel partner, Gurugram NCR",
+    "key_trends": [
+      "Digital lead generation via portals like 99acres, MagicBricks, and Housing.com is now the primary driver of inquiries for channel partners, making SEO and listing quality critical",
+      "Social media marketing (Instagram Reels, YouTube property tours) is rapidly becoming table stakes for real estate consultants targeting HNI and NRI buyers",
+      "Gurugram luxury and ultra-luxury segment (DLF, M3M, Elan) is seeing strong demand post-pandemic, benefiting channel partners with premium portfolios",
+      "WhatsApp-based CRM and automated follow-up tools are being adopted by progressive brokers to manage corporate client pipelines"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was identified. In the Gurugram channel-partner space, Finmart Realty competes with larger and more digitally active brokerages such as Square Yards, Investors Clinic, and local boutique firms. These competitors typically have stronger digital and social media presence, dedicated CRM platforms, and larger agent networks compared to Finmart's lean operation.",
+    "notes": [
+      "Finmart's website appears dormant compared to well-funded competitors who invest heavily in digital infrastructure and content marketing",
+      "The firm's long tenure (10+ years) and corporate-client focus are potential differentiators that larger aggregator competitors lack in personalised service"
+    ]
+  }
+}
