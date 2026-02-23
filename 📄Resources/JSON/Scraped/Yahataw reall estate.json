@@ -1,0 +1,92 @@
+```json
+{
+  "company_name": "YHATAW Real Estate Facilitators Pvt. Ltd",
+  "website": "https://www.yhataw.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Sobha Aranya at Karma Lakelands",
+      "location": "Sector 80, Manesar, Gurugram, Haryana",
+      "type": "luxury residential",
+      "key_points": [
+        "3BHK apartments starting from ₹7.1 Cr, positioned as a premium new launch",
+        "Listed as a featured property on YHATAW's platform"
+      ]
+    },
+    {
+      "name": "Max Estate 360",
+      "location": "Sector 36A, Dwarka Expressway, Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "Luxury apartments and penthouses starting from ₹5.48 Cr, under construction",
+        "Part of YHATAW's curated high-end portfolio on Dwarka Expressway"
+      ]
+    },
+    {
+      "name": "TARC Ishva",
+      "location": "Sector 63A, Golf Course Extension, Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "3BHK luxury apartments starting from ₹5.84 Cr",
+        "Featured as a new launch in the premium Golf Course Extension corridor"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "YHATAW (Your Home Anytime, Anywhere) is a Delhi-NCR based real estate consultancy and facilitator focused primarily on Gurugram, with an expanding presence in Dubai, Delhi, and Chandigarh. They position themselves as a trusted, RERA-registered advisor (Haryana RERA No: RC/REA/HARERA/GGM/2019/183) offering end-to-end services including buying, legal advice, home loans, interior, and Vastu. Their portfolio skews toward mid-premium to luxury residential segments.",
+    "differentiators": [
+      "End-to-end service model covering legal advice, home loans, Vastu, and interior design alongside property search",
+      "Dedicated 24/7 agent and pick-and-drop facility for site visits, enhancing client experience",
+      "RERA-registered with a curated listing of verified projects across Gurugram micro-markets and Dubai"
+    ],
+    "risks_or_weaknesses": [
+      "Limited brand visibility outside NCR; no major press coverage or notable third-party mentions found",
+      "Website content and some listings appear to be 2–4 years old, suggesting inconsistent content updates",
+      "Relatively small listing inventory compared to large portals like 99acres or MagicBricks"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/yhatawrealty/",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings, project highlights, and real estate tips for the Gurugram market.",
+      "engagement_quality": "Likely low to moderate engagement typical of a niche local real estate brand."
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/yhataw-realty",
+      "activity_level": "semi-active",
+      "typical_content": "Company updates, property listings, and real estate market insights.",
+      "engagement_quality": "Engagement likely limited given the company's small size and niche B2C focus."
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/yhatawrealty/",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings and promotional content for Gurugram real estate projects.",
+      "engagement_quality": "Moderate reach expected for a local real estate consultancy with Facebook pixel installed on website."
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/@yhatawrealty",
+      "activity_level": "dormant",
+      "typical_content": "Likely property walkthroughs or project overview videos.",
+      "engagement_quality": "Unknown; channel appears to have low prominence based on available signals."
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury and mid-premium residential real estate consultancy, Gurugram / Delhi-NCR",
+    "key_trends": [
+      "Rising demand for luxury housing in Gurugram corridors (Dwarka Expressway, Golf Course Extension) is driving consultancies to curate premium inventories",
+      "Digital lead generation via social media and SEO is increasingly critical for smaller brokerages competing against aggregator portals",
+      "Dubai real estate interest from Indian HNIs is growing, and consultancies offering cross-border advisory have a differentiation opportunity",
+      "Video content and virtual property tours are becoming table-stakes for online engagement in real estate marketing"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. YHATAW competes in the fragmented Gurugram real estate consultancy space alongside large portals (99acres, MagicBricks, Housing.com) and boutique channel partners. Compared to large portals, YHATAW's strength lies in personalized service, but it lacks the digital scale and brand recall of established players.",
+    "notes": [
+      "Boutique consultancies like YHATAW can differentiate on service quality and dedicated advisory, but struggle with online discoverability versus major portals",
+      "Their RERA registration and multi-service model (legal, loan, interior, Vastu) could be leveraged more aggressively in marketing to stand out"
+    ]
+  }
+}
+```

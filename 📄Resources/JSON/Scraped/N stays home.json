@@ -1,0 +1,107 @@
+```json
+{
+  "company_name": "NStay HOMES - RENOVATING REALESTATE",
+  "website": "http://www.nstayhomes.com/",
+  "recent_news": [
+    {
+      "title": "How to Participate in HSVP e-Auction: A Comprehensive Step-by-Step Guide",
+      "summary": "NStay Homes published a blog guide on participating in HSVP government e-auctions, reflecting their focus on educating buyers about Haryana real estate processes.",
+      "date": "2025-04-08",
+      "source": "nstayhomes.com",
+      "url": "https://www.nstayhomes.com/how-to-participate-in-hsvp-e-auction"
+    },
+    {
+      "title": "Latest Haryana Government By-Laws of Construction for HUDA Sectors & Private Societies",
+      "summary": "NStay Homes covered the Haryana Building Code and construction by-laws, providing regulatory guidance relevant to property buyers and investors in Gurugram.",
+      "date": "2025-04-05",
+      "source": "nstayhomes.com",
+      "url": "https://www.nstayhomes.com/%f0%9f%8f%97%ef%b8%8f-latest-haryana-government-by-laws-of-construction-for-huda-sectors-private-societies"
+    }
+  ],
+  "flagship_projects": [
+    {
+      "name": "Signature Global City of Colours – NH8",
+      "location": "Sidhrawali, Gurugram",
+      "type": "mixed-use (residential + commercial plots)",
+      "key_points": [
+        "Plots starting from Rs 55K/yd, positioned as an affordable investment option on the NH8 corridor",
+        "Listed as a trending project with both residential and commercial plot categories"
+      ]
+    },
+    {
+      "name": "Emaar Urban Ascent, Sector 112",
+      "location": "Sector 112, Dwarka Expressway, Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "4BHK apartments of 3151 sqft priced at Rs 18.8K/sqft, targeting premium buyers on Dwarka Expressway",
+        "New launch project by Emaar, featured as a trending listing on the NStay platform"
+      ]
+    },
+    {
+      "name": "Chintamani Arttech, Sector 89A",
+      "location": "Sector 89A, Gurugram",
+      "type": "affordable residential",
+      "key_points": [
+        "4BHK units at Rs 12.5K/sqft under construction, positioned as an affordable new launch",
+        "Listed under both affordable projects and new launches categories"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "NStay Homes is a Gurugram-focused real estate consultancy offering a broad spectrum of services from residential and commercial leasing to property management and loan assistance. They cater to a wide range of segments — from affordable DDJAY projects to luxury kothis — positioning themselves as a one-stop property solution for the NCR market. Their brand presence is primarily local and digital, with active blogging and a Facebook pixel suggesting investment in online lead generation.",
+    "differentiators": [
+      "Broad service offering including co-working space advisory, builder floors, resale, and property management under one platform",
+      "Educational content strategy with active blogging on Haryana real estate regulations, HSVP auctions, and ownership documentation",
+      "Free property listing feature enabling owner-direct submissions alongside agent-led advisory"
+    ],
+    "risks_or_weaknesses": [
+      "Counter metrics (properties sold, agents, years in business) are shown as animated zeros on the homepage, suggesting the site may be newly redesigned or the counters are not loading — undermining credibility",
+      "Limited third-party press coverage or industry recognition found; brand visibility is largely confined to its own website",
+      "Typos on the site (e.g., 'Carrers' instead of 'Careers', 'loan assiatance') suggest limited quality control on digital assets"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Instagram link found on the website.",
+      "engagement_quality": "Unknown; platform not referenced in site footer."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No LinkedIn profile linked from the website.",
+      "engagement_quality": "Unknown; not listed in social media links."
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/",
+      "activity_level": "semi-active",
+      "typical_content": "Facebook pixel is installed on the website and a Facebook follow widget is present in the footer, indicating active use for advertising and audience building.",
+      "engagement_quality": "Unknown exact engagement; presence of the pixel suggests paid or organic Facebook marketing activity."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "semi-active",
+      "typical_content": "A YouTube widget is embedded in the footer ('Watch On YouTube'), suggesting property-related video content.",
+      "engagement_quality": "Unknown; no direct channel URL provided on the website."
+    }
+  },
+  "industry_trends": {
+    "segment": "residential and commercial real estate consultancy, Gurugram / Delhi-NCR",
+    "key_trends": [
+      "Demand for affordable and DDJAY housing in Gurugram's peripheral sectors is rising, aligning with NStay's affordable project listings",
+      "Content marketing and SEO via real estate blogs (regulations, auctions, documentation) is becoming a key digital lead-generation tactic for boutique brokerages",
+      "Co-working space demand in NCR continues to grow post-pandemic, making this a strong vertical for consultancies that can bridge residential and commercial advisory",
+      "Video content and virtual tours are increasingly expected by property seekers, creating an opportunity for NStay's nascent YouTube presence"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. NStay Homes operates in the same fragmented Gurugram brokerage market as YHATAW, Square Yards, and large portals like 99acres. Compared to larger platforms, NStay's strength is its localized, full-service model, but it lacks the digital footprint, brand credibility signals, and social media presence of more established players.",
+    "notes": [
+      "Unlike portals such as 99acres or MagicBricks, NStay attempts to differentiate via direct advisory, free listings, and regulatory education content",
+      "The absence of LinkedIn and Instagram presence is a notable digital gap compared to peers in the boutique real estate consultancy space"
+    ]
+  }
+}
+```
