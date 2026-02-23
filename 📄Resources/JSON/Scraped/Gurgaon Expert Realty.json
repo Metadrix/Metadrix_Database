@@ -1,0 +1,109 @@
+```json
+{
+  "company_name": "Gurgaon Expert Realty",
+  "website": "http://gurgaonexpertrealty.com/",
+  "recent_news": [
+    {
+      "title": "India's Luxury Property Market Boom",
+      "summary": "Gurgaon Expert Realty published an editorial on India's booming luxury property market, highlighting DLF Privana sellouts and the surge in high-end residential demand across Gurgaon.",
+      "date": "2025-07-09",
+      "source": "gurgaonexpertrealty.com",
+      "url": "https://gurgaonexpertrealty.com/indias-luxury-property-market-boom"
+    }
+  ],
+  "flagship_projects": [
+    {
+      "name": "DLF Privana",
+      "location": "Sector 76-77, Gurugram",
+      "type": "ultra-luxury residential",
+      "key_points": [
+        "Featured as a primary nav item and top homepage project, indicating a flagship channel partner relationship with DLF for Privana North/South/West",
+        "All DLF Privana phases sold out rapidly at ₹1 Cr+ per unit, underlining the premium positioning of this listing"
+      ]
+    },
+    {
+      "name": "DLF Camellias",
+      "location": "Golf Course Road, Gurugram",
+      "type": "ultra-luxury residential",
+      "key_points": [
+        "One of India's most expensive residential projects, listed as a dedicated nav item — signalling strong ultra-luxury credentials for Gurgaon Expert Realty",
+        "Targeted at HNI and UHNI buyers, reinforcing the firm's premium market positioning"
+      ]
+    },
+    {
+      "name": "AIPL Joy District, Sector 88",
+      "location": "Sector 88, Gurugram",
+      "type": "commercial / mixed-use",
+      "key_points": [
+        "Retail, food court, restaurants, and multiplex; listed as a Hot Project with shop sizes from 600 sq.ft. — covering commercial investment alongside residential",
+        "Extends the firm's portfolio beyond pure luxury residential into the commercial investment segment"
+      ]
+    },
+    {
+      "name": "Godrej Zenith",
+      "location": "Sector 89, Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "Actively promoted across website and blog content, reflecting an ongoing channel partner relationship with Godrej Properties",
+        "Positioned as a premium wellness-themed residential project with lush green surroundings"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Gurgaon Expert Realty is a RERA-registered luxury real estate consultancy (RERA No: RC/HARERA/GGM/3869/3464/2025/746) based in Ocus Quantum, Sector 51, Gurugram, claiming 10+ years of experience and over 5,000 satisfied clients. The brand is positioned squarely in the ultra-luxury and premium segment, with a curated portfolio featuring DLF Camellias, DLF Privana, Tulip Monsella, Godrej, M3M, and Hines — some of Gurgaon's highest-value projects. It holds a 4.4/5 Justdial rating across 26 reviews, and has a confirmed LinkedIn company page.",
+    "differentiators": [
+      "Strong ultra-luxury credentials via preferred channel partner access to DLF Camellias and DLF Privana — among the most exclusive inventory in India's residential market",
+      "Active content marketing through a blog covering luxury market trends, positioning the brand as a thought leader rather than just a transactional broker",
+      "RERA registered with two RERA IDs on the website (Haryana and HRERA Panchkula), indicating multi-region compliance and credibility"
+    ],
+    "risks_or_weaknesses": [
+      "No social media links are live on the website — the footer says 'We are on social media' but only links to a phone call and WhatsApp, not to any actual platform profiles",
+      "LinkedIn page exists but content is unavailable without login, suggesting limited active presence; no Instagram, Facebook, or YouTube channels found",
+      "Website is built on Zyro (now Hostinger Website Builder), a basic drag-and-drop platform — limits SEO capability and may not project the premium brand image consistent with DLF Camellias-level inventory"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Instagram profile linked or discoverable despite 'social media' mention in the website footer.",
+      "engagement_quality": "Unknown; platform not accessible."
+    },
+    "linkedin": {
+      "url": "https://in.linkedin.com/company/gurgaon-expert-realty",
+      "activity_level": "dormant",
+      "typical_content": "LinkedIn company page exists but content is not publicly visible without login, suggesting minimal or no recent activity.",
+      "engagement_quality": "Unknown; page appears inactive based on limited public signals."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Facebook page linked on the website or found in search results.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No YouTube channel linked or discoverable for this company.",
+      "engagement_quality": "Unknown; platform not referenced."
+    }
+  },
+  "industry_trends": {
+    "segment": "ultra-luxury and premium residential real estate consultancy, Gurugram / Delhi-NCR",
+    "key_trends": [
+      "Ultra-luxury housing demand in Gurgaon (₹5 Cr+) is at an all-time high, with DLF Privana phases selling out in days — directly validating Gurgaon Expert Realty's project focus",
+      "Social media — particularly Instagram and YouTube — are now essential for luxury real estate consultancies to reach HNI and NRI buyers who research properties digitally before engaging an agent",
+      "Content marketing and SEO-driven blogs are an increasingly effective way for boutique brokerages to build authority and organic reach, an area where Gurgaon Expert Realty has made early moves",
+      "RERA registration visibility is a key trust signal for premium buyers; Gurgaon Expert Realty's clear display of dual RERA IDs is a meaningful differentiator in a market with many unregistered agents"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. Gurgaon Expert Realty competes with boutique luxury consultancies like Homeseek Realtors, Zricks, and national advisory firms like Square Yards. Its ultra-luxury inventory (DLF Camellias, Privana) positions it above most boutique peers, but the complete absence of active social media undercuts its ability to reach the digitally-active HNI and NRI segments these projects target.",
+    "notes": [
+      "Unlike Zricks (2L+ YouTube subscribers) or Homeseek Realtors (active Instagram/LinkedIn), Gurgaon Expert Realty has no verified active social channel despite operating for 10+ years — a significant digital gap for a firm with ultra-luxury inventory",
+      "The firm's blog content strategy is a genuine strength that most Gurgaon boutique consultancies lack; amplifying this through Instagram, LinkedIn, and YouTube could rapidly accelerate brand visibility among its target HNI audience"
+    ]
+  }
+}
+```
