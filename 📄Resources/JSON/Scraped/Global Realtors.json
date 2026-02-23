@@ -1,0 +1,99 @@
+```json
+{
+  "company_name": "Global Realtors",
+  "website": "https://www.theglobalrealtors.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "DLF The Arbour",
+      "location": "Sector 63, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Large-format apartments at 3,956 sq.ft, positioned in one of Gurgaon's premium corridors",
+        "Flagship DLF listing reflecting the firm's focus on top-tier developer inventory"
+      ]
+    },
+    {
+      "name": "DLF Privana South",
+      "location": "Sector 77, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Ultra-luxury apartments at 3,577 sq.ft in the high-demand SPR Road belt",
+        "Part of DLF's premium Privana series, one of Gurgaon's most sought-after new launches"
+      ]
+    },
+    {
+      "name": "Birla Arika",
+      "location": "Sector 80, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Spacious apartments ranging from 4,300 to 4,900 sq.ft, targeting ultra-HNI buyers",
+        "Positioned as a new benchmark in luxury living in the Gurgaon market"
+      ]
+    },
+    {
+      "name": "Whiteland The Aspen",
+      "location": "Sector 76, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Large 3,677–4,454 sq.ft apartments in a fast-growing sector along the Dwarka Expressway",
+        "Lifestyle-focused project catering to premium homebuyers and investors"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Global Realtors (theglobalrealtors.com) is a Gurgaon-focused real estate advisory firm specializing in new luxury project sales and resale properties in the Delhi NCR market. The firm positions itself as a personalized, expert-led consultancy catering to buyers of premium and ultra-luxury apartments. It operates as a channel partner for leading developers including DLF, Godrej, Birla, Smartworld, and Whiteland.",
+    "differentiators": [
+      "Curated portfolio exclusively in the premium and luxury Gurgaon segment, with large-format apartments from top-tier developers",
+      "Dual service offering covering both new project sales and resale properties, supported by property valuation and consultation services"
+    ],
+    "risks_or_weaknesses": [
+      "Very limited online brand presence — no blog, no press coverage, and a minimal website with no social proof beyond contact details",
+      "No LinkedIn presence found; social media limited to Facebook and Instagram, likely restricting reach to younger or professional investor audiences"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/theglobal.realtors",
+      "activity_level": "semi-active",
+      "typical_content": "Likely property listings and project highlights for Gurgaon luxury developments.",
+      "engagement_quality": "Profile exists but follower count and engagement level could not be verified from available data."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/share/1Bahkvtkih",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings and project promotions shared with local audience.",
+      "engagement_quality": "Presence confirmed but detailed engagement metrics not publicly available."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury real estate advisory, Gurgaon / Delhi NCR",
+    "key_trends": [
+      "Demand for large-format luxury apartments (3,000–5,000 sq.ft) in Gurgaon is accelerating, with DLF, Birla, and Godrej leading supply",
+      "Video walkthroughs, virtual site visits, and reels-based property marketing are now standard expectations for luxury buyers discovering properties online",
+      "LinkedIn and YouTube are emerging as high-trust channels for real estate advisories targeting HNI and NRI investors — areas where this firm has no presence",
+      "WhatsApp-first communication and direct-to-buyer digital funnels are replacing traditional brokerage models in the premium NCR segment"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was named. Global Realtors competes with other Gurgaon-based luxury real estate channel partners such as Anarock, Square Yards, and local boutique firms like Propnkey. Compared to larger platforms, Global Realtors has a simpler web presence and narrower inventory focus, which may limit inbound lead volume but allows for a more personalized service model.",
+    "notes": [
+      "Larger competitors have stronger SEO, blog content, and social media footprints, potentially capturing more top-of-funnel luxury buyer traffic",
+      "The firm's WhatsApp-first contact model and direct phone approach may suit relationship-driven HNI buyers but limits scalability"
+    ]
+  }
+}
+```

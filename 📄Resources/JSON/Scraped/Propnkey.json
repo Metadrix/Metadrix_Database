@@ -1,0 +1,101 @@
+```json
+{
+  "company_name": "Propnkey",
+  "website": "https://www.propnkey.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "DLF The Camellias",
+      "location": "Sector 42, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Ultra-luxury apartments priced at ₹65 Cr, spanning 7,196 sq.ft",
+        "Featured listing and most searched property on the platform"
+      ]
+    },
+    {
+      "name": "Trump Towers",
+      "location": "Sector 65, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Branded residence priced at ₹11 Cr for 3,150 sq.ft apartments",
+        "Marquee listing highlighting Propnkey's focus on iconic branded residences"
+      ]
+    },
+    {
+      "name": "Godrej Connaught One",
+      "location": "Central Delhi",
+      "type": "luxury residential",
+      "key_points": [
+        "New development priced from ₹16.1 Cr, one of the highest-value listings in the Delhi portfolio",
+        "Reflects Propnkey's expansion into premium central Delhi market"
+      ]
+    },
+    {
+      "name": "Holiday Homes Portfolio (Goa)",
+      "location": "North and South Goa",
+      "type": "luxury residential / holiday homes",
+      "key_points": [
+        "Curated villas and Portuguese heritage homes ranging from ₹1.2 Cr to ₹41 Cr",
+        "Strong holiday home focus with 24+ listings covering villas, cottages, and pool homes"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Propnkey is a boutique luxury real estate advisory based in Gurugram, positioning itself as a curated, client-first firm for high-net-worth buyers and investors. It focuses on branded residences, ultra-luxury apartments, and exclusive vacation homes across Delhi NCR, Goa, Bangalore, and hill stations. The brand emphasizes bespoke service and transparency over volume-driven brokerage.",
+    "differentiators": [
+      "Boutique, advisor-led approach with named consultants (Vikas, Anand, Anshul) creating personal accountability",
+      "Multi-geography curated portfolio spanning urban luxury (Gurgaon, Delhi, Bangalore) and lifestyle markets (Goa, Kasauli, Shimla)",
+      "Strong developer partnerships with DLF, Godrej, M3M, Emaar, TATA Housing, and Mahindra Lifespaces"
+    ],
+    "risks_or_weaknesses": [
+      "Small boutique team may limit scalability and response capacity as enquiry volume grows",
+      "Limited brand visibility outside its immediate market — no notable press coverage or third-party reviews found",
+      "No proprietary developments; entirely dependent on third-party developer inventory"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury real estate advisory, Gurgaon / Delhi NCR",
+    "key_trends": [
+      "Demand for branded and hotel-affiliated residences (Westin, Leela, Trump) is surging among HNI buyers in Gurgaon",
+      "Holiday home investment in Goa and hill stations (Kasauli, Shimla) is growing post-pandemic, creating a niche advisory opportunity",
+      "Digital-first discovery: buyers increasingly research and shortlist properties online, making SEO and content marketing critical for boutique firms",
+      "Social media and video walkthroughs are becoming expected tools for luxury property marketing, an area where Propnkey appears underinvested"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No direct competitor was specified. Propnkey competes broadly with other luxury real estate brokerages in Gurgaon such as Square Yards, Anarock, and India Sotheby's International Realty. Compared to larger players, Propnkey's boutique model offers more personalized service but lacks the digital marketing scale, brand recognition, and pan-India reach of established competitors.",
+    "notes": [
+      "Larger competitors like Square Yards or Anarock have stronger digital and social media presence, which may drive more inbound leads",
+      "Propnkey's curated, relationship-driven model may resonate better with ultra-HNI clients who value discretion over mass-market exposure"
+    ]
+  }
+}
+```
