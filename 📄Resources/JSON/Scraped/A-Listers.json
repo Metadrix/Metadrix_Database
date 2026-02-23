@@ -1,0 +1,101 @@
+```json
+{
+  "company_name": "A-Listers",
+  "website": "https://www.a-listers.in/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "DLF Privana North",
+      "location": "SPR Road, Gurugram",
+      "type": "ultra-luxury residential",
+      "key_points": [
+        "1,164 ultra-luxury 4 BHK + servant residences across 6 towers of 50 storeys — DLF's tallest ever; A-Listers marketing EOI priority access",
+        "Part of a 116-acre DLF Privana masterplan; previous phases (Privana West, South) reportedly sold out at launch within days at ₹7,200 Cr"
+      ]
+    },
+    {
+      "name": "DLF Dahlias",
+      "location": "Gurugram",
+      "type": "ultra-luxury super-premium residential",
+      "key_points": [
+        "9,500–16,000 sq ft residences positioned as DLF's successor to The Camellias — the highest-priced residential development in India",
+        "Featured prominently as a marquee new launch on the A-Listers homepage, targeting UHNWI buyers"
+      ]
+    },
+    {
+      "name": "Boutique Projects – Isprava (Goa, Alibaug, Coonoor, Kasauli) & Vianaar (Goa, Kasauli, Sri Lanka)",
+      "location": "Goa, Alibaug, Coonoor, Kasauli, Sri Lanka",
+      "type": "luxury holiday villa and bespoke estate",
+      "key_points": [
+        "A-Listers exclusively markets Isprava bespoke villas and Vianaar managed properties — a clear differentiator into the holiday home and managed villa investment segment",
+        "Dreamwood Estate Moondance (Ooty, 30 acres, 15 properties from ₹2.5 Cr/acre) also listed — showing appetite for rare estate assets outside Gurugram"
+      ]
+    },
+    {
+      "name": "DLF Legacy Portfolio (Camellias, Aralias, Magnolias, Crest, Belaire, Pinnacle)",
+      "location": "Golf Course Road, DLF Phases 4–5, Gurugram",
+      "type": "ultra-luxury resale residential",
+      "key_points": [
+        "Full DLF legacy super-luxury resale inventory (sale, purchase, and leasing) — positions A-Listers as a specialist across all DLF ultra-luxury tiers",
+        "Also includes Conscient Hines Elevate (Golf Course Extension) and M3M Golf Estate — extending coverage across Gurugram's most premium corridors"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "A-Listers is a boutique ultra-luxury real estate consultancy founded by Raoul Parashar (20 years experience) and co-founders with backgrounds in global L&D and investment portfolio management, operating across Gurgaon, India, and Dubai. The brand is explicitly positioned at the UHNWI and HNI end of the market — channel partner for DLF, Emaar, Godrej, and Sobha — specializing in new launches, resale, leasing, and bespoke investment portfolio management for their clients. Uniquely, A-Listers extends beyond Gurugram with a dedicated Dubai vertical, holiday home boutique projects (Isprava, Vianaar), and a structured portfolio management offering — making it one of the most diversified boutique luxury consultancies in the Delhi-NCR market.",
+    "differentiators": [
+      "Explicit Dubai market vertical ('A-Listers X Dubai') — rare for a Gurugram-based boutique brokerage and directly targets the growing NRI and cross-border investor segment",
+      "Bespoke investment portfolio management as a named service — moves beyond transactional brokerage into ongoing advisory, improving client LTV and referral flow",
+      "Boutique holiday home portfolio (Isprava, Vianaar, Dreamwood Estate) across Goa, Alibaug, Kasauli, Sri Lanka — no other brokerage in this peer group offers this breadth"
+    ],
+    "risks_or_weaknesses": [
+      "Website is built on GoDaddy's website builder (wsimg.com hosted assets) — significantly below the expected quality standard for a brand marketing ₹50 Cr–₹500 Cr properties",
+      "No verified social media profiles found; 'Stay Connected' page and 'Real Estate Daily' section appear to be placeholder sections without active content, limiting organic digital presence",
+      "Office listed as 'C/O Plus Wealth, One Horizon Centre' — a co-working address rather than a dedicated office, which may undermine institutional credibility for high-value transaction clients"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "ultra-luxury and UHNWI real estate consultancy, Gurugram / Dubai / India",
+    "key_trends": [
+      "NRI and UHNWI cross-border real estate investment between India and Dubai is surging — A-Listers' dual-market positioning is strategically timed but requires LinkedIn and WhatsApp marketing to reach this audience effectively",
+      "DLF Privana and Dahlias-level launches are driven almost entirely by relationship networks and pre-launch access — WhatsApp broadcast channels and curated Telegram groups are the new primary channel for UHNWI property discovery",
+      "Instagram and LinkedIn are the primary trust-building tools for luxury real estate consultants globally; A-Listers' absence from both platforms means it is invisible to high-net-worth buyers who research brokers online before engaging",
+      "Holiday home investment demand (Goa, Kasauli, Sri Lanka) from Tier-1 Indian city buyers has risen sharply; boutique brokerages offering curated holiday home mandates alongside primary city portfolios are capturing a highly loyal buyer segment"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "A-Listers competes in the ultra-luxury Gurugram segment alongside boutique consultancies like ElitePro Infra and founder-led advisors like Ivaan Landbase, as well as international luxury brands like Sotheby's India and India Sotheby's International Realty. Compared to ElitePro (which has claimed 200+ awards and 30,000 clients), A-Listers is smaller and more exclusive in positioning but has a more differentiated service model with Dubai and holiday home verticals. Against peers like India Sotheby's or even DLF's own sales teams, A-Listers' biggest gap is its near-zero digital marketing footprint for a brand targeting clients who spend ₹10 Cr–₹200 Cr on properties.",
+    "notes": [
+      "The 'A-Listers X Dubai' dedicated page and One Horizon Centre address suggest the founders may be personally well-networked in the Dubai–Gurgaon HNI corridor — the brand's actual reach likely exceeds what its digital footprint suggests",
+      "The founders' backgrounds in 'global brands, learning & development' rather than traditional real estate could be a positioning advantage (fresh perspective, global network) but may also require stronger trust signals (testimonials, press, track record) to overcome HNI buyer skepticism"
+    ]
+  }
+}
+```

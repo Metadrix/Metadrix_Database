@@ -1,0 +1,71 @@
+{
+  "company_name": "Shagoon Floors (Builder Floors)",
+  "website": "https://shagoonfloors.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Builder Floors – Sushant Lok & DLF Phases",
+      "location": "Sushant Lok Phase I and DLF Phases, Gurugram, Haryana",
+      "type": "luxury residential builder floors",
+      "key_points": [
+        "200+ listings of plots, bungalows, and independent builder floors in Gurgaon's premium residential corridors",
+        "All properties positioned near HUDA City Centre metro station; focus on DLF and Sushant Lok micro-markets"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Shagoon Floors (also known as Shagoon Estates) is a boutique real estate consultancy based in Sushant Lok Phase I, Gurugram, with approximately three decades of claimed experience in the builder floor segment. It targets luxury and premium buyers looking for independent floors in DLF Phases and Sushant Lok — established Gurgaon micro-markets near the metro. The brand is hyper-local and relationship-driven rather than a scaled digital platform.",
+    "differentiators": [
+      "~30 years of claimed experience as a real estate consultancy in the Gurgaon builder floor segment — strong local network",
+      "Proprietary website (shagoonfloors.com) enabling direct lead capture with 200+ listed properties, independent of third-party portals"
+    ],
+    "risks_or_weaknesses": [
+      "Website appears to have DNS or hosting issues (unreachable at time of research), which directly impacts lead generation and brand credibility",
+      "No significant press coverage, no LinkedIn presence, and no verified social media channels found — very limited digital authority",
+      "Operating in a highly fragmented market with dozens of similar local brokerages competing on the same DLF/Sushant Lok inventory"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/builderfloorsingurgaon/",
+      "activity_level": "semi-active",
+      "typical_content": "Builder floor listings and Gurgaon property visuals; account handle suggests affiliation with the builder floors segment.",
+      "engagement_quality": "Engagement level and follower count not verified; account exists but scale is unclear."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "residential builder floors brokerage, Gurugram/Delhi-NCR",
+    "key_trends": [
+      "Instagram Reels and YouTube property walkthroughs are now the primary lead generation channels for boutique brokerages, replacing cold calling and print ads",
+      "Builder floor demand in established Gurgaon sectors (DLF Phases 1–4, Sushant Lok) is rising sharply as buyers prefer freehold, stilt-plus-4 independent living over high-rise apartments",
+      "WhatsApp-based CRM tools and broadcast lists are becoming essential for small brokerages to nurture repeat buyers and NRI investors efficiently",
+      "99acres and MagicBricks dominate organic property search, making it critical for boutique brokerages to complement portal listings with strong social proof and personal branding"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "Shagoon Floors competes with dozens of similar hyper-local builder floor brokerages in Gurgaon's DLF and Sushant Lok corridor. Compared to peers like Gurgaon Floors or Orion Realtors that have active websites, Google reviews, and visible social media, Shagoon Floors has a weaker digital presence and a website accessibility issue that could be costing inbound leads. Its 30-year experience claim is a credibility asset, but it is not yet leveraged through visible digital channels or testimonials.",
+    "notes": [
+      "Shagoon Estates is also listed on RealEstateIndia.com, suggesting some third-party portal visibility exists even if the owned website is currently inaccessible",
+      "Competitors who combine active Instagram presence with a functional website and Google Business profile are capturing significantly more organic leads in this segment"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+```json
+{
+  "company_name": "Urban Lease",
+  "website": "https://urbanlease.in/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Pre-Rented Portfolio – Bank & Corporate Tenants",
+      "location": "Gurugram (MG Road, Sushant Lok, Iffco Chowk, Sector 67)",
+      "type": "pre-leased commercial investment",
+      "key_points": [
+        "Active pre-rented listings with tenants including ICICI Bank, SBI, RBL Bank, PVR Luxe, BITS Pilani, and logistics firms; deal prices ranging from ₹6.80 Cr to ₹22.66 Cr with ROIs of 4%–6.25%",
+        "Covers established Gurugram commercial hubs — JMD Megapolis, ABW Towers, BPTP Park Centra, M3M Urbana Business Park, and Bestech Chambers"
+      ]
+    },
+    {
+      "name": "Office Leasing Portfolio – Grade-A Offices",
+      "location": "Gurugram (Golf Course Road, MG Road, Sohna Road, Sector 62, 65, 66)",
+      "type": "commercial office leasing",
+      "key_points": [
+        "12+ active office leasing listings ranging from 1,300–15,600 sq ft; monthly rentals from ₹80,015 to ₹12,48,000 — targeting SME to enterprise corporate tenants",
+        "Key buildings include Imperia Mind Space, Ocus Technopolis, Vatika City Point, Global Business Park, Digital Greens, and Word Mark Sector 65"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Urban Lease is a specialized commercial real estate consultancy based in Sector 49, Gurugram, focused exclusively on two niche segments: office leasing for corporate tenants and pre-rented investment properties for HNI investors. The brand has a clear niche positioning as a pure-play commercial brokerage, distinguishing itself from full-service residential brokerages in the Gurugram market. Its client portfolio includes recognized corporations such as Ola Electric, Frost & Sullivan, BYJU's, and Signature Global, suggesting credibility with both MNC and startup tenants.",
+    "differentiators": [
+      "Exclusive focus on commercial office leasing and pre-rented assets — avoids residential distraction and positions as a specialist consultancy in a market dominated by generalist brokers",
+      "Pre-rented portfolio features blue-chip tenants (ICICI Bank, SBI, RBL Bank, PVR) providing investment credibility and transparent ROI metrics (4%–6.25%) directly on listing pages",
+      "Corporate client base (Ola Electric, Frost & Sullivan, BYJU's, Signature Global) signals ability to handle both SME and large-format enterprise office leasing requirements"
+    ],
+    "risks_or_weaknesses": [
+      "No visible social media presence (no Instagram, LinkedIn, Facebook, or YouTube links on website), limiting brand discovery for corporate procurement teams and HNI investors who research online",
+      "Website is functional but minimalist with no blog, market reports, or thought leadership content — limiting SEO visibility and organic lead generation versus more content-rich commercial brokerages",
+      "No press coverage or industry awards found; brand credibility relies entirely on client logos and testimonials on the website with no third-party validation"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "commercial office leasing and pre-rented property investment, Gurugram/Delhi-NCR",
+    "key_trends": [
+      "Grade-A office leasing demand in Gurugram is surging post-pandemic as GCCs (Global Capability Centers) and flex office operators expand across Golf Course Road, MG Road, and Sohna Road corridors — directly benefiting specialist brokers like Urban Lease",
+      "Pre-rented bank and corporate properties (offering 4–7% yields) are seeing rising HNI and NRI investment demand as a stable alternative to volatile equity markets — transparency of ROI on listing pages is becoming a key conversion trigger",
+      "LinkedIn and YouTube are the primary B2B digital channels for commercial real estate lead generation; corporate tenant procurement teams and HNI investors increasingly shortlist brokerages based on LinkedIn presence before calling",
+      "Flex and managed office operators (WeWork, Awfis, IndiQube) are becoming key referral and co-brokerage partners for traditional commercial brokerages serving SME and startup tenant segments"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "Urban Lease competes in the Gurugram commercial brokerage niche alongside firms like Orion Realtors (commercial division), JLL India (institutional), and boutique commercial specialists such as Leasing Experts & Investments. Compared to institutional players like JLL or CBRE, Urban Lease offers a more personalized, founder-led service with lower transaction costs; compared to generalist brokerages, its commercial-only focus is a clear differentiator. However, its near-zero social media and content marketing presence is a significant gap versus peers who use LinkedIn actively to attract corporate tenant and investor inquiries.",
+    "notes": [
+      "Testimonials reference 'Leasing experts & investments' rather than 'Urban Lease' — suggesting a possible brand or DBA transition that may cause confusion in online searches",
+      "The absence of any digital marketing channels means Urban Lease is almost entirely dependent on referral networks and inbound website traffic, making it vulnerable to lead flow disruption if referral relationships weaken"
+    ]
+  }
+}
+```

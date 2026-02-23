@@ -1,0 +1,108 @@
+{
+  "company_name": "Elite Pro Infra",
+  "website": "https://www.eliteproinfra.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "DLF The Arbour",
+      "location": "Sector 63, Gurugram",
+      "type": "ultra-luxury residential",
+      "key_points": [
+        "Priced from ₹8.5 Cr onwards; one of ElitePro's featured projects in the premium Golf Course Extension corridor",
+        "Under construction; marketed as a channel partner listing for DLF"
+      ]
+    },
+    {
+      "name": "M3M Elie Saab",
+      "location": "Sector 111, Gurugram",
+      "type": "ultra-luxury branded residences",
+      "key_points": [
+        "Priced from ₹14 Cr onwards; internationally branded residences in partnership with fashion house Elie Saab",
+        "New launch targeting ultra-HNI buyers in Gurugram's Dwarka Expressway corridor"
+      ]
+    },
+    {
+      "name": "Birla Arika",
+      "location": "Sector 31, Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "Priced from ₹12 Cr onwards; Birla Estates new launch in the established Sector 31 Golf Course Road micro-market",
+        "Positioned for premium buyers seeking proximity to Golf Course Road amenities"
+      ]
+    },
+    {
+      "name": "Trump Tower Delhi NCR",
+      "location": "Sector 65, Gurugram",
+      "type": "ultra-luxury branded residences",
+      "key_points": [
+        "Featured as a flagship project in ElitePro's portfolio — globally branded residences targeting NRI and HNI investors",
+        "Indicates ElitePro's access to marquee ultra-luxury branded inventory in Gurgaon"
+      ]
+    },
+    {
+      "name": "Whiteland The Aspen / Blissville",
+      "location": "Sector 76, Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "Two featured projects from Whiteland Corporation in Sector 76, positioned in ElitePro's 'Featured Projects' section",
+        "Part of a growing Dwarka Expressway luxury cluster marketed by ElitePro"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "ElitePro Infra is a large-scale, RERA-certified luxury real estate channel partner and consultancy based in Sector 42, Gurugram, with a self-reported portfolio of over ₹1 lakh crore worth of property sold and 30,000+ customers served. The brand positions itself as an elite brokerage focused on branded residences, luxury low-rise floors, and Grade-A commercial assets across Delhi-NCR, targeting HNIs, NRIs, and institutional investors. With 200+ awards, 150+ projects onboard, and 1,200+ channel partner relationships, ElitePro operates at a scale significantly above typical boutique brokerages.",
+    "differentiators": [
+      "Self-reported ₹1 lakh crore+ worth of property sold and 55 million sq ft area transacted — credible scale signals for institutional and HNI buyers",
+      "Authorized channel partner relationships with 20+ A-grade developers including DLF, M3M, Emaar, Birla, Godrej, Adani, and Whiteland — broad premium inventory access",
+      "Dedicated 'Investor's Corner' positioning with pre-launch access, tailored HNI/NRI investment advisory, and portfolio diversification services — rare in mid-sized brokerages"
+    ],
+    "risks_or_weaknesses": [
+      "No independent press or media coverage found; all brand credibility appears self-reported through website claims and awards not verified by third parties",
+      "Blog content is generic and outdated (post-COVID trends article), suggesting limited investment in thought leadership content marketing",
+      "Social media links exist on the website but specific URLs and activity levels could not be verified, indicating a potential digital engagement gap relative to brand claims"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury real estate channel partnership and investment advisory, Gurugram/Delhi-NCR",
+    "key_trends": [
+      "Branded residences (Trump, Elie Saab, Jacob & Co.) are the fastest-growing luxury sub-segment in India, with branded inventory commanding 30–50% price premiums — directly relevant to ElitePro's featured portfolio",
+      "NRI investment in Indian luxury real estate is accelerating; brokerages with international inquiry infrastructure (multi-country calling codes, NRI advisory desks) are capturing a disproportionate share of this demand",
+      "Video walkthroughs, virtual site tours, and Instagram Reels are now essential lead generation tools for luxury channel partners converting remote HNI and NRI buyers",
+      "Pre-launch and EOI-stage access is increasingly the primary competitive differentiator for channel partners — buyers who get early pricing win on appreciation, making this a core marketing hook"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "ElitePro Infra operates in the same Gurgaon luxury brokerage segment as firms like AskHomes, Prop Solution, and organized channel partner networks of DLF and M3M. Compared to smaller boutique brokerages, ElitePro has significantly greater scale (30,000+ clients, 150+ projects, 600+ professionals) and a broader multi-developer portfolio. However, compared to tech-enabled platforms like Square Yards or PropTiger, ElitePro's digital marketing infrastructure and data-driven lead generation capabilities appear less developed.",
+    "notes": [
+      "ElitePro's 200+ awards claim and 1,200+ channel partner relationships are scale indicators that, if verifiable, would place it among the top-tier independent luxury brokerages in Gurgaon",
+      "The absence of verified social media URLs and limited online press presence creates a credibility gap for a brand claiming ₹1 lakh crore+ in property sales"
+    ]
+  }
+}

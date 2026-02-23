@@ -1,0 +1,80 @@
+{
+  "company_name": "DS Realtors",
+  "website": "https://dsrealtors.in/property/home",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Residential Builder Floors – Sushant Lok 1",
+      "location": "Sushant Lok 1, Sector 46/51, Gurugram",
+      "type": "residential builder floors / plots",
+      "key_points": [
+        "215–300 sq yd builder floors and plots priced between ₹200–530 lakhs; walking distance from HUDA City Centre metro station",
+        "Listings handled by individual agents (Abhijeet, Sachin Grover, Jatin) suggesting a small team brokerage model"
+      ]
+    },
+    {
+      "name": "Commercial Listings",
+      "location": "Gurugram",
+      "type": "commercial",
+      "key_points": [
+        "5 active commercial listings on platform; nature of properties not publicly detailed beyond category listing",
+        "Covers mixed commercial inventory across Gurugram micro-markets"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "DS Realtors is a small, hyper-local real estate brokerage and developer based in Sector 51, Gurugram, operating a proprietary listings portal primarily covering builder floors, residential plots, and commercial spaces in Sushant Lok and surrounding Gurgaon sectors. The brand is founder-led (Dinesh Grover) with a modest but growing Instagram presence of ~11K followers. It serves mid-market buyers rather than the luxury segment, competing on local knowledge and personal relationships.",
+    "differentiators": [
+      "Proprietary listing website with direct agent contacts, positioning the firm as both a brokerage and a developer-investor",
+      "Instagram presence of 11K followers under @dsrealtorss driven by owner Dinesh Grover, creating a personal brand channel for lead generation"
+    ],
+    "risks_or_weaknesses": [
+      "Very limited digital footprint — no significant press coverage, no LinkedIn presence (the LinkedIn result found is for an unrelated Spanish firm), and minimal SEO visibility",
+      "Small listing inventory (under 15 active listings observed on site) limits perceived scale and buyer confidence compared to established portals",
+      "No clear RERA registration or compliance disclosure visible on website, which may raise trust concerns for serious buyers"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/dsrealtorss/",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings, real estate investment tips, and Gurgaon market updates posted by owner Dinesh Grover.",
+      "engagement_quality": "11K followers and 210 posts suggest a growing audience, though engagement depth (comments, saves) is not publicly verified."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "residential brokerage and builder floors, Gurugram/Delhi-NCR",
+    "key_trends": [
+      "Instagram Reels and short-form video are now the primary lead generation channel for boutique real estate brokers in India, with property walkthroughs driving direct DM inquiries",
+      "Builder floor demand in established Gurgaon sectors (46, 51, Sushant Lok) is rising as buyers seek freehold properties near metro stations",
+      "WhatsApp broadcast lists and CRM automation are replacing cold calling for small brokerages managing repeat buyer and NRI investor segments",
+      "99acres and MagicBricks continue to dominate online property search; small brokerages need strong social proof and personal branding to compete with portal-listed inventory"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "DS Realtors operates as a micro-brokerage in a highly fragmented local market alongside hundreds of independent agents and small firms in Gurugram's Sector 46–57 corridor. Unlike organized channel partners of DLF or Godrej, DS Realtors competes on hyper-local expertise and personal relationships rather than brand scale or marketing budgets. Its Instagram-led organic strategy is a strength relative to peers who have no digital presence, but it lags behind even mid-sized brokerages in terms of listings volume and online authority.",
+    "notes": [
+      "The proprietary listing portal (dsrealtors.in) is a differentiator over agents who rely solely on 99acres/MagicBricks, giving the firm direct lead capture without portal fees",
+      "The founder's personal Instagram account doubling as a business channel is a common strategy for small Indian brokerages and limits brand scalability beyond the individual"
+    ]
+  }
+}

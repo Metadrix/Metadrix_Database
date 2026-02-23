@@ -1,0 +1,101 @@
+```json
+{
+  "company_name": "Yash Properties",
+  "website": "https://yashproperties.co.in/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Project 327",
+      "location": "Sector 52, Gurgaon, Haryana",
+      "type": "residential builder floor",
+      "key_points": [
+        "3 BHK units with servant and study rooms across four floors",
+        "Under construction"
+      ]
+    },
+    {
+      "name": "Project 315P",
+      "location": "Sector 52, Gurgaon, Haryana",
+      "type": "residential builder floor",
+      "key_points": [
+        "3 BHK units across four floors",
+        "Under construction"
+      ]
+    },
+    {
+      "name": "Project 3200",
+      "location": "Sector 57, Gurgaon, Haryana",
+      "type": "residential builder floor",
+      "key_points": [
+        "3 BHK units with servant room across four floors",
+        "Under construction"
+      ]
+    },
+    {
+      "name": "Project 3254",
+      "location": "Sector 57, Gurgaon, Haryana",
+      "type": "residential builder floor",
+      "key_points": [
+        "3 BHK delivered project",
+        "Four floors"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Yash Properties is positioned as Gurgaon's largest and most trusted real estate consultancy, founded in 2004 by Mr. Ashish Bansal. They focus on residential builder floors in key Gurgaon sectors (27, 45, 47, 51, 52, 57) and cater to mid-to-premium homebuyers in the Delhi-NCR region. The brand emphasizes transparency, integrity, and end-to-end client support.",
+    "differentiators": [
+      "Over two decades of experience in Gurgaon real estate since 2004",
+      "Strong personal brand around founder Ashish Bansal, with repeat and referred clients",
+      "Handles both under-construction and delivered projects, offering full transaction support"
+    ],
+    "risks_or_weaknesses": [
+      "Limited online digital footprint — yashproperties.co.in redirects to propertymagician.in, suggesting unclear brand consolidation",
+      "Operates primarily in Gurgaon; limited geographic diversification",
+      "No visible paid media presence or major PR coverage found"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/yashproperties45",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings and project highlights for Gurgaon builder floors.",
+      "engagement_quality": "Engagement level unclear from available data; account exists and is linked from website."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "residential real estate consultancy, Gurgaon/Delhi-NCR",
+    "key_trends": [
+      "Builder floor segment in Gurgaon is growing as buyers prefer privacy of independent living over high-rise apartments",
+      "Digital lead generation via social media and property portals (99acres, MagicBricks) is increasingly critical for consultancies",
+      "Video walkthroughs and virtual tours are becoming standard expectations for property discovery",
+      "Gurgaon real estate investment demand from NRIs and IT professionals is rising in 2025-26"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No direct competitor was specified. Yash Properties competes with other Gurgaon-based consultancies and national portals. Compared to larger brokerages, Yash Properties differentiates through hyper-local expertise and founder-led trust, but lacks the digital scale and brand visibility of organized players.",
+    "notes": [
+      "Google rating of 4.6 based on 36 reviews suggests a loyal but relatively small reviewed customer base",
+      "Operating under dual brand identities (Yash Properties + Property Magician) may dilute online brand recognition"
+    ]
+  }
+}
+```
