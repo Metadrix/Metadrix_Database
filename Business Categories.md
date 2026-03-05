@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [](obsidian://open?vault=Saarthak's_Headspace&file=) > [](obsidian://open?vault=Saarthak's_Headspace&file=) > Business Categories
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > [](obsidian://open?vault=Metadrix_Database&file=) > [](obsidian://open?vault=Metadrix_Database&file=) > Business Categories
 # #double #grey
 ## Raw
 1. accounting

@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Insights](obsidian://open?vault=Saarthak's_Headspace&file=Insights) > Real Estate
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > [Insights](obsidian://open?vault=Metadrix_Database&file=Insights) > Real Estate
 # #double #grey
 
 

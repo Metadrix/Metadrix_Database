@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > Scrapped Data
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > Scrapped Data
 # #double #grey
 
 

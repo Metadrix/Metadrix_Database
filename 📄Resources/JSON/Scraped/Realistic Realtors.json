@@ -1,0 +1,98 @@
+```json
+{
+  "company_name": "Realistic Realtors (RRPL)",
+  "website": "https://realisticrealtors.com/",
+  "recent_news": [
+    {
+      "title": "Shuchi Choubey Appointed as CHRO",
+      "summary": "Realistic Realtors announced the appointment of Shuchi Choubey as Chief Human Resource Officer, bringing over two decades of HR strategy and organizational transformation experience.",
+      "date": null,
+      "source": "zoominfo.com",
+      "url": "https://www.zoominfo.com/c/realistic-realtors/351062058"
+    },
+    {
+      "title": "Parminder Singh Joins as Group CTO & COO",
+      "summary": "Veteran tech and operations leader Parminder Singh was appointed Group Chief Technology Officer and Chief Operations Officer, signaling a strategic push toward technology-driven growth.",
+      "date": null,
+      "source": "zoominfo.com",
+      "url": "https://www.zoominfo.com/c/realistic-realtors/351062058"
+    }
+  ],
+  "flagship_projects": [
+    {
+      "name": "Dwarka Expressway Corridor Advisory",
+      "location": "Gurugram, Haryana, India",
+      "type": "commercial real estate advisory",
+      "key_points": [
+        "RRPL actively advises clients on opportunities around the newly completed Dwarka Expressway, projecting 10-15% property appreciation.",
+        "Focus on sectors bridging Gurugram and Delhi for residential and commercial investment."
+      ]
+    },
+    {
+      "name": "Goa Industrial & Warehousing Real Estate",
+      "location": "Goa, India",
+      "type": "commercial / industrial",
+      "key_points": [
+        "RRPL is promoting Goa's emerging warehousing and industrial real estate sector to investors.",
+        "Highlights Goa's strategic location and infrastructure growth as key investment drivers."
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Realistic Realtors is positioned as one of India's largest commercial real estate advisory firms, founded in 1991 and operating across 450+ cities. The brand emphasizes trust, long-standing legacy (25+ years), and professional consultancy spanning commercial and residential segments. It targets mid-to-large corporate and investor clients seeking curated real estate solutions.",
+    "differentiators": [
+      "Operates in 450+ cities across India, offering broad national reach.",
+      "25+ years of legacy with a focus on commercial real estate advisory and tenant/investor representation.",
+      "Recent leadership hires (CTO, COO, CHRO) signal a deliberate push toward technology and operational scale."
+    ],
+    "risks_or_weaknesses": [
+      "Website appears to render minimal content, suggesting possible issues with digital presence or technical upkeep.",
+      "No significant recent press coverage or notable project announcements found, indicating limited PR/media visibility.",
+      "Competes against global giants like CBRE and Cushman & Wakefield, which have far greater brand recognition and resources."
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": "https://in.linkedin.com/company/realistic-realtors",
+      "activity_level": "active",
+      "typical_content": "Posts about real estate investment opportunities, market trends (Dwarka Expressway, Goa warehousing), leadership announcements, and company milestones.",
+      "engagement_quality": "Moderately engaged; posts tag multiple employees suggesting internal amplification; public engagement data not visible."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "semi-active",
+      "typical_content": "Facebook Pixel found on website suggesting an active account; likely mirrors LinkedIn content on property and market updates.",
+      "engagement_quality": "Engagement level unknown from available data."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "semi-active",
+      "typical_content": "Has posted webinar-style videos on topics like the future of the real estate industry and pandemic's impact on commercial properties.",
+      "engagement_quality": "Content appears educational/thought-leadership; viewership data unavailable."
+    }
+  },
+  "industry_trends": {
+    "segment": "Commercial real estate advisory, India",
+    "key_trends": [
+      "Rapid adoption of proptech and CRM tools (RRPL uses LeadSquared, Salesforce Pardot) to manage leads and automate outreach.",
+      "Growing investor interest in Tier-2 city and industrial/warehousing real estate beyond traditional metro markets.",
+      "Infrastructure-led real estate cycles (e.g., expressway completions) are key demand triggers in NCR and surrounding markets.",
+      "Firms investing in senior tech leadership (CTO/COO roles) to digitize operations and improve client experience."
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": "CBRE India",
+    "summary": "CBRE and Cushman & Wakefield dominate the institutional commercial real estate advisory space in India with global brand backing, deeper data capabilities, and larger transaction volumes. Realistic Realtors differentiates on local market depth, legacy relationships, and wider city-tier coverage, but lacks the international credibility and digital sophistication of global players.",
+    "notes": [
+      "CBRE has a more robust digital and research publishing presence; RRPL's online footprint is comparatively limited.",
+      "RRPL's 450+ city reach could be a competitive advantage in Tier-2/3 markets where global firms have less penetration."
+    ]
+  }
+}
+```

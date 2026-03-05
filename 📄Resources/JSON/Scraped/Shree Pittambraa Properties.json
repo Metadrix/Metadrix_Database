@@ -1,0 +1,82 @@
+```json
+{
+  "company_name": "Shree Pittambraa Properties",
+  "website": "https://shreepittambraaproperties.in",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Builder Floors – Sector 38 (Medicity)",
+      "location": "Sector 38, Gurgaon, Haryana",
+      "type": "residential resale",
+      "key_points": [
+        "Active listings of 3BHK and 4BHK builder floors priced between ₹2.8 Cr and ₹2.85 Cr in Sector 38 near Medanta Hospital",
+        "Properties highlighted for proximity to NH-8, upcoming metro station, and Medanta Hospital"
+      ]
+    },
+    {
+      "name": "Residential & Commercial Listings – Sector 103",
+      "location": "Sector 103, Gurgaon, Haryana",
+      "type": "residential and commercial brokerage",
+      "key_points": [
+        "Listed as a prominent property dealer in Sector 103 on RealEstateIndia.com",
+        "Handles buying, selling, and renting of flats, plots, commercial shops, and builder floors"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Shree Pittambraa Properties is a local property dealer and real estate consultancy based in Gurgaon, operating primarily in Sector 38 and Sector 103. Established in 2010, it is rated 4.3/5 on Justdial with 34 reviews, indicating a modest but positively regarded local presence. The firm positions itself as a trusted neighborhood broker for residential and commercial transactions rather than a premium developer.",
+    "differentiators": [
+      "Long-standing local presence since 2010 with knowledge of high-demand micro-markets near Medanta Hospital and NH-8",
+      "Featured dealer status on 99acres suggesting active online listing activity"
+    ],
+    "risks_or_weaknesses": [
+      "One Justdial listing shows the business as 'Closed Down', raising questions about operational continuity or branch status",
+      "No proprietary website clearly functional; limited digital brand identity compared to larger Gurgaon brokerages",
+      "No RERA-verified or large-scale developer credentials visible; operates as a small brokerage"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "residential real estate brokerage, Gurgaon",
+    "key_trends": [
+      "Digital listing platforms (99acres, MagicBricks, Housing.com) are becoming the primary lead generation channel for Gurgaon brokers, making active profile management critical",
+      "Demand for builder floors and independent floors in Sector 38 and surrounding areas near Medanta is rising due to hospital and metro proximity",
+      "Short-form video content (Instagram Reels, YouTube Shorts) is increasingly used by real estate agents to showcase properties and build personal brand trust",
+      "WhatsApp Business and CRM tools are being adopted by local brokers to manage client pipelines more efficiently"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was identified for this company. Shree Pittambraa Properties operates in a fragmented local brokerage market in Gurgaon, where competitors range from individual agents to larger firms like Prime Location Consulting and Rising Sun Realtors also active in Sector 103. Compared to those, Shree Pittambraa appears to have a similar or slightly lower digital footprint.",
+    "notes": [
+      "Larger Gurgaon brokerages tend to have verified RERA registrations, active social media, and dedicated websites — areas where Shree Pittambraa appears underdeveloped",
+      "The firm's longevity since 2010 and positive Justdial rating suggest word-of-mouth referrals may be a stronger channel than digital marketing for them"
+    ]
+  }
+}
+```

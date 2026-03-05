@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [🍭Potential Clients](obsidian://open?vault=Saarthak's_Headspace&file=🍭Potential%20Clients) > [India](obsidian://open?vault=Saarthak's_Headspace&file=India) > [Gurgaon](obsidian://open?vault=Saarthak's_Headspace&file=Gurgaon) > [Sector 43](obsidian://open?vault=Saarthak's_Headspace&file=Sector%2043) > Guerdon Kicks
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > [🍭Potential Clients](obsidian://open?vault=Metadrix_Database&file=🍭Potential%20Clients) > [India](obsidian://open?vault=Metadrix_Database&file=India) > [Gurgaon](obsidian://open?vault=Metadrix_Database&file=Gurgaon) > [Sector 43](obsidian://open?vault=Metadrix_Database&file=Sector%2043) > Guerdon Kicks
 
 ---
 ---

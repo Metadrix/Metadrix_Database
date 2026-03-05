@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > 🧬Templates
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > 🧬Templates
 
 ---
 1. [[New Note]]

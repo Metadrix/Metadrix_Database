@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Workflows](obsidian://open?vault=Saarthak's_Headspace&file=Workflows) > Outreach Email Generation
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > [Workflows](obsidian://open?vault=Metadrix_Database&file=Workflows) > Outreach Email Generation
 # #double #grey
 
 

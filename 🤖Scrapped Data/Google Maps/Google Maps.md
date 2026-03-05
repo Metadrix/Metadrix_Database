@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Scrapped Data](obsidian://open?vault=Saarthak's_Headspace&file=Scrapped%20Data) > Google Maps
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > [Scrapped Data](obsidian://open?vault=Metadrix_Database&file=Scrapped%20Data) > Google Maps
 # #double #grey
 
 

@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Scrapped Data](obsidian://open?vault=Saarthak's_Headspace&file=Scrapped%20Data) > [Google Maps](obsidian://open?vault=Saarthak's_Headspace&file=Google%20Maps) > Gurgaon
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > [Scrapped Data](obsidian://open?vault=Metadrix_Database&file=Scrapped%20Data) > [Google Maps](obsidian://open?vault=Metadrix_Database&file=Google%20Maps) > Gurgaon
 # #double #grey
 
 ## Gurgaon Sectors and Neighborhoods (Alphabetical)

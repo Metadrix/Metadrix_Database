@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > Updates
+[📁 Explore](obsidian://open?vault=Metadrix_Database&file=📁%20Explore) > Updates
 # #double #grey
 
 ## Clients to be outreached
