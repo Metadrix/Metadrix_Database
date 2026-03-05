@@ -1,0 +1,114 @@
+```json
+{
+  "company_name": "Zricks",
+  "website": "https://www.zricks.com/",
+  "recent_news": [
+    {
+      "title": "Final Chance to Avail Inaugural Discount, Suncity Monarch Residences, Sector-78, Gurugram",
+      "summary": "Zricks published a time-sensitive listing alert for Suncity Monarch Residences in Gurugram, promoting inaugural pricing as a limited window investment opportunity.",
+      "date": "2026-02-23",
+      "source": "zricks.com",
+      "url": "https://www.zricks.com/Updates/Final-Chance-to-Avail-Inaugural-Discount-Suncity-Monarch-Residences-Sector-78-Gurugram/25941"
+    },
+    {
+      "title": "Luxury Residences Starting ₹5.25 Cr at The Palatial by Hero Homes, Dwarka Expressway",
+      "summary": "Zricks featured The Palatial by Hero Homes on Dwarka Expressway as a premium new launch, positioning it as a high-value investment in the Gurugram luxury segment.",
+      "date": "2026-02-22",
+      "source": "zricks.com",
+      "url": "https://www.zricks.com/Updates/Luxury-Residences-Starting-5-25-Cr-at-The-Palatial-by-Hero-Homes-Dwarka-Expressway/25939"
+    },
+    {
+      "title": "New Launch: Polo Reserve Luxury Floors by Breez Builders, Sector 33, Sohna - Starting at ₹1.92 Cr",
+      "summary": "Zricks promoted the new launch of Breez Builders' Polo Reserve luxury floors in Sohna, highlighting it as the Hot Project of the Month on their homepage.",
+      "date": "2026-02-21",
+      "source": "zricks.com",
+      "url": "https://www.zricks.com/Updates/New-Launch-Polo-Reserve-Luxury-Floors-by-Breez-Builders-Sector-33-Sohna-Starting-at-1-92-Cr-/25935"
+    }
+  ],
+  "flagship_projects": [
+    {
+      "name": "Breez The Polo Reserve Floors",
+      "location": "Sector 33, Sohna, Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "Featured as the Hot Project of the Month on Zricks' homepage, starting at ₹1.92 Cr",
+        "Independent luxury floors positioned as an affordable entry into the premium Sohna corridor"
+      ]
+    },
+    {
+      "name": "Signature Global Daxin Vistas",
+      "location": "Gurugram",
+      "type": "luxury residential",
+      "key_points": [
+        "Promoted by Zricks as a Skyfloor luxury concept by Signature Global, with multiple featured offers and discount campaigns",
+        "Frequently promoted across Zricks' blog and offer sections, indicating strong channel partner relationship with Signature Global"
+      ]
+    },
+    {
+      "name": "Suncity Monarch Residences",
+      "location": "Sector 78, Gurugram",
+      "type": "residential",
+      "key_points": [
+        "Featured as a time-sensitive inaugural discount opportunity as of February 2026",
+        "Listed in Zricks' latest articles section with urgency-driven marketing copy"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Zricks.com is a Gurugram-headquartered authorized real estate channel partner that self-describes as 'India's leading Real Estate Portal,' serving buyers across multiple Indian cities and extending into international markets. The brand is positioned around trust, transparency, and investment advisory, with a notable emphasis on new launches and pre-launch deals from branded developers. They hold RERA registrations in Haryana, Goa, Maharashtra, and Punjab, signalling a multi-state operational presence.",
+    "differentiators": [
+      "Strong YouTube presence with 2 lakh+ subscribers and 3 crore+ views, making them a content-led real estate advisory brand",
+      "Multi-state RERA registration and an authorized channel partner status with major developers like Signature Global, Godrej, M3M, and Emaar",
+      "Active WhatsApp community and 150+ Google reviews, indicating strong client engagement and retention"
+    ],
+    "risks_or_weaknesses": [
+      "Operates as a channel partner, not a developer — brand perception is dependent on the quality and delivery of third-party developers they promote",
+      "Coverage is heavily skewed toward Gurugram; depth in other cities like Mumbai, Pune, or Bangalore appears limited",
+      "Self-declared title of 'India's leading Real Estate Portal' is unsubstantiated and may not hold up against established portals like 99acres, MagicBricks, or Housing.com"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/zricksdotcom",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings, new launch promotions, and investment deal highlights targeting Gurugram and NCR buyers.",
+      "engagement_quality": "Likely moderate given the brand's broader digital footprint; specific engagement metrics not publicly available."
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/zricks-com",
+      "activity_level": "semi-active",
+      "typical_content": "Company updates, real estate market insights, and project promotions for the NCR market.",
+      "engagement_quality": "Expected to be modest given the B2C focus; LinkedIn is likely used more for brand credibility than lead generation."
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/zricksdotcom",
+      "activity_level": "active",
+      "typical_content": "Property offers, new launch alerts, and investment tips primarily for Gurugram and NCR markets.",
+      "engagement_quality": "Facebook pixel is active on the site, suggesting paid ad campaigns; organic engagement quality unknown."
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/user/Zricksdotcom",
+      "activity_level": "active",
+      "typical_content": "Real estate investment videos, project walkthroughs, market updates, and new launch reviews for NCR and beyond.",
+      "engagement_quality": "Strong channel with 2 lakh+ subscribers and 3 crore+ views, indicating high reach and viewer trust in the real estate content niche."
+    }
+  },
+  "industry_trends": {
+    "segment": "real estate channel partner / investment advisory, Gurugram / Delhi-NCR and pan-India",
+    "key_trends": [
+      "YouTube-led real estate content is increasingly the primary discovery channel for property investors in India, directly benefiting Zricks' existing video strategy",
+      "Luxury and premium housing demand is surging (97% YoY growth in luxury sales per CBRE 2025 data), aligning strongly with Zricks' project portfolio skewed toward ₹2 Cr+ properties",
+      "Festive and seasonal offer campaigns (Holi, Diwali) are becoming standard digital marketing tactics for channel partners competing for the same developer leads",
+      "WhatsApp communities and direct advisory models are gaining traction as alternatives to traditional portal lead-gen, a space where Zricks appears to be investing"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. Zricks competes with other authorized channel partners and advisory firms like Square Yards, PropTiger, and local boutique brokerages in Gurugram. Compared to large aggregator portals, Zricks differentiates through its YouTube-driven content strategy and direct advisory model, but lacks the inventory scale and brand recognition of national players.",
+    "notes": [
+      "Zricks' YouTube channel is a meaningful differentiator — most small-to-mid channel partners lack a content engine of this scale (2L+ subscribers)",
+      "Unlike pure-play portals, Zricks functions as an end-to-end advisory partner, which creates stickier client relationships but limits scalability compared to marketplace models"
+    ]
+  }
+}
+```

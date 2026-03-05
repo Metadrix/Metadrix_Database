@@ -1,0 +1,103 @@
+
+
+```json
+{
+  "company_name": "United Prop Solutions",
+  "website": "https://www.unitedpropsolutions.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Primary Sales Portfolio",
+      "location": "Gurugram, Haryana",
+      "type": "luxury and premium residential (primary sales)",
+      "key_points": [
+        "Authorized channel partner for DLF, M3M, Emaar, Godrej, Sobha, and Smartworld — covering Gurugram's top-tier developer inventory",
+        "Primary sale listings priced between ₹1 Cr–₹10 Cr targeting mid-to-luxury homebuyers"
+      ]
+    },
+    {
+      "name": "Resale Portfolio",
+      "location": "Gurugram, Haryana",
+      "type": "residential resale",
+      "key_points": [
+        "Active resale listings in the ₹1 Cr–₹10 Cr range across Gurugram's established residential corridors",
+        "Covers DLF Phases, Sushant Lok, and Sector 56 micro-markets based on office locations"
+      ]
+    },
+    {
+      "name": "Plotted Development Portfolio",
+      "location": "Gurugram / SPR Road area, Haryana",
+      "type": "residential plotted development",
+      "key_points": [
+        "Plotted inventory listed in the ₹1 Cr–₹10 Cr range; includes SPR Road corridor plots",
+        "Targets investment buyers seeking freehold land in Gurugram's growing suburban zones"
+      ]
+    },
+    {
+      "name": "Commercial Portfolio",
+      "location": "Gurugram, Haryana",
+      "type": "commercial",
+      "key_points": [
+        "Commercial listings priced from ₹1 Cr to ₹50 Cr — the broadest price range in the portfolio, indicating coverage from retail shops to large office spaces",
+        "Covers both investment-grade and owner-occupier commercial assets across Gurugram"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "United Propsolutions Pvt. Ltd is a mid-sized, founder-led real estate consulting firm based in Gurugram, founded in 2006 by Mr. Nitin Saini and incorporated in 2013 with 19+ years of claimed market experience. The company operates six physical offices across key Gurugram micro-markets (DLF Phase 1 & 2, Sushant Lok, Sector 56, Sector 65, Manesar), giving it strong hyper-local reach. It positions itself around transparency, reliability, and end-to-end support across primary sales, resale, plotted developments, and commercial properties.",
+    "differentiators": [
+      "Six physical office locations across Gurugram's key residential and commercial corridors — rare multi-location footprint for a mid-sized independent brokerage",
+      "19+ years of operating history with a founder-led identity (Mr. Nitin Saini) providing credibility and relationship continuity with repeat buyers and developers",
+      "Authorized channel partner for all major Gurugram developers (DLF, M3M, Emaar, Godrej, Sobha, Smartworld) giving buyers access to fresh inventory across the full market"
+    ],
+    "risks_or_weaknesses": [
+      "Website content quality is inconsistent — an 'About Us' section references 'ChatGPT said:' inline, indicating AI-generated placeholder text was published without review, undermining professional credibility",
+      "No social media links or handles visible on the website, limiting digital lead generation and brand discovery for younger or NRI buyer segments",
+      "No press coverage, awards, or third-party validation found online; all brand credibility is self-asserted through the website"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/tr?id=714427695009295",
+      "activity_level": "not_found",
+      "typical_content": "Facebook Pixel ID found on website suggesting a Facebook page exists, but public page URL not confirmed.",
+      "engagement_quality": "Engagement level not verifiable without confirmed page URL."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "residential and commercial real estate brokerage, Gurugram/Delhi-NCR",
+    "key_trends": [
+      "Instagram Reels and YouTube property walkthroughs are the primary organic lead generation channels for Gurugram brokerages — United Prop Solutions has no visible presence on either, representing a significant missed opportunity",
+      "Facebook and Google Ads retargeting (evidenced by the Facebook Pixel on their website) are increasingly essential for brokerages to convert website visitors who don't inquire immediately",
+      "Multi-location physical presence is a diminishing differentiator as buyers shift to digital discovery via 99acres, MagicBricks, and developer websites before contacting agents",
+      "NRI buyer demand for Gurugram luxury residential is rising sharply; brokerages that create NRI-specific digital content and WhatsApp-first inquiry flows capture a disproportionate share of this high-value segment"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "United Prop Solutions competes with dozens of independent Gurugram brokerages operating in similar DLF Phase and Sushant Lok micro-markets. Compared to better-digitized peers like Manchanda Realtors (which has active YouTube, Instagram, and Facebook channels) or ElitePro Infra (with a polished website and awards page), United Prop Solutions has a significantly weaker digital presence and content quality. Its six-office physical footprint is a competitive strength, but this advantage is increasingly undermined by the absence of a credible social media and digital marketing strategy.",
+    "notes": [
+      "The published 'ChatGPT said:' text on the live website is an immediate credibility risk that any tech-savvy buyer or developer partner would notice — this is a fixable but urgent issue",
+      "The Facebook Pixel installation suggests awareness of paid digital marketing, but without a verified active Facebook page or Instagram presence, ad spend effectiveness would be limited"
+    ]
+  }
+}
+```

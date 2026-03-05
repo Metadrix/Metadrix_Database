@@ -1,0 +1,92 @@
+```json
+{
+  "company_name": "Manchanda Realtors Pvt Ltd",
+  "website": "http://www.manchandarealtors.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Pre-Leased Bank Properties Portfolio",
+      "location": "Gurugram (Sohna Road, Dwarka Expressway, Sector 39)",
+      "type": "pre-leased commercial investment",
+      "key_points": [
+        "Active listings of bank-tenanted properties (Kotak Mahindra, SBI, HDFC) priced from ₹5.22 Cr to ₹10.4 Cr, targeting passive income investors",
+        "Covers ILD Trade Centre, Unitech Cyber Park, and Satya Hive — diversified Gurgaon commercial micro-markets"
+      ]
+    },
+    {
+      "name": "Luxury Residential Resale Portfolio",
+      "location": "Golf Course Road, DLF Phases 1–5, Sushant Lok, Gurugram",
+      "type": "luxury residential resale and fresh booking",
+      "key_points": [
+        "High-ticket listings including DLF The Crest penthouses (₹4,500+ sq ft), Vipul Belmonte (₹13.75 Cr), and DLF Belaire (₹14 Cr) — clearly targeting HNI and NRI buyers",
+        "Also markets fresh bookings from Emaar, Godrej, M3M, Puri, and Suncity as an authorized channel partner"
+      ]
+    },
+    {
+      "name": "Commercial Office Rentals Portfolio",
+      "location": "Golf Course Extension Road, Sohna Road, Gurugram",
+      "type": "commercial office space for rent",
+      "key_points": [
+        "Active rental listings in M3M Cosmopolitan, JMD Megapolis, and Spaze iTech Park ranging from ₹55K–₹1.05 Lac/month",
+        "Targets corporate tenants and investors seeking Grade-A Gurgaon office exposure"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Manchanda Realtors Pvt Ltd (MRPL) is a mid-to-large independent real estate brokerage based on MG Road, Gurugram, operating since 2011. It covers the full spectrum of Gurgaon's property market — luxury residential resale, commercial rentals, pre-leased investments, industrial plots, and builder floors — acting as an authorized channel partner for all major Gurgaon developers including DLF, Emaar, M3M, Godrej, Tata, and Shapoorji. The brand is positioned around transparency, professionalism, and a track record of handling high-value transactions for both individual and corporate clients including Shimizu, V.Ships, and Okaya.",
+    "differentiators": [
+      "Channel partner relationships with 15+ leading developers (DLF, Emaar, M3M, Godrej, Tata, Shapoorji, Mahindra, Hero Homes etc.) enabling access to fresh booking inventory across Gurgaon",
+      "Strong pre-leased commercial investment niche with bank-tenanted properties (SBI, HDFC, Kotak) — a specialized segment few boutique brokerages serve",
+      "Established corporate client base including multinational companies (Shimizu, V.Ships, Kisco, Okaya) suggesting commercial leasing credibility beyond residential"
+    ],
+    "risks_or_weaknesses": [
+      "Website has broken homepage slider (broken images showing placeholder dummy.png files), undermining premium brand perception for high-ticket buyers",
+      "No independent press coverage or media presence found; brand visibility outside direct referrals and portal listings appears limited",
+      "Social media accounts (Instagram, YouTube, Facebook) exist but activity level and engagement quality could not be fully verified without direct access"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/manchandarealtors/",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings, project promotions for developer partners, and Gurgaon market updates.",
+      "engagement_quality": "Account exists and is linked prominently from website; follower count and engagement quality not publicly verified."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/MRPLRealEstate/",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings, developer project promotions, and Gurgaon market content.",
+      "engagement_quality": "Page exists and is linked from website; engagement level not verified without direct access."
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/@manchandarealtors3261",
+      "activity_level": "semi-active",
+      "typical_content": "Property walkthroughs and project overview videos for Gurgaon listings.",
+      "engagement_quality": "Channel exists and is linked from website footer; subscriber count and views not verified."
+    }
+  },
+  "industry_trends": {
+    "segment": "full-service real estate brokerage, luxury residential and commercial, Gurugram/Delhi-NCR",
+    "key_trends": [
+      "YouTube and Instagram Reels property walkthroughs are becoming the primary top-of-funnel lead source for brokerages handling high-ticket resale and pre-leased commercial inventory",
+      "Pre-leased commercial properties (bank-tenanted assets offering 6–8% yield) are seeing rising NRI and HNI demand as a passive income alternative to residential investment",
+      "WhatsApp-based CRM and broadcast lists are increasingly critical for channel partners managing large multi-developer fresh booking pipelines",
+      "Google Business Profile optimization and review management are becoming essential for mid-sized brokerages competing with portal-led discovery on 99acres and MagicBricks"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "Manchanda Realtors competes with other established Gurgaon brokerages such as Orion Realtors, Pyramid Infratech, and independent channel partners of DLF and Emaar. Compared to these peers, MRPL has a broader multi-segment portfolio (residential, commercial, pre-leased, industrial) and a stronger corporate client base, which is a differentiator. However, its digital marketing presence — website quality, social media reach, and SEO authority — lags behind peers who have invested more heavily in content marketing and portal visibility.",
+    "notes": [
+      "MRPL's multi-segment model (residential + commercial + pre-leased + industrial) is a significant competitive advantage over single-segment boutique brokerages",
+      "The broken homepage image carousel and absence of LinkedIn presence are visible digital gaps that peers with better-maintained digital assets can exploit for lead capture"
+    ]
+  }
+}
+```

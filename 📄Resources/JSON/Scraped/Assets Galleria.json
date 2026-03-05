@@ -1,0 +1,100 @@
+```json
+{
+  "company_name": "Assets Galleria",
+  "website": "https://assetsgalleria.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Godrej Zenith",
+      "location": "Sector 89, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "3.5 & 4 BHK luxury homes by Godrej Properties, positioned as a landmark development in New Gurgaon",
+        "Reflects Assets Galleria's focus on premium developer tie-ups in the Gurgaon market"
+      ]
+    },
+    {
+      "name": "SS WhiteWater",
+      "location": "Sector 90, Gurgaon",
+      "type": "commercial",
+      "key_points": [
+        "Promoted as the first mall in New Gurugram, positioned as a high-value retail investment opportunity",
+        "Part of a strong SS Group commercial portfolio that Assets Galleria actively markets"
+      ]
+    },
+    {
+      "name": "Astaire Gardens",
+      "location": "Sector 70A, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Ready-to-move luxury villa township catering to a range of budget segments within the luxury category",
+        "One of the few ready-to-move listings in the portfolio, appealing to buyers seeking immediate possession"
+      ]
+    },
+    {
+      "name": "Aradhana Enclave by Solis Realty",
+      "location": "Delhi",
+      "type": "luxury residential",
+      "key_points": [
+        "Plot size of over 370 sq. yards in a prime Delhi location, 10–15 minutes from the airport and embassies",
+        "Indicates Assets Galleria's geographic reach beyond Gurgaon into premium Delhi micro-markets"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Assets Galleria is a Gurgaon-based third-party real estate advisory and digital advertising platform founded in 2022, focused on commercial and residential properties across Delhi NCR. It positions itself as a one-stop consultancy for both buyers and developers, covering luxury residential apartments, commercial shops, and investment-grade office spaces. The brand is relatively new and small, with a self-described 'trusted advisor' positioning but limited third-party validation or press coverage.",
+    "differentiators": [
+      "Dual focus on commercial and residential properties gives it broader appeal than purely residential boutique brokers in Gurgaon",
+      "Operates as both a direct advisory and a digital advertising/marketing platform for developers — a hybrid model that creates multiple revenue streams"
+    ],
+    "risks_or_weaknesses": [
+      "Rated in the lowest-scoring group on TechBehemoths for poor professional presentation of company profile, which may deter digital-first clients",
+      "No reviews on Lisnic or Clutch, and LinkedIn followers are very low (138), indicating limited brand authority and digital reach",
+      "Founded in 2022 — relatively young firm with limited track record compared to established NCR real estate advisory brands"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/assetsgalleria/",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings and project reels for Gurgaon commercial and residential launches, including M3M, SS Group, and DLF projects.",
+      "engagement_quality": "Reels confirmed active (e.g. M3M 65th Avenue reel); overall follower count and engagement depth not publicly verifiable."
+    },
+    "linkedin": {
+      "url": "https://in.linkedin.com/company/assets-galleria",
+      "activity_level": "semi-active",
+      "typical_content": "Property investment posts, new launch promotions, and market updates for Gurgaon commercial and residential properties.",
+      "engagement_quality": "Only 138 followers on company page; low reach and engagement suggesting the channel is underinvested."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "real estate advisory and digital property marketing, Gurgaon / Delhi NCR",
+    "key_trends": [
+      "Short-form video (Instagram Reels, YouTube Shorts) is now the primary discovery channel for new property launches in Gurgaon — Assets Galleria has started using reels but scale is limited",
+      "Commercial real estate investment (retail shops, SCO, office spaces) is seeing renewed HNI interest in New Gurgaon sectors, directly aligning with Assets Galleria's commercial-heavy portfolio",
+      "Developer-funded digital advertising (platform model) is growing as developers seek channel partners who can generate qualified leads online, not just offline referrals",
+      "Brand trust and verified reviews are increasingly critical for real estate advisory firms as buyers conduct extensive pre-purchase research — a gap for Assets Galleria given its absence of third-party reviews"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "Assets Galleria competes with other Gurgaon-based real estate advisory firms such as PropGuys, Global Realtors, and larger platforms like Square Yards and Anarock. Compared to peers, it has a weaker digital presence (low LinkedIn following, no Facebook page found, no YouTube channel) but demonstrates an active Instagram and a broader commercial property focus that smaller boutique firms lack. Its hybrid advisory-plus-digital-advertising model is a potential differentiator if scaled properly.",
+    "notes": [
+      "Competitors with stronger SEO content, active YouTube channels, and verified review profiles are likely capturing a larger share of inbound digital leads in the same geography",
+      "The commercial property focus (SS Group, M3M, Elan) is a meaningful niche given rising investor interest in Gurgaon's retail and office segments post-2023"
+    ]
+  }
+}
+```

@@ -1,0 +1,100 @@
+```json
+{
+  "company_name": "Shree Shyam Associates",
+  "website": "https://www.shreeshyamassociates.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Godrej Woods Noida",
+      "location": "Noida",
+      "type": "luxury residential",
+      "key_points": [
+        "Luxury apartments starting at ₹5 Cr, positioned as a premium new landmark in Noida's residential market",
+        "Listed as a featured project on Shree Shyam Associates' website, reflecting their focus on high-value inventory"
+      ]
+    },
+    {
+      "name": "M3M The Cullinan",
+      "location": "Noida",
+      "type": "mixed-use luxury",
+      "key_points": [
+        "Ultra-luxury residential and commercial development starting at ₹6.5 Cr, targeting high-net-worth buyers",
+        "Promoted alongside multiple M3M projects, suggesting a strong channel partner relationship with M3M Group"
+      ]
+    },
+    {
+      "name": "Orris Aster Court",
+      "location": "Sector 85, Gurugram, Haryana",
+      "type": "residential",
+      "key_points": [
+        "Mid-segment residential project priced between ₹58.97 lakh and ₹87.74 lakh, broadening appeal beyond pure luxury",
+        "Listed as an active for-sale and rental project on the website"
+      ]
+    },
+    {
+      "name": "Migsun Rohini Central",
+      "location": "Rohini, Delhi",
+      "type": "commercial / mixed-use",
+      "key_points": [
+        "Commercial project starting at ₹50 lakh, targeting investors seeking rental income in Delhi's Rohini corridor",
+        "Featured with a dedicated sub-page, indicating it is a high-priority project for the firm"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Shree Shyam Associates is a Gurgaon and Delhi NCR-based real estate consultancy incorporated in 2017, claiming 7+ years of experience and over 20,000 satisfied customers. The firm covers a wide range of segments — from mid-segment residential to ultra-luxury apartments and commercial projects — and acts as an authorized channel partner for major developers including M3M, Godrej, Gaur, and Signature Global. It is positioned as a trusted, client-centric advisory firm serving both local and NRI buyers.",
+    "differentiators": [
+      "Broad developer portfolio spanning M3M, Godrej, Bhutani, Shapoorji, Mahindra, Krisumi, and 10+ others — giving access to projects across Delhi, Gurgaon, and Noida",
+      "Claims 20,000+ satisfied customers over 7+ years, indicating a strong referral-driven client base"
+    ],
+    "risks_or_weaknesses": [
+      "The website (shreeshyamassociates.com) appears to be built on a third-party template (bop.in), and the footer incorrectly references 'BOP' rather than Shree Shyam Associates, suggesting limited investment in digital brand identity",
+      "No social media links are present on the website footer despite a 'Our Social Media' header placeholder, indicating a significant digital gap",
+      "Multiple unrelated entities share the same or similar name (Shree Shyam Associates in Rohini, Sector 11, Sector 46), creating brand confusion in local search"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Instagram presence linked on the website or found in search results.",
+      "engagement_quality": "Unknown; platform not discoverable."
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/ssarealestate/",
+      "activity_level": "dormant",
+      "typical_content": "Basic company profile with minimal content; no recent posts visible without login.",
+      "engagement_quality": "Very low; profile appears inactive with no notable follower count or engagement signals found."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Facebook page linked or discoverable for this entity.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No YouTube channel found for this company.",
+      "engagement_quality": "Unknown; platform not referenced."
+    }
+  },
+  "industry_trends": {
+    "segment": "residential and commercial real estate consultancy, Delhi-NCR (Gurgaon / Noida / Delhi)",
+    "key_trends": [
+      "Luxury and ultra-luxury housing demand in NCR (Gurgaon and Noida) is surging, benefiting consultancies with high-value developer tie-ups like M3M and Godrej",
+      "Digital presence and social media are critical for lead generation in real estate — Shree Shyam Associates' near-zero social media footprint is a growing competitive disadvantage",
+      "Channel partner branding is being commoditised; consultancies need distinct digital identities (blogs, YouTube, Instagram) to stand out from portals like 99acres and MagicBricks",
+      "NRI and remote buyer segments are increasingly making decisions based on digital content and virtual tours, an opportunity the firm's current website cannot support"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. Shree Shyam Associates operates in the same NCR channel partner space as Zricks, Square Yards, and PropTiger. Compared to Zricks — which has 2L+ YouTube subscribers and strong content marketing — Shree Shyam Associates has a minimal digital footprint, making it heavily dependent on offline referrals and walk-in enquiries.",
+    "notes": [
+      "The use of the bop.in white-label website platform, shared with other channel partners, reduces the firm's ability to differentiate its digital brand",
+      "An active social media strategy (especially Instagram and YouTube) could significantly expand reach given the firm's breadth of premium developer tie-ups across M3M, Godrej, and Signature Global"
+    ]
+  }
+}
+```

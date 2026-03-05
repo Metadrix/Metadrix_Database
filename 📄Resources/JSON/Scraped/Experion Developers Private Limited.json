@@ -1,0 +1,139 @@
+```json
+{
+  "company_name": "Experion Developers Private Limited",
+  "website": "https://www.experion.co/",
+  "recent_news": [
+    {
+      "title": "Experion awards ₹800 crore construction contract to TATA Projects for The Trillion",
+      "summary": "Experion Developers awarded an ₹800 crore contract to TATA Projects for its flagship 45-storey luxury project The Trillion in Sector 48, Gurgaon, part of a ₹2,500 crore overall investment plan.",
+      "date": "2025-10-28",
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/finance/personal-finance/experion-s-2-500-cr-gurugram-bet-tata-to-build-45-storey-trillion-125102800161_1.html"
+    },
+    {
+      "title": "Experion Developers acquires 7.81-acre land in Gurugram for ₹400 crore",
+      "summary": "Experion acquired a 7.81-acre plot in Sector 88A, Gurugram for approximately ₹400 crore, with plans to develop a project with ~3 million sq ft of built-up area.",
+      "date": "2024-07-05",
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/companies/news/realty-firm-experion-developers-buys-8-acre-land-in-gurugram-for-rs-400-cr-124070500585_1.html"
+    },
+    {
+      "title": "Experion to invest ₹8,000 crore in Indian real estate over next 4-5 years",
+      "summary": "CEO Routhu Nagaraju announced in January 2024 that Singapore-backed Experion Developers plans to invest approximately ₹8,000 crore in India's real estate market over the next 4-5 years.",
+      "date": "2024-01-30",
+      "source": "in.linkedin.com",
+      "url": "https://in.linkedin.com/company/experiondevelopers"
+    },
+    {
+      "title": "Experion Developers acquires ~5 acres in Noida for ₹250 crore",
+      "summary": "Experion made its first foray into the Noida real estate market with a land purchase of approximately 5 acres valued at ₹250 crore in February 2024.",
+      "date": "2024-02-10",
+      "source": "in.linkedin.com",
+      "url": "https://in.linkedin.com/company/experiondevelopers"
+    }
+  ],
+  "flagship_projects": [
+    {
+      "name": "The Trillion",
+      "location": "Sector 48, Gurugram, Haryana",
+      "type": "ultra-luxury residential high-rise",
+      "key_points": [
+        "45-storey tower with 540 apartments; total investment over ₹2,500 crore with ₹800 crore construction contract awarded to TATA Projects",
+        "HARERA-registered (14 of 2025); positioned as one of the tallest residential developments in North India"
+      ]
+    },
+    {
+      "name": "Windchants Nova",
+      "location": "Sector 112, Gurugram (Dwarka Expressway)",
+      "type": "luxury residential",
+      "key_points": [
+        "4.5 BHK premium apartments starting at ₹8.70 crore; HARERA registered (106 of 2024)",
+        "Extension of the successful Windchants community in Sector 112"
+      ]
+    },
+    {
+      "name": "Experion Elements",
+      "location": "Sector 45, Noida",
+      "type": "luxury residential",
+      "key_points": [
+        "3 and 4 BHK apartments ranging from 2,900–3,400 sq ft; total investment of approximately ₹1,500 crore",
+        "Marks Experion's strategic expansion into Noida's premium residential market"
+      ]
+    },
+    {
+      "name": "Windchants",
+      "location": "Sector 112, Gurugram",
+      "type": "luxury residential township",
+      "key_points": [
+        "Delivered community and Experion's most established brand in Gurgaon with multiple resident testimonials",
+        "Formed the foundation of Experion's premium residential identity in NCR"
+      ]
+    },
+    {
+      "name": "Hub @ 108 / The Westerlies / The Heartsong",
+      "location": "Sector 108, Gurugram",
+      "type": "mixed-use (residential + commercial)",
+      "key_points": [
+        "Integrated township cluster on Dwarka Expressway combining residential and commercial offerings",
+        "Hub @ 108 serves as the commercial component of the Sector 108 cluster"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Experion Developers is positioned as a premium-to-ultra-luxury FDI-funded real estate developer in India, backed by Singapore-based AT Holdings ($2.5 billion group). Active since 2006 in India, the company focuses on high-quality construction, RERA compliance, and sustainable design across Gurugram, Noida, Lucknow, and Amritsar. The brand is perceived as a credible, globally-backed developer with a delivery track record, targeting HNI and NRI buyers.",
+    "differentiators": [
+      "100% FDI-funded subsidiary of AT Holdings (Singapore) — international credibility and capital backing of ₹8,000 crore planned India investment",
+      "Track record of 10+ delivered landmark projects covering 10.96 million sq ft across multiple cities",
+      "Premium construction partnerships — ₹800 crore contract with TATA Projects for The Trillion signals institutional build quality"
+    ],
+    "risks_or_weaknesses": [
+      "Website has an outdated design and limited UX quality, potentially undermining the premium brand perception it seeks to project",
+      "Geographic concentration remains heavy in Gurgaon; multi-city expansion is ongoing but still early-stage in Noida and other markets",
+      "Long project completion timelines (5-7 years quoted for The Trillion) may concern buyers in a market accustomed to faster delivery"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": "https://in.linkedin.com/company/experiondevelopers",
+      "activity_level": "active",
+      "typical_content": "Project launch announcements, CEO/COO thought leadership articles in major media, industry commentary, and company milestones.",
+      "engagement_quality": "Consistent posting with media coverage cross-posts; engagement quality not fully verified but content is substantive and regular."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "semi-active",
+      "typical_content": "Resident testimonial videos from the Windchants community; lifestyle and home tour content.",
+      "engagement_quality": "Multiple video testimonials embedded on website; dedicated channel presence not confirmed but YouTube content exists."
+    }
+  },
+  "industry_trends": {
+    "segment": "ultra-luxury and premium residential real estate, Delhi-NCR / Gurgaon",
+    "key_trends": [
+      "Luxury homes (priced above ₹1.5 crore) accounted for ~32% of total residential sales in Gurugram in H1 2025, creating strong demand tailwinds for Experion's portfolio",
+      "NRI investment in Indian luxury real estate is accelerating, and Experion's Singapore parentage gives it natural credibility and channel access to this segment",
+      "Video-driven digital marketing (walkthroughs, resident testimonials, drone footage) is increasingly essential for converting premium buyers who research online before site visits",
+      "Smart home technology integration is becoming a key sales differentiator in the luxury segment, as highlighted by Experion's own COO in industry media"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": "Godrej Properties / DLF",
+    "summary": "Compared to Godrej Properties and DLF, Experion is a smaller but differentiated premium developer with stronger FDI backing and a reputation for build quality, but significantly lower brand visibility and marketing scale. While DLF and Godrej have pan-India footprints, national advertising budgets, and dominant social media presence, Experion operates in select cities with a tighter high-quality portfolio. Experion's LinkedIn-led digital strategy contrasts with competitors' multi-channel mass-market approach.",
+    "notes": [
+      "Experion's partnership with TATA Projects for The Trillion is a deliberate signal to the market about construction quality parity with top-tier developers",
+      "Experion's website and social media infrastructure lags considerably behind larger competitors, representing a gap for digital marketing investment"
+    ]
+  }
+}
+```

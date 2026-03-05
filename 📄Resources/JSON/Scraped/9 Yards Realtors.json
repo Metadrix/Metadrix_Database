@@ -1,0 +1,74 @@
+```json
+{
+  "company_name": "9YARDS Realtors Pvt. Ltd.",
+  "website": "http://9yardsrealtors.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Luxury Properties & Bespoke Interiors Portfolio",
+      "location": "DLF Phase 2, Sector 25, Gurugram, Haryana",
+      "type": "luxury residential + interior design",
+      "key_points": [
+        "9YARDS offers a combined real estate advisory and interior design service, positioning itself as a premium lifestyle brand for luxury villas and modern apartments",
+        "Authorized channel partner with a broad developer network including M3M, Birla, Mahindra Lifespaces, Krisumi, Smart World, Shapoorji, Vatika, Hero Homes, and 40+ others"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "9YARDS Realtors is a boutique premium real estate and interior solutions brand based in DLF Phase 2, Gurugram, claiming over 9 years of market presence. They are positioned in the luxury residential segment with a differentiated dual offering of property advisory and bespoke interior design services. On Justdial, the firm holds a 4.9/5 rating based on 103 reviews, indicating strong client satisfaction within its local network.",
+    "differentiators": [
+      "Unique combination of luxury real estate consultancy and bespoke interior design under one brand, uncommon among pure-play brokerages",
+      "Strong multi-developer partnership network spanning 40+ national developers including M3M, Birla, Mahindra, Smart World, and Shapoorji",
+      "High Justdial rating (4.9/5, 103 reviews) suggesting strong referral-driven reputation in Gurugram"
+    ],
+    "risks_or_weaknesses": [
+      "Website was only recently redesigned (January 2026 asset upload timestamps), suggesting limited digital maturity prior to 2026",
+      "Counter metrics on the homepage (properties sold, leased, awards) display as animated zeros, undermining credibility signals",
+      "No independently verifiable third-party press coverage or awards found; brand visibility remains primarily local and referral-driven"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Instagram link found on the website or in search results.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No LinkedIn profile linked from the website or discoverable in search.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No Facebook page linked from the website or found in search results.",
+      "engagement_quality": "Unknown; platform not referenced."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "No YouTube channel linked or discoverable for this company.",
+      "engagement_quality": "Unknown; platform not referenced."
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury residential real estate + interior design, Gurugram / Delhi-NCR",
+    "key_trends": [
+      "The convergence of real estate advisory and interior design is an emerging differentiator in the luxury segment, aligning with 9YARDS' dual-service model",
+      "Social media and digital lead generation are critical for Gurugram luxury brokerages — 9YARDS' current absence from all social platforms is a growing competitive gap",
+      "Luxury and ultra-luxury residential demand in Gurugram corridors (DLF Phases, Golf Course Road) continues to rise sharply, benefiting premium-focused boutique agencies",
+      "Video content and Instagram Reels showcasing interior transformations are a proven lead-gen format for luxury real estate + interior brands, an opportunity 9YARDS has not yet tapped"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "No specific competitor was provided. 9YARDS competes in the Gurugram boutique luxury brokerage space alongside firms like YHATAW, ValueMax Advisors, and larger channel partners like Zricks and Square Yards. Compared to these peers, 9YARDS' combined real estate and interior design offering is a genuine differentiator, but its near-zero social media and digital content presence leaves it significantly behind in online discoverability.",
+    "notes": [
+      "Competitors like Zricks have built a 2L+ YouTube subscriber base as a content-led growth engine — 9YARDS has no comparable digital asset despite a claimed 9-year operating history",
+      "The Justdial 4.9/5 rating across 103 reviews is a strong trust signal that could be amplified through Google reviews, Instagram, and LinkedIn to reach a wider audience"
+    ]
+  }
+}
+```

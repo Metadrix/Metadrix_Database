@@ -1,0 +1,81 @@
+{
+  "company_name": "Ivaan Landbase Pvt. Ltd.",
+  "website": "https://www.ivaanlandbase.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Luxury Builder Floors Portfolio",
+      "location": "DLF Phases, Sushant Lok, South City I, Gurugram",
+      "type": "luxury residential builder floors",
+      "key_points": [
+        "3BHK and 4BHK independent designer floors in Gurugram's most established premium corridors — DLF Phase 1–4, Sushant Lok, and South City I",
+        "Inventory covers both for-sale and for-lease formats; Vastu-compliant, modular kitchen, premium woodwork, 3-tier security cited as standard features"
+      ]
+    },
+    {
+      "name": "Leasing & Co-Living Portfolio",
+      "location": "Golf Course Road, MG Road, Golf Course Extension Road, Gurugram",
+      "type": "residential leasing and co-living",
+      "key_points": [
+        "Specialized leasing service targeting MNC executives and expat professionals relocating to Gurugram — a niche corporate rental segment",
+        "Co-living property solutions offered from 1,000+ sq ft; covers premium residential and office-adjacent locations"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Ivaan Landbase Pvt. Ltd. is a small, founder-led luxury real estate consultancy in Gurugram, incorporated in May 2022 under directors Sushil Kumar Singh and Supriya Singh, with the brand operational since approximately 2015. It has carved a hyper-niche positioning as a trusted personal advisor for senior MNC executives and HNI families — evidenced by testimonials from Intel, Siemens, Max Healthcare, Inshorts, and Medifydrugcare leadership. The brand competes on relationship depth, transparency, and personalized service rather than listing volume or marketing scale.",
+    "differentiators": [
+      "Strong personal brand around founder Sushil Singh with 138 Google reviews rated 'Excellent' — high trust signal verified by Trustindex, with testimonials from C-suite executives at Intel, Siemens, Max Healthcare, and Tata JV board members",
+      "Explicitly serves 'top MNC companies and their executives in Gurgaon' — a focused, high-value niche that generates repeat business and executive-level referrals",
+      "NRI property assistance explicitly highlighted in client testimonials, indicating an organized NRI service capability despite small team size"
+    ],
+    "risks_or_weaknesses": [
+      "Incorporated in 2022 as a private limited company with paid-up capital of only ₹50,000 — very small balance sheet for a company claiming 10+ years of operation (likely pre-dates the Pvt Ltd incorporation)",
+      "Team size of 1–10 people (per Crunchbase) limits capacity to handle multiple simultaneous high-value transactions or expand geographic coverage",
+      "No social media links visible on website homepage despite FAQ page mentioning Facebook, Twitter, and Instagram — inconsistent digital presence management"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": "FAQ page mentions Facebook as a contact channel but no verified page URL found.",
+      "engagement_quality": "Activity level and engagement quality not verifiable without confirmed page URL."
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "luxury residential brokerage and MNC executive leasing, Gurugram/Delhi-NCR",
+    "key_trends": [
+      "Corporate relocation leasing for MNC executives is a high-margin niche growing alongside Gurugram's expanding GCC (Global Capability Center) ecosystem — Ivaan Landbase's existing MNC clientele positions it well to benefit from this trend",
+      "Google Reviews and Trustindex ratings are increasingly the primary trust signal for HNI and expat buyers researching brokers online — Ivaan's 138-review strong profile is a compounding digital asset",
+      "LinkedIn is the dominant B2B channel for reaching senior MNC executives and NRI investors; a founder profile for Sushil Singh on LinkedIn could dramatically amplify referral reach given his existing network quality",
+      "Short-form video (Instagram Reels, YouTube Shorts) featuring luxury property walkthroughs is the fastest-growing organic lead source for boutique luxury brokers, and Ivaan Landbase currently has zero presence in this format"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "Ivaan Landbase competes in the Gurugram luxury brokerage segment against similarly sized personal-brand consultancies and against larger full-service brokerages like Manchanda Realtors and ElitePro Infra. Compared to larger peers, Ivaan Landbase's key advantage is the depth and quality of its social proof — C-suite testimonials from Intel, Siemens, and Max Healthcare carry more weight with HNI buyers than volume-based reviews. However, its near-zero digital marketing footprint means it is almost entirely referral-dependent, which limits scalability and makes it vulnerable to founder unavailability.",
+    "notes": [
+      "The gap between the claimed '10+ years of experience' and the 2022 Pvt Ltd incorporation date may reflect that the business operated informally before formalizing — this is common in boutique Indian real estate but could raise due diligence questions from institutional clients",
+      "Ivaan Landbase's strongest untapped growth lever is a LinkedIn presence for Sushil Singh, given his existing network of C-suite clients who actively use LinkedIn for professional referrals"
+    ]
+  }
+}

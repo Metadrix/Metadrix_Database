@@ -1,0 +1,101 @@
+```json
+{
+  "company_name": "PropGuys Consulting Pvt Ltd",
+  "website": "https://www.propguys.in/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Krisumi Waterfall Residences",
+      "location": "Sector 36A, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Under-construction project with apartments ranging from 1,479 to 6,569 sq.ft, priced ₹2–5.9 Cr",
+        "One of the larger and more premium listings in PropGuys' Gurgaon portfolio"
+      ]
+    },
+    {
+      "name": "Adani Samsara Vilasa",
+      "location": "Sector 63, Gurgaon",
+      "type": "luxury residential",
+      "key_points": [
+        "Under-construction 3/4 BHK apartments priced ₹1.85–3.77 Cr, featured prominently on the site",
+        "Backed by Adani Realty, a marquee developer partnership for PropGuys"
+      ]
+    },
+    {
+      "name": "M3M Atrium 57",
+      "location": "Sector 57, Gurgaon",
+      "type": "commercial",
+      "key_points": [
+        "New launch commercial project with SCO and retail shops priced ₹1.10–5.50 Cr",
+        "Reflects PropGuys' dual focus on residential and commercial investment properties"
+      ]
+    },
+    {
+      "name": "Smart World Orchard",
+      "location": "Sector 61, Gurgaon",
+      "type": "residential",
+      "key_points": [
+        "New launch 2/3 BHK apartments priced ₹1.30–1.83 Cr targeting mid-premium buyers",
+        "Broadens PropGuys' appeal beyond ultra-luxury to the premium mid-segment"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "PropGuys Consulting is a Gurgaon-headquartered real estate consultancy with a dual presence in India and Dubai, positioning itself as a zero-brokerage, client-first advisory for residential and commercial buyers. The firm serves both local homebuyers and NRI investors, with RERA certifications in Haryana and Maharashtra lending regulatory credibility. It targets the premium and luxury segment in Gurgaon, Noida, Delhi, and Dubai.",
+    "differentiators": [
+      "Explicit '0% Brokerage' value proposition, a strong differentiator in a market where brokerage fees are a common friction point",
+      "Dual India-Dubai presence with a registered office in Business Bay, Dubai, enabling access to NRI and cross-border investor clients",
+      "Dual RERA certification (Haryana + Maharashtra) adds compliance credibility compared to smaller single-state brokers"
+    ],
+    "risks_or_weaknesses": [
+      "Blog content is dated — all articles are from 2022, suggesting the content marketing strategy has been effectively abandoned",
+      "Website property listings appear limited in volume relative to larger platforms, potentially reducing organic SEO reach",
+      "No visible client case studies, transaction volumes, or verified third-party reviews beyond a handful of Google testimonials"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": "https://www.instagram.com/propguys_consulting/",
+      "activity_level": "semi-active",
+      "typical_content": "Property listings, project highlights, and real estate market updates for Gurgaon and Dubai.",
+      "engagement_quality": "Profile exists with confirmed handle; engagement level and follower count could not be verified from available data."
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/propguys/",
+      "activity_level": "semi-active",
+      "typical_content": "Company updates, property launches, and real estate advisory content.",
+      "engagement_quality": "LinkedIn presence confirmed; detailed engagement metrics not publicly accessible without login."
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/propguys.in/",
+      "activity_level": "semi-active",
+      "typical_content": "Property promotions and project announcements for Gurgaon and Dubai markets.",
+      "engagement_quality": "Page exists; engagement depth not verifiable from available data."
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/channel/UCUlz9g5mC_ogaSN6Pp3xp_g",
+      "activity_level": "dormant",
+      "typical_content": "Likely property walkthroughs or market explainer videos based on channel presence.",
+      "engagement_quality": "Channel linked on website but activity level and subscriber count could not be verified; likely low-activity given no featured content."
+    }
+  },
+  "industry_trends": {
+    "segment": "real estate consultancy, Gurgaon / Dubai / Delhi NCR",
+    "key_trends": [
+      "NRI investment in Indian luxury real estate is surging, making the India-Dubai corridor a high-value niche — directly relevant to PropGuys' positioning",
+      "Zero-brokerage and transparent fee models are gaining traction as a differentiator among millennial and digital-native property buyers",
+      "Video content (YouTube reels, project walkthroughs) is now a primary discovery channel for luxury property buyers — an underutilized area for PropGuys",
+      "LinkedIn and professional social channels are increasingly important for reaching HNI and corporate buyer segments in the NCR luxury market"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "PropGuys competes broadly with Gurgaon-based real estate advisory firms such as Square Yards, Anarock, and boutique players like Propnkey. Its '0% brokerage' pitch and Dubai office offer a meaningful differentiation, but it lacks the digital marketing scale, content depth, and brand recognition of larger aggregator platforms. The stale blog and limited social media activity suggest digital growth is an underinvested area.",
+    "notes": [
+      "Larger competitors like Square Yards have aggressive SEO content engines and wider developer tie-ups, capturing more top-of-funnel digital traffic",
+      "PropGuys' NRI-focused dual-market model (India + Dubai) is a genuinely differentiated niche that most local Gurgaon brokers do not address"
+    ]
+  }
+}
+```

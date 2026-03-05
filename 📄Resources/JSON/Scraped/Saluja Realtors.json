@@ -1,0 +1,99 @@
+{
+  "company_name": "Saluja Realtors",
+  "website": "http://www.salujarealtors.com/",
+  "recent_news": [],
+  "flagship_projects": [
+    {
+      "name": "Pre-Leased Portfolio – Punjab National Bank",
+      "location": "Gurugram",
+      "type": "pre-leased commercial investment",
+      "key_points": [
+        "850–1,700 sq ft commercial space tenanted by Punjab National Bank — a nationalized bank offering long-term income stability and excellent visibility",
+        "Positioned as a secure, passive income investment for retail investors and HNIs"
+      ]
+    },
+    {
+      "name": "Pre-Leased Portfolio – Pasona Japan",
+      "location": "Gurugram",
+      "type": "pre-leased commercial investment",
+      "key_points": [
+        "1,000 sq ft space leased to Pasona Group, Japan's second-largest staffing company listed on the Tokyo Stock Exchange — a blue-chip multinational tenant",
+        "Targeted at HNI investors seeking stable MNC-backed rental income"
+      ]
+    },
+    {
+      "name": "Pre-Leased Portfolio – Mahamaya Life Sciences",
+      "location": "Prime Gurgaon tech hub",
+      "type": "pre-leased commercial investment",
+      "key_points": [
+        "1,087 sq ft (395 + 672 sq ft) leased to Mahamaya Life Sciences, a global agro-chemical firm with operations in India, UAE, and Australia",
+        "Represents Saluja Realtors' access to mid-size MNC tenants in Gurgaon's tech/business park segment"
+      ]
+    },
+    {
+      "name": "Commercial Spaces Portfolio",
+      "location": "Gurugram commercial hubs",
+      "type": "commercial office leasing",
+      "key_points": [
+        "Manages diverse commercial spaces from 2,000 to 1,00,000 sq ft, covering bare-shell to plug-and-play formats for startups, SMEs, and large corporates",
+        "Also covers residential (apartments, floors, plots) as a secondary service alongside the core pre-leased commercial focus"
+      ]
+    }
+  ],
+  "market_position": {
+    "positioning_summary": "Saluja Realtors, founded in 2005, is a boutique commercial real estate consultancy based in DLF Phase 1, Gurugram, specializing in pre-leased investment properties and corporate office leasing. The firm is led by brothers Rajeev Saluja and Sanjiv Saluja, both with LinkedIn profiles showing 20 years of industry experience and active content sharing on commercial real estate trends. The brand is positioned around investment advisory for HNIs, retail investors, and institutions seeking stable monthly rental income from MNC-backed, bank-tenanted assets in Gurugram.",
+    "differentiators": [
+      "Clear niche specialization in pre-leased commercial properties with MNC and bank tenants — rare among Gurugram boutique brokerages that typically mix residential and commercial without investment-grade focus",
+      "Dual-founder LinkedIn presence (Rajeev Saluja: 500+ connections; Sanjiv Saluja: active posts on REIT, office market data, investment trends) providing credibility signals for HNI and institutional investors who research online",
+      "Listed on ZoomInfo as a recognized commercial real estate advisory firm, giving it some international B2B visibility beyond domestic portals"
+    ],
+    "risks_or_weaknesses": [
+      "Website is built on Wix with placeholder-style image carousels and minimal SEO content — significantly below the quality threshold expected by the HNI and institutional investors the brand targets",
+      "No dedicated social media channels (Instagram, Facebook, YouTube) found; digital presence is primarily limited to the founders' personal LinkedIn profiles rather than a brand account",
+      "A 'Saluja Properties' entity with a poor 1.0 Justdial rating exists in Gurgaon Sector 27 — while likely unrelated, the name similarity could create brand confusion and reputation risk in local search results"
+    ]
+  },
+  "social_media": {
+    "instagram": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/rajeev-saluja-022b4219/",
+      "activity_level": "semi-active",
+      "typical_content": "Rajeev Saluja and Sanjiv Saluja post market reports, office leasing statistics, REIT commentary, and investment insights on their personal LinkedIn profiles.",
+      "engagement_quality": "Rajeev Saluja has 500+ connections; posts include industry data and market commentary suggesting an engaged professional network rather than broad public reach."
+    },
+    "facebook": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    },
+    "youtube": {
+      "url": null,
+      "activity_level": "not_found",
+      "typical_content": null,
+      "engagement_quality": null
+    }
+  },
+  "industry_trends": {
+    "segment": "pre-leased commercial property investment and corporate office leasing, Gurugram/Delhi-NCR",
+    "key_trends": [
+      "Pre-leased commercial properties (bank and MNC-tenanted) with 5–8% yield are seeing rising HNI demand as a stable alternative to equity and residential investment — Saluja Realtors' core offering directly aligns with this trend",
+      "LinkedIn is the primary B2B channel for reaching HNI investors, corporate CFOs, and institutional buyers researching pre-leased asset opportunities — the founders are already on LinkedIn but a branded company page would amplify reach significantly",
+      "Gurgaon accounts for approximately 80% of NCR office leasing demand (per industry reports shared by Rajeev Saluja himself), creating strong tailwinds for commercial brokerage specialists in the micro-market",
+      "YouTube explainer videos on 'how pre-leased property investments work' are becoming a key lead generation format for commercial investment advisories targeting retail HNI investors new to this asset class"
+    ]
+  },
+  "comparison_to_competitor": {
+    "competitor_name": null,
+    "summary": "Saluja Realtors competes directly with Urban Lease (also a Gurugram commercial specialist with a cleaner website and more transparent listings), and against the pre-leased divisions of larger brokerages like Manchanda Realtors and independent investment advisories like Shiva Capital Ventures (Sanjiv Saluja's parallel entity). Compared to Urban Lease, Saluja has a stronger founder LinkedIn presence and more named tenant credentials (PNB, Pasona Japan), but a weaker website and no brand-level social media. Compared to Shiva Capital Ventures — which also markets corporate office spaces and appears on Sanjiv Saluja's LinkedIn — there is potential brand fragmentation between the two entities that could dilute Saluja Realtors' positioning.",
+    "notes": [
+      "Sanjiv Saluja's LinkedIn shows dual affiliation with both Saluja Realtors and Shiva Capital Ventures — this dual-brand positioning may confuse HNI clients who research the individuals before engaging",
+      "The founders' active LinkedIn content strategy (office leasing data, REIT commentary) is a significant organic asset that would convert much more effectively if supported by a branded company LinkedIn page with consistent posting"
+    ]
+  }
+}
